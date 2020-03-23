@@ -16,7 +16,7 @@ permalink: /index.html
 
 * [positions/academia](stream/203258-positions/academia/index.html) (15 topics)
 
-* [covid-19](stream/226112-covid-19/index.html) (13 topics)
+* [covid-19](stream/226112-covid-19/index.html) (14 topics)
 
 * [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (6 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Mar 23 2020 at 21:41 UTC</p>
+<hr><p>Last updated: Mar 23 2020 at 21:51 UTC</p>

@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Scheduling and resource management](topic/Scheduling.20and.20resource.20management.html) (1 message, latest: Mar 23 2020 at 21:44)
 * [WHO global trial on coronavirus treatment](topic/WHO.20global.20trial.20on.20coronavirus.20treatment.html) (1 message, latest: Mar 23 2020 at 15:16)
 * [CLAIRE and NECSI](topic/CLAIRE.20and.20NECSI.html) (1 message, latest: Mar 23 2020 at 08:18)
 * [CLAIRE COVID-19 initiative](topic/CLAIRE.20COVID-19.20initiative.html) (1 message, latest: Mar 22 2020 at 16:43)
@@ -23,4 +24,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Mar 23 2020 at 21:41 UTC</p>
+<hr><p>Last updated: Mar 23 2020 at 21:51 UTC</p>
