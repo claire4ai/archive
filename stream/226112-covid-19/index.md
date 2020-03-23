@@ -1,0 +1,26 @@
+---
+layout: archive
+title: Zulip Chat Archive
+permalink: /stream/226112-covid-19/index.html
+---
+
+## Stream: [covid-19](https://claire4ai.github.io/archive/stream/226112-covid-19/index.html)
+---
+
+### Topics:
+
+* [WHO global trial on coronavirus treatment](topic/WHO.20global.20trial.20on.20coronavirus.20treatment.html) (1 message, latest: Mar 23 2020 at 15:16)
+* [CLAIRE and NECSI](topic/CLAIRE.20and.20NECSI.html) (1 message, latest: Mar 23 2020 at 08:18)
+* [CLAIRE COVID-19 initiative](topic/CLAIRE.20COVID-19.20initiative.html) (1 message, latest: Mar 22 2020 at 16:43)
+* [Active tracing call center looking for EU government cont...](topic/Active.20tracing.20call.20center.20looking.20for.20EU.20government.20cont.2E.2E.2E.html) (1 message, latest: Mar 22 2020 at 14:13)
+* [Online jounal club on Coronavirus models](topic/Online.20jounal.20club.20on.20Coronavirus.20models.html) (1 message, latest: Mar 21 2020 at 18:57)
+* [OpenCovid19 Initiative](topic/OpenCovid19.20Initiative.html) (1 message, latest: Mar 21 2020 at 11:43)
+* [IC intensive care data and ML](topic/IC.20intensive.20care.20data.20and.20ML.html) (1 message, latest: Mar 21 2020 at 10:40)
+* [Coronavirus: The Hammer and the Dance](topic/Coronavirus.3A.20The.20Hammer.20and.20the.20Dance.html) (1 message, latest: Mar 21 2020 at 10:14)
+* [Another interesting article](topic/Another.20interesting.20article.html) (1 message, latest: Mar 18 2020 at 15:08)
+* [Time to unleash the big data power to protect EU health](topic/Time.20to.20unleash.20the.20big.20data.20power.20to.20protect.20EU.20health.html) (4 messages, latest: Mar 17 2020 at 11:13)
+* [Kaggle launches open COVID19 challenge](topic/Kaggle.20launches.20open.20COVID19.20challenge.html) (1 message, latest: Mar 16 2020 at 20:00)
+* [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
+* [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
+
+<hr><p>Last updated: Mar 23 2020 at 20:21 UTC</p>

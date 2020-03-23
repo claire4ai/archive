@@ -1,5 +1,329 @@
 {
     "streams": {
+        "CLAIRE news": {
+            "id": 201957,
+            "latest_id": 191404619,
+            "topic_data": {
+                "(no topic)": {
+                    "latest_date": 1579697938,
+                    "size": 1
+                },
+                "20M for European Edge AI platform": {
+                    "latest_date": 1575026715,
+                    "size": 1
+                },
+                "CLAIRE 18 months in": {
+                    "latest_date": 1576831729,
+                    "size": 1
+                },
+                "CLAIRE at Next100 Symposium": {
+                    "latest_date": 1574336374,
+                    "size": 2
+                },
+                "CLAIRE initiative for supporting the public sector in dea...": {
+                    "latest_date": 1584895425,
+                    "size": 2
+                },
+                "CLAIRE-endorsed survey on best practices in machine learning": {
+                    "latest_date": 1581689255,
+                    "size": 1
+                },
+                "Community meeting at IJCAI 2019": {
+                    "latest_date": 1565265822,
+                    "size": 2
+                },
+                "EU News": {
+                    "latest_date": 1582809183,
+                    "size": 8
+                },
+                "German-French collaboration": {
+                    "latest_date": 1579775887,
+                    "size": 1
+                },
+                "ICT-48 RIA on Foundations of Trustworthy AI": {
+                    "latest_date": 1570792169,
+                    "size": 3
+                },
+                "ICT-48 meeting at IJCAI 2019": {
+                    "latest_date": 1565666983,
+                    "size": 1
+                },
+                "ICT-48 results": {
+                    "latest_date": 1584787416,
+                    "size": 8
+                },
+                "LinkedIN": {
+                    "latest_date": 1573665283,
+                    "size": 1
+                },
+                "Major success in NL": {
+                    "latest_date": 1568129180,
+                    "size": 4
+                },
+                "Maker Faire Rome": {
+                    "latest_date": 1571650659,
+                    "size": 1
+                },
+                "NL AI research agenda and strategic action plan": {
+                    "latest_date": 1575738646,
+                    "size": 2
+                },
+                "Official opening of CLAIRE HQ in The Hague (NL)": {
+                    "latest_date": 1576573182,
+                    "size": 10
+                },
+                "Official opening of CLAIRE office in Brussels": {
+                    "latest_date": 1583947998,
+                    "size": 1
+                },
+                "Support from Finland!": {
+                    "latest_date": 1567185911,
+                    "size": 1
+                },
+                "Support from Greece!": {
+                    "latest_date": 1568391069,
+                    "size": 1
+                },
+                "Support from Netherlands!": {
+                    "latest_date": 1570537829,
+                    "size": 1
+                },
+                "Ten recommendations for a co-programmed European partnership": {
+                    "latest_date": 1572347304,
+                    "size": 1
+                },
+                "Videos": {
+                    "latest_date": 1583401377,
+                    "size": 1
+                },
+                "World News": {
+                    "latest_date": 1583836784,
+                    "size": 1
+                },
+                "hello": {
+                    "latest_date": 1564161458,
+                    "size": 4
+                },
+                "new streams": {
+                    "latest_date": 1584703969,
+                    "size": 1
+                }
+            }
+        },
+        "CLAIRE/CZ": {
+            "id": 203399,
+            "latest_id": 190415949,
+            "topic_data": {
+                "AI Awards 2019": {
+                    "latest_date": 1580199052,
+                    "size": 1
+                },
+                "Events": {
+                    "latest_date": 1580978648,
+                    "size": 2
+                },
+                "Hello from CLAIRE Prague Office": {
+                    "latest_date": 1579774775,
+                    "size": 1
+                },
+                "News": {
+                    "latest_date": 1582210573,
+                    "size": 2
+                },
+                "covid-19": {
+                    "latest_date": 1584032717,
+                    "size": 2
+                },
+                "hello": {
+                    "latest_date": 1562570805,
+                    "size": 1
+                }
+            }
+        },
+        "CLAIRE/NL": {
+            "id": 203255,
+            "latest_id": 189133949,
+            "topic_data": {
+                "AI factsheet": {
+                    "latest_date": 1580302268,
+                    "size": 1
+                },
+                "Data4lifesciences to Health-RI symposium": {
+                    "latest_date": 1581591817,
+                    "size": 1
+                },
+                "Funding opportunity": {
+                    "latest_date": 1563943334,
+                    "size": 1
+                },
+                "Leiden University vacancies": {
+                    "latest_date": 1570791846,
+                    "size": 2
+                },
+                "Nederlandse Data Science & Kunstmatige Intelligentie Prijzen": {
+                    "latest_date": 1582736655,
+                    "size": 1
+                }
+            }
+        },
+        "covid-19": {
+            "id": 226112,
+            "latest_id": 191487784,
+            "topic_data": {
+                "Active tracing call center looking for EU government cont...": {
+                    "latest_date": 1584886409,
+                    "size": 1
+                },
+                "Another interesting article": {
+                    "latest_date": 1584544137,
+                    "size": 1
+                },
+                "CLAIRE COVID-19 initiative": {
+                    "latest_date": 1584895398,
+                    "size": 1
+                },
+                "CLAIRE and NECSI": {
+                    "latest_date": 1584951520,
+                    "size": 1
+                },
+                "Can AI help with the Covid-19 crisis?": {
+                    "latest_date": 1584052704,
+                    "size": 1
+                },
+                "Coronavirus: The Hammer and the Dance": {
+                    "latest_date": 1584785658,
+                    "size": 1
+                },
+                "IC intensive care data and ML": {
+                    "latest_date": 1584787217,
+                    "size": 1
+                },
+                "Kaggle launches open COVID19 challenge": {
+                    "latest_date": 1584388804,
+                    "size": 1
+                },
+                "Online jounal club on Coronavirus models": {
+                    "latest_date": 1584817026,
+                    "size": 1
+                },
+                "OpenCovid19 Initiative": {
+                    "latest_date": 1584791010,
+                    "size": 1
+                },
+                "Time to unleash the big data power to protect EU health": {
+                    "latest_date": 1584443629,
+                    "size": 4
+                },
+                "WHO global trial on coronavirus treatment": {
+                    "latest_date": 1584976609,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1583948028,
+                    "size": 1
+                }
+            }
+        },
+        "ethics": {
+            "id": 228366,
+            "latest_id": 191229930,
+            "topic_data": {
+                "stream events": {
+                    "latest_date": 1584703969,
+                    "size": 1
+                }
+            }
+        },
+        "events": {
+            "id": 201207,
+            "latest_id": 190372173,
+            "topic_data": {
+                "(no topic)": {
+                    "latest_date": 1565265244,
+                    "size": 1
+                },
+                "AI and global challenges: A discussion w/ J Schmidhuber": {
+                    "latest_date": 1584007016,
+                    "size": 1
+                },
+                "AI for Weather and Climate Extremes Workshop - Sweden": {
+                    "latest_date": 1570181826,
+                    "size": 2
+                },
+                "CLAIRE community meeting at IJCAI 2019": {
+                    "latest_date": 1565265948,
+                    "size": 1
+                },
+                "CLAIRE/ESA Theme Development Workshop on SatCom": {
+                    "latest_date": 1582196551,
+                    "size": 2
+                },
+                "CLAIRE@ECAI2020: workshop proposals": {
+                    "latest_date": 1573996850,
+                    "size": 2
+                },
+                "Call for Papers": {
+                    "latest_date": 1579542292,
+                    "size": 3
+                },
+                "Call-for-Tutorials": {
+                    "latest_date": 1580667364,
+                    "size": 3
+                },
+                "CfP: ANNPR 2020, Sept 2nd-4th @ ZHAW Winterthur": {
+                    "latest_date": 1580734828,
+                    "size": 1
+                },
+                "CfP: Artificial Intelligence and Theorem Proving 2020": {
+                    "latest_date": 1571162400,
+                    "size": 1
+                },
+                "EC infoday (Robotics and AI calls)": {
+                    "latest_date": 1573052616,
+                    "size": 2
+                },
+                "ECAI  Workshops": {
+                    "latest_date": 1584002395,
+                    "size": 4
+                },
+                "ESA's Collision Avoidance Challenge.": {
+                    "latest_date": 1571405618,
+                    "size": 1
+                },
+                "First VIVA European Summer School on Artificial Intelligence": {
+                    "latest_date": 1583157376,
+                    "size": 2
+                },
+                "Free Entrepreneurship Workshop for Researchers": {
+                    "latest_date": 1580375877,
+                    "size": 1
+                },
+                "German-French collaboration": {
+                    "latest_date": 1579259808,
+                    "size": 1
+                },
+                "ITU Roundtable Global Initiative on AI & Data Commons": {
+                    "latest_date": 1580380489,
+                    "size": 1
+                },
+                "Institute 2020 / Artificial and Human Intelligence": {
+                    "latest_date": 1581111241,
+                    "size": 1
+                },
+                "Invitation to AI for Atmospheric Water Cycling Workshop": {
+                    "latest_date": 1564565215,
+                    "size": 1
+                },
+                "Invitation to ICAIH 2019 - Milan (Italy), 13-14 Nov 2019": {
+                    "latest_date": 1570263594,
+                    "size": 1
+                },
+                "Mentoring and Communication for Starting Researchers @ECAI20": {
+                    "latest_date": 1583253368,
+                    "size": 1
+                }
+            }
+        },
         "general": {
             "id": 201199,
             "latest_id": 191458638,
@@ -149,7 +473,83 @@
                     "size": 8
                 }
             }
+        },
+        "positions/academia": {
+            "id": 203258,
+            "latest_id": 189781034,
+            "topic_data": {
+                "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
+                    "latest_date": 1577137262,
+                    "size": 1
+                },
+                "11 Early Stage Research PhD Positions available for NL4XAI p": {
+                    "latest_date": 1579508442,
+                    "size": 1
+                },
+                "15 PhD Positions  ITN: NoBIAS - AI without BIAS": {
+                    "latest_date": 1581528389,
+                    "size": 1
+                },
+                "HCI / AI / PostDoc": {
+                    "latest_date": 1568371559,
+                    "size": 1
+                },
+                "Idiap/EPFL (Switzerland): 1 Postdoc position in ML": {
+                    "latest_date": 1580223594,
+                    "size": 1
+                },
+                "Open Position @ Frankfurt Big Data Lab in AI and Ethics": {
+                    "latest_date": 1583407316,
+                    "size": 1
+                },
+                "PhD position / XAI / ILP": {
+                    "latest_date": 1568450245,
+                    "size": 1
+                },
+                "PhD position at Public University of Navarra": {
+                    "latest_date": 1574088842,
+                    "size": 1
+                },
+                "PhD position in Self Aware AI Systems": {
+                    "latest_date": 1569939671,
+                    "size": 1
+                },
+                "Positions at CITIUS (Santiago de Compostela, Spain)": {
+                    "latest_date": 1567498528,
+                    "size": 1
+                },
+                "Positions at Leiden University": {
+                    "latest_date": 1570792005,
+                    "size": 1
+                },
+                "Postdoc Linköping University Sweden": {
+                    "latest_date": 1576767133,
+                    "size": 1
+                },
+                "Postdoc Opportunity at CiTIUS -Santiago de Compostela, Spain": {
+                    "latest_date": 1576173508,
+                    "size": 1
+                },
+                "Research Fellowship at ESA": {
+                    "latest_date": 1563367370,
+                    "size": 1
+                },
+                "Tenure-track possitions at CIIRC CTU": {
+                    "latest_date": 1564565534,
+                    "size": 1
+                }
+            }
+        },
+        "random": {
+            "id": 202125,
+            "latest_id": 168662435,
+            "topic_data": {
+                "hello": {
+                    "latest_date": 1561103193,
+                    "size": 1
+                }
+            }
         }
     },
-    "time": 1584994306.987696
+    "time": 1584994904.3020613
 }
