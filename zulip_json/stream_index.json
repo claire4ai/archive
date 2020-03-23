@@ -1,0 +1,155 @@
+{
+    "streams": {
+        "general": {
+            "id": 201199,
+            "latest_id": 191458638,
+            "topic_data": {
+                "(no topic)": {
+                    "latest_date": 1568104311,
+                    "size": 2
+                },
+                "AI Factsheets": {
+                    "latest_date": 1582209668,
+                    "size": 2
+                },
+                "AI Papers": {
+                    "latest_date": 1584026943,
+                    "size": 3
+                },
+                "AI and Intellectual property policy": {
+                    "latest_date": 1582726568,
+                    "size": 1
+                },
+                "AI call for submissions": {
+                    "latest_date": 1581179780,
+                    "size": 8
+                },
+                "AI for Weather and Climate Extremes Workshop - Sweden": {
+                    "latest_date": 1570184707,
+                    "size": 2
+                },
+                "AI in Health Care": {
+                    "latest_date": 1580220882,
+                    "size": 2
+                },
+                "Algorithmic Fairness": {
+                    "latest_date": 1580923954,
+                    "size": 1
+                },
+                "Books on AI": {
+                    "latest_date": 1583157216,
+                    "size": 1
+                },
+                "CLAIRE Compute Cluster?": {
+                    "latest_date": 1578572801,
+                    "size": 9
+                },
+                "CLAIRE/International": {
+                    "latest_date": 1570793379,
+                    "size": 25
+                },
+                "CLAIRE/PT": {
+                    "latest_date": 1563129739,
+                    "size": 1
+                },
+                "Collaboration on FABRIC": {
+                    "latest_date": 1571041337,
+                    "size": 2
+                },
+                "EC news": {
+                    "latest_date": 1581006440,
+                    "size": 1
+                },
+                "Faculty positions in NUI Galway, Ireland": {
+                    "latest_date": 1582201410,
+                    "size": 1
+                },
+                "Funding": {
+                    "latest_date": 1572859138,
+                    "size": 2
+                },
+                "ICT-48-2020": {
+                    "latest_date": 1573414297,
+                    "size": 2
+                },
+                "IEEE Call for participation: Trustworthy Intelligent Systems": {
+                    "latest_date": 1582726954,
+                    "size": 1
+                },
+                "ITU Roundtable Global Initiative on AI & Data Commons": {
+                    "latest_date": 1580373835,
+                    "size": 1
+                },
+                "Launching of the OECD policy observatory on AI": {
+                    "latest_date": 1582794672,
+                    "size": 1
+                },
+                "Lecture Series AI4Health starts this Tuesday, 3 March, 16...": {
+                    "latest_date": 1582797877,
+                    "size": 1
+                },
+                "Machine Learning & EU Data Sharing Practices": {
+                    "latest_date": 1584823529,
+                    "size": 1
+                },
+                "NeurIPs": {
+                    "latest_date": 1568031230,
+                    "size": 3
+                },
+                "PhD Positions in AI Bias": {
+                    "latest_date": 1581607986,
+                    "size": 1
+                },
+                "Post-doctoral opportunity @ ESA to do research  on AI": {
+                    "latest_date": 1572342099,
+                    "size": 1
+                },
+                "Public Private Sector Partnerships": {
+                    "latest_date": 1573646134,
+                    "size": 3
+                },
+                "SIG space": {
+                    "latest_date": 1580934757,
+                    "size": 1
+                },
+                "Seed funding for long-term AGI project": {
+                    "latest_date": 1583089118,
+                    "size": 1
+                },
+                "Stream CLAIRE/FR": {
+                    "latest_date": 1574027050,
+                    "size": 9
+                },
+                "User name template": {
+                    "latest_date": 1567443213,
+                    "size": 5
+                },
+                "Working in AI company": {
+                    "latest_date": 1583156880,
+                    "size": 1
+                },
+                "new covid-19 stream": {
+                    "latest_date": 1584961879,
+                    "size": 14
+                },
+                "post-doc contract": {
+                    "latest_date": 1572433918,
+                    "size": 4
+                },
+                "post-doc vacancy": {
+                    "latest_date": 1571235261,
+                    "size": 1
+                },
+                "special issues": {
+                    "latest_date": 1582017784,
+                    "size": 2
+                },
+                "welcome": {
+                    "latest_date": 1563176157,
+                    "size": 8
+                }
+            }
+        }
+    },
+    "time": 1584993769.3481486
+}
