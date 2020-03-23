@@ -1,17 +1,13 @@
 included:
 - general
-#- 'CLAIRE news'
-#- 'CLAIRE/CZ'
-#- 'CLAIRE/NL'
-#- 'covid-19'
-#- ethics
-#- events
-#- 'positions/academia'
-#- random
+- CLAIRE news
+- CLAIRE/CZ
+- CLAIRE/NL
+- covid-19
+- ethics
+- events
+- positions/academia
+- random
 
 excluded:
-#- 'extended core team'
-#- 'ICT-48 CSA nucleus'
-#- 'ICT-48 RIA nucleus'
-#- industry
-#- research
+
