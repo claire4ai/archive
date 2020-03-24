@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 191606906,
+            "latest_id": 191637012,
             "topic_data": {
                 "Active tracing call center looking for EU government cont...": {
                     "latest_date": 1584886409,
@@ -217,6 +217,10 @@
                 "Time to unleash the big data power to protect EU health": {
                     "latest_date": 1584443629,
                     "size": 4
+                },
+                "Update on the activities of the CLAIRE COVID19 task force": {
+                    "latest_date": 1585067427,
+                    "size": 1
                 },
                 "WHO global trial on coronavirus treatment": {
                     "latest_date": 1584976609,
@@ -555,5 +559,5 @@
             }
         }
     },
-    "time": 1585066907.804147
+    "time": 1585067525.780342
 }
