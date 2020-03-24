@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 191540889,
+            "latest_id": 191606906,
             "topic_data": {
                 "Active tracing call center looking for EU government cont...": {
                     "latest_date": 1584886409,
@@ -211,8 +211,8 @@
                     "size": 1
                 },
                 "Scheduling and resource management": {
-                    "latest_date": 1584999857,
-                    "size": 1
+                    "latest_date": 1585055677,
+                    "size": 2
                 },
                 "Time to unleash the big data power to protect EU health": {
                     "latest_date": 1584443629,
@@ -555,5 +555,5 @@
             }
         }
     },
-    "time": 1585055530.8774214
+    "time": 1585056124.690697
 }
