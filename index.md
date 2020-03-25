@@ -22,8 +22,8 @@ permalink: /index.html
 
 * [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (5 topics)
 
-* [ethics](stream/228366-ethics/index.html) (1 topic)
+* [ethics](stream/228366-ethics/index.html) (2 topics)
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Mar 25 2020 at 10:21 UTC</p>
+<hr><p>Last updated: Mar 25 2020 at 10:32 UTC</p>
