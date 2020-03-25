@@ -14,7 +14,7 @@ permalink: /index.html
 
 * [events](stream/201207-events/index.html) (21 topics)
 
-* [covid-19](stream/226112-covid-19/index.html) (15 topics)
+* [covid-19](stream/226112-covid-19/index.html) (16 topics)
 
 * [positions/academia](stream/203258-positions/academia/index.html) (15 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Mar 25 2020 at 16:02 UTC</p>
+<hr><p>Last updated: Mar 25 2020 at 16:11 UTC</p>

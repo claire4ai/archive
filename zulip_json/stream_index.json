@@ -168,8 +168,12 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 191637012,
+            "latest_id": 191770803,
             "topic_data": {
+                "#CodeVsCOVID19 Online Hackathon": {
+                    "latest_date": 1585152599,
+                    "size": 1
+                },
                 "Active tracing call center looking for EU government cont...": {
                     "latest_date": 1584886409,
                     "size": 1
@@ -563,5 +567,5 @@
             }
         }
     },
-    "time": 1585152155.8310905
+    "time": 1585152710.2304077
 }
