@@ -242,11 +242,11 @@
         },
         "ethics": {
             "id": 228366,
-            "latest_id": 191724902,
+            "latest_id": 191901868,
             "topic_data": {
                 "Movement tracking apps": {
-                    "latest_date": 1585132010,
-                    "size": 1
+                    "latest_date": 1585236734,
+                    "size": 2
                 },
                 "stream events": {
                     "latest_date": 1584703969,
@@ -571,5 +571,5 @@
             }
         }
     },
-    "time": 1585236726.984954
+    "time": 1585237330.1977417
 }
