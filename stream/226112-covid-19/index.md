@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Nature Medicine Comment: On the use of data & Covid-19](topic/Nature.20Medicine.20Comment.3A.20On.20the.20use.20of.20data.20.26.20Covid-19.html) (1 message, latest: Mar 28 2020 at 13:29)
 * [CIIRC 3D Printed respirator/halfmask](topic/CIIRC.203D.20Printed.20respirator.2Fhalfmask.html) (1 message, latest: Mar 27 2020 at 14:37)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (2 messages, latest: Mar 27 2020 at 09:45)
 * [Pubmed expands access to coronavirus literature](topic/Pubmed.20expands.20access.20to.20coronavirus.20literature.html) (1 message, latest: Mar 26 2020 at 15:21)
@@ -29,4 +30,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Mar 28 2020 at 13:21 UTC</p>
+<hr><p>Last updated: Mar 28 2020 at 13:31 UTC</p>

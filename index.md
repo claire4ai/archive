@@ -14,7 +14,7 @@ permalink: /index.html
 
 * [events](stream/201207-events/index.html) (21 topics)
 
-* [covid-19](stream/226112-covid-19/index.html) (19 topics)
+* [covid-19](stream/226112-covid-19/index.html) (20 topics)
 
 * [positions/academia](stream/203258-positions/academia/index.html) (15 topics)
 
@@ -22,8 +22,8 @@ permalink: /index.html
 
 * [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (5 topics)
 
-* [ethics](stream/228366-ethics/index.html) (2 topics)
+* [ethics](stream/228366-ethics/index.html) (3 topics)
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Mar 28 2020 at 13:21 UTC</p>
+<hr><p>Last updated: Mar 28 2020 at 13:31 UTC</p>
