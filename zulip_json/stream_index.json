@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 191404619,
+            "latest_id": 192228060,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1579697938,
@@ -21,8 +21,8 @@
                     "size": 2
                 },
                 "CLAIRE initiative for supporting the public sector in dea...": {
-                    "latest_date": 1584895425,
-                    "size": 2
+                    "latest_date": 1585558877,
+                    "size": 3
                 },
                 "CLAIRE-endorsed survey on best practices in machine learning": {
                     "latest_date": 1581689255,
@@ -591,5 +591,5 @@
             }
         }
     },
-    "time": 1585558311.1929817
+    "time": 1585558951.134989
 }
