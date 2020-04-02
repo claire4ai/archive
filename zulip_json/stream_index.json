@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 192708421,
+            "latest_id": 192709499,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -211,8 +211,8 @@
                     "size": 1
                 },
                 "Covid-19 and digital surveillance": {
-                    "latest_date": 1585836479,
-                    "size": 1
+                    "latest_date": 1585853416,
+                    "size": 2
                 },
                 "Free access to Standards related to Covid-19": {
                     "latest_date": 1585852805,
@@ -611,5 +611,5 @@
             }
         }
     },
-    "time": 1585852919.67547
+    "time": 1585853514.0622132
 }
