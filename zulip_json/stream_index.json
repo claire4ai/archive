@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 192669872,
+            "latest_id": 192708421,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -198,6 +198,10 @@
                     "latest_date": 1584951520,
                     "size": 1
                 },
+                "Calls for collaboration": {
+                    "latest_date": 1585852402,
+                    "size": 1
+                },
                 "Can AI help with the Covid-19 crisis?": {
                     "latest_date": 1584052704,
                     "size": 1
@@ -208,6 +212,10 @@
                 },
                 "Covid-19 and digital surveillance": {
                     "latest_date": 1585836479,
+                    "size": 1
+                },
+                "Free access to Standards related to Covid-19": {
+                    "latest_date": 1585852805,
                     "size": 1
                 },
                 "IC intensive care data and ML": {
@@ -227,8 +235,8 @@
                     "size": 1
                 },
                 "Online talks and webinars": {
-                    "latest_date": 1585814925,
-                    "size": 5
+                    "latest_date": 1585852581,
+                    "size": 6
                 },
                 "OpenCovid19 Initiative": {
                     "latest_date": 1584791010,
@@ -603,5 +611,5 @@
             }
         }
     },
-    "time": 1585852314.2013175
+    "time": 1585852919.67547
 }
