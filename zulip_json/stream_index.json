@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 192818600,
+            "latest_id": 192819478,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -263,8 +263,8 @@
                     "size": 4
                 },
                 "Update on the activities of the CLAIRE COVID19 task force": {
-                    "latest_date": 1585926615,
-                    "size": 4
+                    "latest_date": 1585926960,
+                    "size": 5
                 },
                 "WHO global trial on coronavirus treatment": {
                     "latest_date": 1584976609,
@@ -611,5 +611,5 @@
             }
         }
     },
-    "time": 1585926718.6669853
+    "time": 1585927325.3711848
 }
