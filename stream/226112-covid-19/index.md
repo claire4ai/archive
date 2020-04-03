@@ -9,12 +9,12 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Update on the activities of the CLAIRE COVID19 task force](topic/Update.20on.20the.20activities.20of.20the.20CLAIRE.20COVID19.20task.20force.html) (4 messages, latest: Apr 03 2020 at 15:10)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (7 messages, latest: Apr 02 2020 at 19:21)
 * [Covid-19 and digital surveillance](topic/Covid-19.20and.20digital.20surveillance.html) (2 messages, latest: Apr 02 2020 at 18:50)
 * [Free access to Standards related to Covid-19](topic/Free.20access.20to.20Standards.20related.20to.20Covid-19.html) (1 message, latest: Apr 02 2020 at 18:40)
 * [Calls for collaboration](topic/Calls.20for.20collaboration.html) (1 message, latest: Apr 02 2020 at 18:33)
 * [#CodeVsCOVID19 Online Hackathon](topic/.23CodeVsCOVID19.20Online.20Hackathon.html) (5 messages, latest: Apr 01 2020 at 06:48)
-* [Update on the activities of the CLAIRE COVID19 task force](topic/Update.20on.20the.20activities.20of.20the.20CLAIRE.20COVID19.20task.20force.html) (3 messages, latest: Mar 31 2020 at 17:16)
 * [Swiss government  creates a  "National Taskforce COVID-19"](topic/Swiss.20government.20.20creates.20a.20.20.22National.20Taskforce.20COVID-19.22.html) (1 message, latest: Mar 31 2020 at 09:54)
 * [Publications](topic/Publications.html) (1 message, latest: Mar 31 2020 at 09:27)
 * [CIIRC 3D Printed respirator/halfmask](topic/CIIRC.203D.20Printed.20respirator.2Fhalfmask.html) (2 messages, latest: Mar 30 2020 at 09:35)
@@ -36,4 +36,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Apr 03 2020 at 15:02 UTC</p>
+<hr><p>Last updated: Apr 03 2020 at 15:11 UTC</p>
