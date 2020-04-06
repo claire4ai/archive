@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 192819478,
+            "latest_id": 193099578,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -196,6 +196,10 @@
                 },
                 "CLAIRE and NECSI": {
                     "latest_date": 1584951520,
+                    "size": 1
+                },
+                "CT scan": {
+                    "latest_date": 1586206066,
                     "size": 1
                 },
                 "Calls for collaboration": {
@@ -268,6 +272,10 @@
                 },
                 "WHO global trial on coronavirus treatment": {
                     "latest_date": 1584976609,
+                    "size": 1
+                },
+                "news": {
+                    "latest_date": 1586205783,
                     "size": 1
                 },
                 "stream events": {
@@ -615,5 +623,5 @@
             }
         }
     },
-    "time": 1586205731.6341808
+    "time": 1586206326.8120081
 }
