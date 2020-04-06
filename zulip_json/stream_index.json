@@ -536,7 +536,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 189781034,
+            "latest_id": 193035543,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -590,6 +590,10 @@
                     "latest_date": 1576173508,
                     "size": 1
                 },
+                "Postdoc and professorship all levels @ TU Eindhoven": {
+                    "latest_date": 1586177214,
+                    "size": 1
+                },
                 "Research Fellowship at ESA": {
                     "latest_date": 1563367370,
                     "size": 1
@@ -611,5 +615,5 @@
             }
         }
     },
-    "time": 1586176927.846503
+    "time": 1586177534.0377154
 }
