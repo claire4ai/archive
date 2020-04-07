@@ -304,7 +304,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 190372173,
+            "latest_id": 193197318,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -317,6 +317,10 @@
                 "AI for Weather and Climate Extremes Workshop - Sweden": {
                     "latest_date": 1570181826,
                     "size": 2
+                },
+                "Applied Artificial Intelligence Conference": {
+                    "latest_date": 1586270377,
+                    "size": 1
                 },
                 "CLAIRE community meeting at IJCAI 2019": {
                     "latest_date": 1565265948,
@@ -627,5 +631,5 @@
             }
         }
     },
-    "time": 1586269908.7141805
+    "time": 1586270515.2706718
 }
