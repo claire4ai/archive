@@ -9,10 +9,10 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [CLAIRE COVID-19 website](topic/CLAIRE.20COVID-19.20website.html) (2 messages, latest: Apr 10 2020 at 08:22)
 * [news](topic/news.html) (3 messages, latest: Apr 09 2020 at 16:02)
 * [CIIRC 3D Printed respirator/halfmask](topic/CIIRC.203D.20Printed.20respirator.2Fhalfmask.html) (3 messages, latest: Apr 09 2020 at 11:21)
 * [Covid-19 and digital surveillance](topic/Covid-19.20and.20digital.20surveillance.html) (3 messages, latest: Apr 08 2020 at 14:20)
-* [CLAIRE COVID-19 website](topic/CLAIRE.20COVID-19.20website.html) (1 message, latest: Apr 08 2020 at 12:39)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (8 messages, latest: Apr 07 2020 at 06:00)
 * [CT scan](topic/CT.20scan.html) (1 message, latest: Apr 06 2020 at 20:47)
 * [Update on the activities of the CLAIRE COVID19 task force](topic/Update.20on.20the.20activities.20of.20the.20CLAIRE.20COVID19.20task.20force.html) (5 messages, latest: Apr 03 2020 at 15:16)
@@ -39,4 +39,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Apr 10 2020 at 08:22 UTC</p>
+<hr><p>Last updated: Apr 10 2020 at 08:32 UTC</p>
