@@ -402,15 +402,15 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 193648257,
+            "latest_id": 193651936,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
                     "size": 2
                 },
                 "AGI and video games": {
-                    "latest_date": 1586260431,
-                    "size": 1
+                    "latest_date": 1586598301,
+                    "size": 2
                 },
                 "AI Factsheets": {
                     "latest_date": 1582209668,
@@ -639,5 +639,5 @@
             }
         }
     },
-    "time": 1586598121.4420552
+    "time": 1586598735.0711503
 }
