@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [LAI4D looks for research partners under H2020](topic/LAI4D.20looks.20for.20research.20partners.20under.20H2020.html) (1 message, latest: Apr 16 2020 at 11:15)
 * [AGI and video games](topic/AGI.20and.20video.20games.html) (2 messages, latest: Apr 11 2020 at 09:45)
 * [Fintech and AI](topic/Fintech.20and.20AI.html) (2 messages, latest: Apr 11 2020 at 08:03)
 * [new covid-19 stream](topic/new.20covid-19.20stream.html) (14 messages, latest: Mar 23 2020 at 11:11)
@@ -48,4 +49,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Apr 16 2020 at 11:12 UTC</p>
+<hr><p>Last updated: Apr 16 2020 at 11:22 UTC</p>

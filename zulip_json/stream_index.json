@@ -406,7 +406,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 193651936,
+            "latest_id": 194288011,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -490,6 +490,10 @@
                 },
                 "ITU Roundtable Global Initiative on AI & Data Commons": {
                     "latest_date": 1580373835,
+                    "size": 1
+                },
+                "LAI4D looks for research partners under H2020": {
+                    "latest_date": 1587035701,
                     "size": 1
                 },
                 "Launching of the OECD policy observatory on AI": {
@@ -643,5 +647,5 @@
             }
         }
     },
-    "time": 1587035532.7681534
+    "time": 1587036135.218039
 }
