@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Funding opportunity](topic/Funding.20opportunity.html) (1 message, latest: Apr 16 2020 at 08:22)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (9 messages, latest: Apr 14 2020 at 20:47)
 * [news](topic/news.html) (5 messages, latest: Apr 14 2020 at 08:27)
 * [CLAIRE COVID-19 website](topic/CLAIRE.20COVID-19.20website.html) (2 messages, latest: Apr 10 2020 at 08:22)
@@ -39,4 +40,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Apr 16 2020 at 08:22 UTC</p>
+<hr><p>Last updated: Apr 16 2020 at 08:32 UTC</p>
