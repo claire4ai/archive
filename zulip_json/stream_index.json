@@ -406,7 +406,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 194288011,
+            "latest_id": 194388029,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -421,8 +421,8 @@
                     "size": 2
                 },
                 "AI Papers": {
-                    "latest_date": 1584026943,
-                    "size": 3
+                    "latest_date": 1587087740,
+                    "size": 4
                 },
                 "AI and Intellectual property policy": {
                     "latest_date": 1582726568,
@@ -647,5 +647,5 @@
             }
         }
     },
-    "time": 1587087716.2155247
+    "time": 1587088322.6295934
 }

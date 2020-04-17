@@ -9,12 +9,12 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [AI Papers](topic/AI.20Papers.html) (4 messages, latest: Apr 17 2020 at 01:42)
 * [LAI4D looks for research partners under H2020](topic/LAI4D.20looks.20for.20research.20partners.20under.20H2020.html) (1 message, latest: Apr 16 2020 at 11:15)
 * [AGI and video games](topic/AGI.20and.20video.20games.html) (2 messages, latest: Apr 11 2020 at 09:45)
 * [Fintech and AI](topic/Fintech.20and.20AI.html) (2 messages, latest: Apr 11 2020 at 08:03)
 * [new covid-19 stream](topic/new.20covid-19.20stream.html) (14 messages, latest: Mar 23 2020 at 11:11)
 * [Machine Learning & EU Data Sharing Practices](topic/Machine.20Learning.20.26.20EU.20Data.20Sharing.20Practices.html) (1 message, latest: Mar 21 2020 at 20:45)
-* [AI Papers](topic/AI.20Papers.html) (3 messages, latest: Mar 12 2020 at 15:29)
 * [Books on AI](topic/Books.20on.20AI.html) (1 message, latest: Mar 02 2020 at 13:53)
 * [Working in AI company](topic/Working.20in.20AI.20company.html) (1 message, latest: Mar 02 2020 at 13:48)
 * [Seed funding for long-term AGI project](topic/Seed.20funding.20for.20long-term.20AGI.20project.html) (1 message, latest: Mar 01 2020 at 18:58)
@@ -49,4 +49,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Apr 17 2020 at 01:41 UTC</p>
+<hr><p>Last updated: Apr 17 2020 at 01:52 UTC</p>
