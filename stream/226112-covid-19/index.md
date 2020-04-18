@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [PhD RL for prevention strategies](topic/PhD.20RL.20for.20prevention.20strategies.html) (1 message, latest: Apr 18 2020 at 08:29)
 * [Mobile applications against covid-19](topic/Mobile.20applications.20against.20covid-19.html) (1 message, latest: Apr 17 2020 at 19:17)
 * [CIIRC 3D Printed respirator/halfmask](topic/CIIRC.203D.20Printed.20respirator.2Fhalfmask.html) (4 messages, latest: Apr 17 2020 at 11:38)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (11 messages, latest: Apr 16 2020 at 14:05)
@@ -41,4 +42,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Apr 18 2020 at 08:22 UTC</p>
+<hr><p>Last updated: Apr 18 2020 at 08:32 UTC</p>
