@@ -28,5 +28,11 @@
         "id": 193864473,
         "sender_full_name": "Alexa Kodde (CLAIRE Headquarters, NL)",
         "timestamp": 1586852832
+    },
+    {
+        "content": "<p>Contact Tracing apps: an interesting analysis of the different protocols and relates privacy issues.:<br>\n<a href=\"https://cpg.doc.ic.ac.uk/blog/evaluating-contact-tracing-apps-here-are-8-privacy-questions-we-think-you-should-ask/\" title=\"https://cpg.doc.ic.ac.uk/blog/evaluating-contact-tracing-apps-here-are-8-privacy-questions-we-think-you-should-ask/\">https://cpg.doc.ic.ac.uk/blog/evaluating-contact-tracing-apps-here-are-8-privacy-questions-we-think-you-should-ask/</a></p>\n<div class=\"message_embed\"><a class=\"message_embed_image\" href=\"https://cpg.doc.ic.ac.uk/blog/evaluating-contact-tracing-apps-here-are-8-privacy-questions-we-think-you-should-ask/\" style=\"background-image: url(https://cpg.doc.ic.ac.uk/img/cpg-white-on-black_longer.png)\"></a><div class=\"data-container\"><div class=\"message_embed_title\"><a href=\"https://cpg.doc.ic.ac.uk/blog/evaluating-contact-tracing-apps-here-are-8-privacy-questions-we-think-you-should-ask/\" title=\"Evaluating COVID-19 contact tracing apps? Here are 8 privacy questions we think you should ask.\">Evaluating COVID-19 contact tracing apps? Here are 8 privacy questions we think you should ask.</a></div><div class=\"message_embed_description\">While governments are ramping up their efforts to slow down the spread of COVID-19, contact tracing apps are being developed to record interactions and warn users if one of their contacts is later diagnosed positive. These apps could help avoid long-term confinement, but also record fine-grained location or close-proximity data. In this blog post, we propose 8 questions one should ask to understand how protective of privacy an app is.</div></div></div>",
+        "id": 194590501,
+        "sender_full_name": "Emanuela Girardi",
+        "timestamp": 1587292163
     }
 ]
