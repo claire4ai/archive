@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Publications](topic/Publications.html) (2 messages, latest: Apr 21 2020 at 14:59)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (12 messages, latest: Apr 21 2020 at 08:37)
 * [Data sharing](topic/Data.20sharing.html) (1 message, latest: Apr 21 2020 at 08:10)
 * [news](topic/news.html) (6 messages, latest: Apr 19 2020 at 10:29)
@@ -24,7 +25,6 @@ permalink: /stream/226112-covid-19/index.html
 * [Calls for collaboration](topic/Calls.20for.20collaboration.html) (1 message, latest: Apr 02 2020 at 18:33)
 * [#CodeVsCOVID19 Online Hackathon](topic/.23CodeVsCOVID19.20Online.20Hackathon.html) (5 messages, latest: Apr 01 2020 at 06:48)
 * [Swiss government  creates a  "National Taskforce COVID-19"](topic/Swiss.20government.20.20creates.20a.20.20.22National.20Taskforce.20COVID-19.22.html) (1 message, latest: Mar 31 2020 at 09:54)
-* [Publications](topic/Publications.html) (1 message, latest: Mar 31 2020 at 09:27)
 * [AI & COVID-19: Overview by Conseil de l’Europe](topic/AI.20.26.20COVID-19.3A.20Overview.20by.20Conseil.20de.20l.E2.80.99Europe.html) (1 message, latest: Mar 28 2020 at 17:55)
 * [Nature Medicine Comment: On the use of data & Covid-19](topic/Nature.20Medicine.20Comment.3A.20On.20the.20use.20of.20data.20.26.20Covid-19.html) (1 message, latest: Mar 28 2020 at 13:29)
 * [Pubmed expands access to coronavirus literature](topic/Pubmed.20expands.20access.20to.20coronavirus.20literature.html) (1 message, latest: Mar 26 2020 at 15:21)
@@ -43,4 +43,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Apr 21 2020 at 14:41 UTC</p>
+<hr><p>Last updated: Apr 21 2020 at 15:06 UTC</p>
