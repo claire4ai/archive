@@ -10,7 +10,7 @@ permalink: /index.html
 
 * [general](stream/201199-general/index.html) (39 topics)
 
-* [covid-19](stream/226112-covid-19/index.html) (32 topics)
+* [covid-19](stream/226112-covid-19/index.html) (33 topics)
 
 * [CLAIRE news](stream/201957-CLAIRE-news/index.html) (26 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Apr 21 2020 at 08:02 UTC</p>
+<hr><p>Last updated: Apr 21 2020 at 08:12 UTC</p>
