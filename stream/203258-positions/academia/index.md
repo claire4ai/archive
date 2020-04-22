@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Tenure-Track  -  University of Mons, Belgium](topic/Tenure-Track.20.20-.20.20University.20of.20Mons.2C.20Belgium.html) (1 message, latest: Apr 22 2020 at 16:56)
 * [Postdoc and professorship all levels @ TU Eindhoven](topic/Postdoc.20and.20professorship.20all.20levels.20.40.20TU.20Eindhoven.html) (1 message, latest: Apr 06 2020 at 12:46)
 * [Open Position @ Frankfurt Big Data Lab in AI and Ethics](topic/Open.20Position.20.40.20Frankfurt.20Big.20Data.20Lab.20in.20AI.20and.20Ethics.html) (1 message, latest: Mar 05 2020 at 11:21)
 * [15 PhD Positions  ITN: NoBIAS - AI without BIAS](topic/15.20PhD.20Positions.20.20ITN.3A.20NoBIAS.20-.20AI.20without.20BIAS.html) (1 message, latest: Feb 12 2020 at 17:26)
@@ -26,4 +27,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Apr 22 2020 at 16:52 UTC</p>
+<hr><p>Last updated: Apr 22 2020 at 17:02 UTC</p>

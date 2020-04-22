@@ -580,7 +580,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 193035543,
+            "latest_id": 194960190,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -642,6 +642,10 @@
                     "latest_date": 1563367370,
                     "size": 1
                 },
+                "Tenure-Track  -  University of Mons, Belgium": {
+                    "latest_date": 1587574602,
+                    "size": 1
+                },
                 "Tenure-track possitions at CIIRC CTU": {
                     "latest_date": 1564565534,
                     "size": 1
@@ -659,5 +663,5 @@
             }
         }
     },
-    "time": 1587574338.4215155
+    "time": 1587574947.3079493
 }
