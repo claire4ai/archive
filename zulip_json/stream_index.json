@@ -112,15 +112,15 @@
         },
         "CLAIRE/CZ": {
             "id": 203399,
-            "latest_id": 194785562,
+            "latest_id": 195172956,
             "topic_data": {
                 "AI Awards 2019": {
                     "latest_date": 1580199052,
                     "size": 1
                 },
                 "Events": {
-                    "latest_date": 1580978648,
-                    "size": 2
+                    "latest_date": 1587726174,
+                    "size": 3
                 },
                 "Hello from CLAIRE Prague Office": {
                     "latest_date": 1579774775,
@@ -663,5 +663,5 @@
             }
         }
     },
-    "time": 1587726161.1494963
+    "time": 1587726732.356357
 }
