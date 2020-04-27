@@ -580,7 +580,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 194960190,
+            "latest_id": 195390276,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -604,6 +604,10 @@
                 },
                 "Open Position @ Frankfurt Big Data Lab in AI and Ethics": {
                     "latest_date": 1583407316,
+                    "size": 1
+                },
+                "Opportunity @ ESA - AI for EO data": {
+                    "latest_date": 1587978501,
                     "size": 1
                 },
                 "PhD position / XAI / ILP": {
@@ -663,5 +667,5 @@
             }
         }
     },
-    "time": 1587978166.55239
+    "time": 1587978724.621582
 }
