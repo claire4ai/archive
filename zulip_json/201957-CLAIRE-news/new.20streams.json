@@ -4,5 +4,11 @@
         "id": 191229929,
         "sender_full_name": "Notification Bot",
         "timestamp": 1584703969
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"224901\">Alexa Kodde (CLAIRE Headquarters, NL)</span> created a new stream <a class=\"stream\" data-stream-id=\"236393\" href=\"/#narrow/stream/236393-awards\">#awards</a>.</p>",
+        "id": 195527591,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1588059034
     }
 ]

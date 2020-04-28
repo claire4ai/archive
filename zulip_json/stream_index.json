@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 192228060,
+            "latest_id": 195527591,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1579697938,
@@ -105,8 +105,8 @@
                     "size": 4
                 },
                 "new streams": {
-                    "latest_date": 1584703969,
-                    "size": 1
+                    "latest_date": 1588059034,
+                    "size": 2
                 }
             }
         },
@@ -671,5 +671,5 @@
             }
         }
     },
-    "time": 1588058541.5047393
+    "time": 1588059135.037345
 }
