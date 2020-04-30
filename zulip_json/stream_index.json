@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 194814352,
+            "latest_id": 195853460,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -233,6 +233,10 @@
                 "Funding opportunity": {
                     "latest_date": 1587045565,
                     "size": 2
+                },
+                "Hackathon": {
+                    "latest_date": 1588259520,
+                    "size": 1
                 },
                 "IC intensive care data and ML": {
                     "latest_date": 1584787217,
@@ -675,5 +679,5 @@
             }
         }
     },
-    "time": 1588258942.7383187
+    "time": 1588259542.1636093
 }
