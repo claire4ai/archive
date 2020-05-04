@@ -14,7 +14,7 @@ permalink: /index.html
 
 * [CLAIRE news](stream/201957-CLAIRE-news/index.html) (26 topics)
 
-* [events](stream/201207-events/index.html) (23 topics)
+* [events](stream/201207-events/index.html) (24 topics)
 
 * [positions/academia](stream/203258-positions/academia/index.html) (18 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: May 04 2020 at 13:12 UTC</p>
+<hr><p>Last updated: May 04 2020 at 13:22 UTC</p>

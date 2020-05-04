@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Ethics of algorithmic decision-making in heal](topic/Ethics.20of.20algorithmic.20decision-making.20in.20heal.html) (1 message, latest: May 04 2020 at 13:21)
 * [Series of Lectures : Ethical Implications of AI.](topic/Series.20of.20Lectures.20.3A.20Ethical.20Implications.20of.20AI.2E.html) (1 message, latest: Apr 28 2020 at 09:42)
 * [Applied Artificial Intelligence Conference](topic/Applied.20Artificial.20Intelligence.20Conference.html) (1 message, latest: Apr 07 2020 at 14:39)
 * [AI and global challenges: A discussion w/ J Schmidhuber](topic/AI.20and.20global.20challenges.3A.20A.20discussion.20w.2F.20J.20Schmidhuber.html) (1 message, latest: Mar 12 2020 at 09:56)
@@ -33,4 +34,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: May 04 2020 at 13:12 UTC</p>
+<hr><p>Last updated: May 04 2020 at 13:22 UTC</p>

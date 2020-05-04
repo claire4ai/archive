@@ -328,7 +328,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 195539534,
+            "latest_id": 196178808,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -384,6 +384,10 @@
                 },
                 "ESA's Collision Avoidance Challenge.": {
                     "latest_date": 1571405618,
+                    "size": 1
+                },
+                "Ethics of algorithmic decision-making in heal": {
+                    "latest_date": 1588598510,
                     "size": 1
                 },
                 "First VIVA European Summer School on Artificial Intelligence": {
@@ -679,5 +683,5 @@
             }
         }
     },
-    "time": 1588597964.4193387
+    "time": 1588598545.8696172
 }
