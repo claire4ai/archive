@@ -328,7 +328,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 196178808,
+            "latest_id": 196182288,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -424,6 +424,10 @@
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
                     "latest_date": 1588066966,
+                    "size": 1
+                },
+                "[CFP] Virtual - Special Session on  'AI for People'": {
+                    "latest_date": 1588600336,
                     "size": 1
                 }
             }
@@ -683,5 +687,5 @@
             }
         }
     },
-    "time": 1588600325.1701715
+    "time": 1588600963.682208
 }
