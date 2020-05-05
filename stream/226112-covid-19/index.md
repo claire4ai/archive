@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Funding opportunity](topic/Funding.20opportunity.html) (3 messages, latest: May 05 2020 at 07:30)
 * [Hackathon](topic/Hackathon.html) (1 message, latest: Apr 30 2020 at 15:12)
 * [Publications](topic/Publications.html) (2 messages, latest: Apr 21 2020 at 14:59)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (12 messages, latest: Apr 21 2020 at 08:37)
@@ -17,7 +18,6 @@ permalink: /stream/226112-covid-19/index.html
 * [PhD RL for prevention strategies](topic/PhD.20RL.20for.20prevention.20strategies.html) (1 message, latest: Apr 18 2020 at 08:29)
 * [Mobile applications against covid-19](topic/Mobile.20applications.20against.20covid-19.html) (1 message, latest: Apr 17 2020 at 19:17)
 * [CIIRC 3D Printed respirator/halfmask](topic/CIIRC.203D.20Printed.20respirator.2Fhalfmask.html) (4 messages, latest: Apr 17 2020 at 11:38)
-* [Funding opportunity](topic/Funding.20opportunity.html) (2 messages, latest: Apr 16 2020 at 13:59)
 * [CLAIRE COVID-19 website](topic/CLAIRE.20COVID-19.20website.html) (2 messages, latest: Apr 10 2020 at 08:22)
 * [Covid-19 and digital surveillance](topic/Covid-19.20and.20digital.20surveillance.html) (3 messages, latest: Apr 08 2020 at 14:20)
 * [CT scan](topic/CT.20scan.html) (1 message, latest: Apr 06 2020 at 20:47)
@@ -44,4 +44,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: May 05 2020 at 07:22 UTC</p>
+<hr><p>Last updated: May 05 2020 at 07:32 UTC</p>
