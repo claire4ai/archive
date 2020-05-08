@@ -332,7 +332,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 196182288,
+            "latest_id": 196896481,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -392,6 +392,10 @@
                 },
                 "Ethics of algorithmic decision-making in heal": {
                     "latest_date": 1588598510,
+                    "size": 1
+                },
+                "European IP  Webinar: IP and Artificial Intelligence": {
+                    "latest_date": 1588945215,
                     "size": 1
                 },
                 "First VIVA European Summer School on Artificial Intelligence": {
@@ -691,5 +695,5 @@
             }
         }
     },
-    "time": 1588944750.7664278
+    "time": 1588945324.1431897
 }
