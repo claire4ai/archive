@@ -9,11 +9,11 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (13 messages, latest: May 10 2020 at 15:18)
 * [VUB AI Webinar series: AI & Data-driven solutions amid the C](topic/VUB.20AI.20Webinar.20series.3A.20AI.20.26.20Data-driven.20solutions.20amid.20the.20C.html) (1 message, latest: May 07 2020 at 07:55)
 * [Funding opportunity](topic/Funding.20opportunity.html) (3 messages, latest: May 05 2020 at 07:30)
 * [Hackathon](topic/Hackathon.html) (1 message, latest: Apr 30 2020 at 15:12)
 * [Publications](topic/Publications.html) (2 messages, latest: Apr 21 2020 at 14:59)
-* [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (12 messages, latest: Apr 21 2020 at 08:37)
 * [Data sharing](topic/Data.20sharing.html) (1 message, latest: Apr 21 2020 at 08:10)
 * [news](topic/news.html) (6 messages, latest: Apr 19 2020 at 10:29)
 * [PhD RL for prevention strategies](topic/PhD.20RL.20for.20prevention.20strategies.html) (1 message, latest: Apr 18 2020 at 08:29)
@@ -45,4 +45,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: May 10 2020 at 15:12 UTC</p>
+<hr><p>Last updated: May 10 2020 at 15:22 UTC</p>

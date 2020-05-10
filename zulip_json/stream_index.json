@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 196737027,
+            "latest_id": 197060818,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -259,8 +259,8 @@
                     "size": 1
                 },
                 "Online talks and webinars": {
-                    "latest_date": 1587458220,
-                    "size": 12
+                    "latest_date": 1589123937,
+                    "size": 13
                 },
                 "OpenCovid19 Initiative": {
                     "latest_date": 1584791010,
@@ -695,5 +695,5 @@
             }
         }
     },
-    "time": 1589123520.460633
+    "time": 1589124126.0602338
 }
