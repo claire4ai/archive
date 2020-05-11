@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 197060818,
+            "latest_id": 197125398,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -278,6 +278,10 @@
                     "latest_date": 1585236074,
                     "size": 1
                 },
+                "Recording of  Prof. Bengio talk on Covid-19 Awareness App": {
+                    "latest_date": 1589192915,
+                    "size": 1
+                },
                 "Scheduling and resource management": {
                     "latest_date": 1585055677,
                     "size": 2
@@ -332,7 +336,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 196896481,
+            "latest_id": 197124959,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -432,6 +436,10 @@
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
                     "latest_date": 1588066966,
+                    "size": 1
+                },
+                "Webinar: Artificial Intelligence for the Impact Economy": {
+                    "latest_date": 1589192626,
                     "size": 1
                 },
                 "[CFP] Virtual - Special Session on  'AI for People'": {
@@ -695,5 +703,5 @@
             }
         }
     },
-    "time": 1589192549.5944428
+    "time": 1589193147.6032574
 }
