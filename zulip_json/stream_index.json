@@ -340,7 +340,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 197124959,
+            "latest_id": 198089158,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -439,8 +439,8 @@
                     "size": 1
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
-                    "latest_date": 1588066966,
-                    "size": 1
+                    "latest_date": 1589904563,
+                    "size": 2
                 },
                 "Webinar: Artificial Intelligence for the Impact Economy": {
                     "latest_date": 1589192626,
@@ -707,5 +707,5 @@
             }
         }
     },
-    "time": 1589904226.3718495
+    "time": 1589904743.171301
 }
