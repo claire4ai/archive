@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [ECAI  Workshops](topic/ECAI.20.20Workshops.html) (5 messages, latest: May 19 2020 at 16:28)
 * [Series of Lectures : Ethical Implications of AI.](topic/Series.20of.20Lectures.20.3A.20Ethical.20Implications.20of.20AI.2E.html) (2 messages, latest: May 19 2020 at 16:09)
 * [Webinar: Artificial Intelligence for the Impact Economy](topic/Webinar.3A.20Artificial.20Intelligence.20for.20the.20Impact.20Economy.html) (1 message, latest: May 11 2020 at 10:23)
 * [European IP  Webinar: IP and Artificial Intelligence](topic/European.20IP.20.20Webinar.3A.20IP.20and.20Artificial.20Intelligence.html) (1 message, latest: May 08 2020 at 13:40)
@@ -16,7 +17,6 @@ permalink: /stream/201207-events/index.html
 * [Ethics of algorithmic decision-making in heal](topic/Ethics.20of.20algorithmic.20decision-making.20in.20heal.html) (1 message, latest: May 04 2020 at 13:21)
 * [Applied Artificial Intelligence Conference](topic/Applied.20Artificial.20Intelligence.20Conference.html) (1 message, latest: Apr 07 2020 at 14:39)
 * [AI and global challenges: A discussion w/ J Schmidhuber](topic/AI.20and.20global.20challenges.3A.20A.20discussion.20w.2F.20J.20Schmidhuber.html) (1 message, latest: Mar 12 2020 at 09:56)
-* [ECAI  Workshops](topic/ECAI.20.20Workshops.html) (4 messages, latest: Mar 12 2020 at 08:39)
 * [Mentoring and Communication for Starting Researchers @ECAI20](topic/Mentoring.20and.20Communication.20for.20Starting.20Researchers.20.40ECAI20.html) (1 message, latest: Mar 03 2020 at 16:36)
 * [First VIVA European Summer School on Artificial Intelligence](topic/First.20VIVA.20European.20Summer.20School.20on.20Artificial.20Intelligence.html) (2 messages, latest: Mar 02 2020 at 13:56)
 * [CLAIRE/ESA Theme Development Workshop on SatCom](topic/CLAIRE.2FESA.20Theme.20Development.20Workshop.20on.20SatCom.html) (2 messages, latest: Feb 20 2020 at 11:02)
@@ -37,4 +37,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: May 19 2020 at 16:22 UTC</p>
+<hr><p>Last updated: May 19 2020 at 16:32 UTC</p>
