@@ -168,7 +168,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 197454216,
+            "latest_id": 198212092,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -212,6 +212,10 @@
                 },
                 "Can AI help with the Covid-19 crisis?": {
                     "latest_date": 1584052704,
+                    "size": 1
+                },
+                "Conference": {
+                    "latest_date": 1589987320,
                     "size": 1
                 },
                 "Coronavirus: The Hammer and the Dance": {
@@ -707,5 +711,5 @@
             }
         }
     },
-    "time": 1589986970.5713925
+    "time": 1589987543.9959047
 }
