@@ -344,7 +344,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 198416046,
+            "latest_id": 198475181,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -395,8 +395,8 @@
                     "size": 2
                 },
                 "ECAI  Workshops": {
-                    "latest_date": 1589905732,
-                    "size": 5
+                    "latest_date": 1590170990,
+                    "size": 6
                 },
                 "ESA's Collision Avoidance Challenge.": {
                     "latest_date": 1571405618,
@@ -711,5 +711,5 @@
             }
         }
     },
-    "time": 1590170584.8880212
+    "time": 1590171126.9300673
 }
