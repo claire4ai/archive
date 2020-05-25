@@ -344,7 +344,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 198643606,
+            "latest_id": 198668645,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -444,6 +444,10 @@
                 },
                 "Mentoring and Communication for Starting Researchers @ECAI20": {
                     "latest_date": 1583253368,
+                    "size": 1
+                },
+                "Online training - EU Proposal Writing": {
+                    "latest_date": 1590413228,
                     "size": 1
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
@@ -719,5 +723,5 @@
             }
         }
     },
-    "time": 1590412951.9140677
+    "time": 1590413562.7816722
 }
