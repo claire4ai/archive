@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [AI outreach](topic/AI.20outreach.html) (1 message, latest: May 25 2020 at 10:47)
 * [Fairness in COVID-19 ML](topic/Fairness.20in.20COVID-19.20ML.html) (1 message, latest: Apr 27 2020 at 10:06)
 * [AI Papers](topic/AI.20Papers.html) (4 messages, latest: Apr 17 2020 at 01:42)
 * [LAI4D looks for research partners under H2020](topic/LAI4D.20looks.20for.20research.20partners.20under.20H2020.html) (1 message, latest: Apr 16 2020 at 11:15)
@@ -50,4 +51,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: May 25 2020 at 10:42 UTC</p>
+<hr><p>Last updated: May 25 2020 at 10:52 UTC</p>

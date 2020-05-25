@@ -462,7 +462,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 195396046,
+            "latest_id": 198655548,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -495,6 +495,10 @@
                 "AI in Health Care": {
                     "latest_date": 1580220882,
                     "size": 2
+                },
+                "AI outreach": {
+                    "latest_date": 1590403652,
+                    "size": 1
                 },
                 "Algorithmic Fairness": {
                     "latest_date": 1580923954,
@@ -715,5 +719,5 @@
             }
         }
     },
-    "time": 1590403355.3342552
+    "time": 1590403965.2570026
 }
