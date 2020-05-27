@@ -9,10 +9,10 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Series of Lectures : Ethical Implications of AI.](topic/Series.20of.20Lectures.20.3A.20Ethical.20Implications.20of.20AI.2E.html) (4 messages, latest: May 27 2020 at 06:29)
 * [Online training - EU Proposal Writing](topic/Online.20training.20-.20EU.20Proposal.20Writing.html) (1 message, latest: May 25 2020 at 13:27)
 * [Call for Papers IPAS’20](topic/Call.20for.20Papers.20IPAS.E2.80.9920.html) (1 message, latest: May 25 2020 at 08:01)
 * [ECAI  Workshops](topic/ECAI.20.20Workshops.html) (6 messages, latest: May 22 2020 at 18:09)
-* [Series of Lectures : Ethical Implications of AI.](topic/Series.20of.20Lectures.20.3A.20Ethical.20Implications.20of.20AI.2E.html) (3 messages, latest: May 22 2020 at 08:16)
 * [Webinar: Artificial Intelligence for the Impact Economy](topic/Webinar.3A.20Artificial.20Intelligence.20for.20the.20Impact.20Economy.html) (1 message, latest: May 11 2020 at 10:23)
 * [European IP  Webinar: IP and Artificial Intelligence](topic/European.20IP.20.20Webinar.3A.20IP.20and.20Artificial.20Intelligence.html) (1 message, latest: May 08 2020 at 13:40)
 * [\[CFP\] Virtual - Special Session on  'AI for People'](topic/.5BCFP.5D.20Virtual.20-.20Special.20Session.20on.20.20'AI.20for.20People'.html) (1 message, latest: May 04 2020 at 13:52)
@@ -39,4 +39,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: May 27 2020 at 06:22 UTC</p>
+<hr><p>Last updated: May 27 2020 at 06:32 UTC</p>
