@@ -344,7 +344,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 198853783,
+            "latest_id": 198999806,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -432,6 +432,10 @@
                 },
                 "Institute 2020 / Artificial and Human Intelligence": {
                     "latest_date": 1581111241,
+                    "size": 1
+                },
+                "Invitation to AI Governance Forum": {
+                    "latest_date": 1590657925,
                     "size": 1
                 },
                 "Invitation to AI for Atmospheric Water Cycling Workshop": {
@@ -723,5 +727,5 @@
             }
         }
     },
-    "time": 1590657756.6449826
+    "time": 1590658373.3095946
 }
