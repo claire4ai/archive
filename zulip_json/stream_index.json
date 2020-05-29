@@ -344,7 +344,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 199165342,
+            "latest_id": 199189356,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -380,6 +380,10 @@
                 },
                 "Call for Papers IPAS’20": {
                     "latest_date": 1590393678,
+                    "size": 1
+                },
+                "Call for free online participation: Automated Extraction of": {
+                    "latest_date": 1590775117,
                     "size": 1
                 },
                 "Call-for-Tutorials": {
@@ -731,5 +735,5 @@
             }
         }
     },
-    "time": 1590774786.517619
+    "time": 1590775467.3472512
 }
