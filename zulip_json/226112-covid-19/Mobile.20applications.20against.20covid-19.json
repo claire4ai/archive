@@ -4,5 +4,11 @@
         "id": 194487580,
         "sender_full_name": "Ricardo Chavarriaga (CLAIRE Office Switzerland)",
         "timestamp": 1587151032
+    },
+    {
+        "content": "<h1>SwissCovid, the decentralised contact tracing app DP-3T, is released for public tests</h1>\n<p><strong>The source code has been released to allow experts to assess risks to privacy. <a href=\"https://www.melani.admin.ch/melani/en/home/public-security-test/infos.html\">More information</a></strong></p>\n<p>As part of the Covid-19 proximity tracing project led by the Federal Office of Public Health (FOPH), the National Cybersecurity Centre (NCSC) set up a security and privacy task force to assess cybersecurity and privacy issues.</p>\n<p>The NCSC, led by the federal Cybersecurity Delegate, has been monitoring, advising on and reviewing the ongoing progress of the Swiss proximity tracing system in terms of its security since the task force was set up. As part of a public security test, the security of the entire system is now to be thoroughly tested by other specialists and interested individuals. The public security test will start on 28 May 2020.</p>",
+        "id": 199123720,
+        "sender_full_name": "Ricardo Chavarriaga (CLAIRE Office Switzerland)",
+        "timestamp": 1590738962
     }
 ]
