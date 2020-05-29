@@ -344,7 +344,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 198999806,
+            "latest_id": 199165342,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -444,6 +444,10 @@
                 },
                 "Invitation to ICAIH 2019 - Milan (Italy), 13-14 Nov 2019": {
                     "latest_date": 1570263594,
+                    "size": 1
+                },
+                "Invitation to join spotGEO, the latest competition from ESA.": {
+                    "latest_date": 1590764294,
                     "size": 1
                 },
                 "Mentoring and Communication for Starting Researchers @ECAI20": {
@@ -727,5 +731,5 @@
             }
         }
     },
-    "time": 1590763960.636956
+    "time": 1590764642.29813
 }
