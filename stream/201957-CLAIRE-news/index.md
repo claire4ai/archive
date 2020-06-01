@@ -9,13 +9,13 @@ permalink: /stream/201957-CLAIRE-news/index.html
 
 ### Topics:
 
+* [EU News](topic/EU.20News.html) (9 messages, latest: Jun 01 2020 at 10:56)
 * [new streams](topic/new.20streams.html) (2 messages, latest: Apr 28 2020 at 07:30)
 * [CLAIRE initiative for supporting the public sector in dea...](topic/CLAIRE.20initiative.20for.20supporting.20the.20public.20sector.20in.20dea.2E.2E.2E.html) (3 messages, latest: Mar 30 2020 at 09:01)
 * [ICT-48 results](topic/ICT-48.20results.html) (8 messages, latest: Mar 21 2020 at 10:43)
 * [Official opening of CLAIRE office in Brussels](topic/Official.20opening.20of.20CLAIRE.20office.20in.20Brussels.html) (1 message, latest: Mar 11 2020 at 17:33)
 * [World News](topic/World.20News.html) (1 message, latest: Mar 10 2020 at 10:39)
 * [Videos](topic/Videos.html) (1 message, latest: Mar 05 2020 at 09:42)
-* [EU News](topic/EU.20News.html) (8 messages, latest: Feb 27 2020 at 13:13)
 * [CLAIRE-endorsed survey on best practices in machine learning](topic/CLAIRE-endorsed.20survey.20on.20best.20practices.20in.20machine.20learning.html) (1 message, latest: Feb 14 2020 at 14:07)
 * [German-French collaboration](topic/German-French.20collaboration.html) (1 message, latest: Jan 23 2020 at 10:38)
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Jan 22 2020 at 12:58)
@@ -36,4 +36,4 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [Community meeting at IJCAI 2019](topic/Community.20meeting.20at.20IJCAI.202019.html) (2 messages, latest: Aug 08 2019 at 12:03)
 * [hello](topic/hello.html) (4 messages, latest: Jul 26 2019 at 17:17)
 
-<hr><p>Last updated: Jun 01 2020 at 10:52 UTC</p>
+<hr><p>Last updated: Jun 01 2020 at 11:03 UTC</p>

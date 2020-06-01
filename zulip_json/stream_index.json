@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 195527591,
+            "latest_id": 199356000,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1579697938,
@@ -33,8 +33,8 @@
                     "size": 2
                 },
                 "EU News": {
-                    "latest_date": 1582809183,
-                    "size": 8
+                    "latest_date": 1591008995,
+                    "size": 9
                 },
                 "German-French collaboration": {
                     "latest_date": 1579775887,
@@ -735,5 +735,5 @@
             }
         }
     },
-    "time": 1591008760.2113905
+    "time": 1591009423.8401005
 }
