@@ -344,7 +344,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 199456725,
+            "latest_id": 199488025,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -467,8 +467,8 @@
                     "size": 1
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
-                    "latest_date": 1590560948,
-                    "size": 4
+                    "latest_date": 1591103276,
+                    "size": 5
                 },
                 "Webinar \"New Trends in AI in Central Europe\"": {
                     "latest_date": 1591082131,
@@ -751,5 +751,5 @@
             }
         }
     },
-    "time": 1591103018.4198735
+    "time": 1591103540.0585072
 }
