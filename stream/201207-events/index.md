@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Webinar "New Trends in AI in Central Europe"](topic/Webinar.20.22New.20Trends.20in.20AI.20in.20Central.20Europe.22.html) (1 message, latest: Jun 02 2020 at 07:15)
 * [MobileHCI-Call for Tutorials](topic/MobileHCI-Call.20for.20Tutorials.html) (1 message, latest: Jun 02 2020 at 06:45)
 * [Call for free online participation: Automated Extraction of](topic/Call.20for.20free.20online.20participation.3A.20Automated.20Extraction.20of.html) (1 message, latest: May 29 2020 at 17:58)
 * [Invitation to join spotGEO, the latest competition from ESA.](topic/Invitation.20to.20join.20spotGEO.2C.20the.20latest.20competition.20from.20ESA.2E.html) (1 message, latest: May 29 2020 at 14:58)
@@ -43,4 +44,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Jun 02 2020 at 07:12 UTC</p>
+<hr><p>Last updated: Jun 02 2020 at 07:22 UTC</p>
