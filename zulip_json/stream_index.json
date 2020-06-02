@@ -344,7 +344,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 199189356,
+            "latest_id": 199454932,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -456,6 +456,10 @@
                 },
                 "Mentoring and Communication for Starting Researchers @ECAI20": {
                     "latest_date": 1583253368,
+                    "size": 1
+                },
+                "MobileHCI-Call for Tutorials": {
+                    "latest_date": 1591080317,
                     "size": 1
                 },
                 "Online training - EU Proposal Writing": {
@@ -735,5 +739,5 @@
             }
         }
     },
-    "time": 1591080173.7084813
+    "time": 1591080761.4234595
 }
