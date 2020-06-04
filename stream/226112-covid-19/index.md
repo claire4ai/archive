@@ -9,10 +9,10 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Conference](topic/Conference.html) (2 messages, latest: Jun 04 2020 at 07:59)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (14 messages, latest: May 29 2020 at 17:04)
 * [Mobile applications against covid-19](topic/Mobile.20applications.20against.20covid-19.html) (2 messages, latest: May 29 2020 at 07:56)
 * [Funding opportunity](topic/Funding.20opportunity.html) (4 messages, latest: May 25 2020 at 07:27)
-* [Conference](topic/Conference.html) (1 message, latest: May 20 2020 at 15:08)
 * [Introduction](topic/Introduction.html) (1 message, latest: May 13 2020 at 18:14)
 * [Recording of  Prof. Bengio talk on Covid-19 Awareness App](topic/Recording.20of.20.20Prof.2E.20Bengio.20talk.20on.20Covid-19.20Awareness.20App.html) (1 message, latest: May 11 2020 at 10:28)
 * [VUB AI Webinar series: AI & Data-driven solutions amid the C](topic/VUB.20AI.20Webinar.20series.3A.20AI.20.26.20Data-driven.20solutions.20amid.20the.20C.html) (1 message, latest: May 07 2020 at 07:55)
@@ -48,4 +48,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Jun 04 2020 at 07:52 UTC</p>
+<hr><p>Last updated: Jun 04 2020 at 08:03 UTC</p>
