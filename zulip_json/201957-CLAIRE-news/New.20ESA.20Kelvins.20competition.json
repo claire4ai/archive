@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<p>We have launched a new competition on our Kelvins platform:  <a href=\"https://kelvins.esa.int/spot-the-geo-satellites/\">https://kelvins.esa.int/spot-the-geo-satellites/</a>   </p>\n<p>In this \"Spot the GEO satellites\" challenge, or spotGEO challenge, researchers are asked to develop an algorithm to detect Geostationary orbiting objects from simple png images (or frames) acquired by an unknown, low-cost ground-based telescope. Can you learn on how to cope with cloud cover, atmospheric/weather effects, light pollution, sensor noise/defects, star occlusions and more?<br>\nFollow the link to check out the problem description, the dataset and the starter-kit.</p>",
+        "id": 200096487,
+        "sender_full_name": "Leopold",
+        "timestamp": 1591622670
+    }
+]

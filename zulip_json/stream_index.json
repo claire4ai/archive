@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 199356000,
+            "latest_id": 200096487,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1579697938,
@@ -67,6 +67,10 @@
                 "NL AI research agenda and strategic action plan": {
                     "latest_date": 1575738646,
                     "size": 2
+                },
+                "New ESA Kelvins competition": {
+                    "latest_date": 1591622670,
+                    "size": 1
                 },
                 "Official opening of CLAIRE HQ in The Hague (NL)": {
                     "latest_date": 1576573182,
@@ -751,5 +755,5 @@
             }
         }
     },
-    "time": 1591622563.5032008
+    "time": 1591623154.61067
 }
