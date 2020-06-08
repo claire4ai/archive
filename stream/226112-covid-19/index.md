@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Data sharing](topic/Data.20sharing.html) (2 messages, latest: Jun 08 2020 at 14:28)
 * [Conference](topic/Conference.html) (2 messages, latest: Jun 04 2020 at 07:59)
 * [Online talks and webinars](topic/Online.20talks.20and.20webinars.html) (14 messages, latest: May 29 2020 at 17:04)
 * [Mobile applications against covid-19](topic/Mobile.20applications.20against.20covid-19.html) (2 messages, latest: May 29 2020 at 07:56)
@@ -18,7 +19,6 @@ permalink: /stream/226112-covid-19/index.html
 * [VUB AI Webinar series: AI & Data-driven solutions amid the C](topic/VUB.20AI.20Webinar.20series.3A.20AI.20.26.20Data-driven.20solutions.20amid.20the.20C.html) (1 message, latest: May 07 2020 at 07:55)
 * [Hackathon](topic/Hackathon.html) (1 message, latest: Apr 30 2020 at 15:12)
 * [Publications](topic/Publications.html) (2 messages, latest: Apr 21 2020 at 14:59)
-* [Data sharing](topic/Data.20sharing.html) (1 message, latest: Apr 21 2020 at 08:10)
 * [news](topic/news.html) (6 messages, latest: Apr 19 2020 at 10:29)
 * [PhD RL for prevention strategies](topic/PhD.20RL.20for.20prevention.20strategies.html) (1 message, latest: Apr 18 2020 at 08:29)
 * [CIIRC 3D Printed respirator/halfmask](topic/CIIRC.203D.20Printed.20respirator.2Fhalfmask.html) (4 messages, latest: Apr 17 2020 at 11:38)
@@ -48,4 +48,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Jun 08 2020 at 14:22 UTC</p>
+<hr><p>Last updated: Jun 08 2020 at 14:32 UTC</p>
