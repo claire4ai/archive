@@ -348,7 +348,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 199488025,
+            "latest_id": 200115166,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -400,6 +400,10 @@
                 },
                 "CfP: Artificial Intelligence and Theorem Proving 2020": {
                     "latest_date": 1571162400,
+                    "size": 1
+                },
+                "Digital ECAI2020": {
+                    "latest_date": 1591630352,
                     "size": 1
                 },
                 "EC infoday (Robotics and AI calls)": {
@@ -755,5 +759,5 @@
             }
         }
     },
-    "time": 1591630340.565474
+    "time": 1591630948.3675675
 }
