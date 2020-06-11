@@ -172,7 +172,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 200104936,
+            "latest_id": 200517453,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -219,8 +219,8 @@
                     "size": 1
                 },
                 "Conference": {
-                    "latest_date": 1591257576,
-                    "size": 2
+                    "latest_date": 1591864358,
+                    "size": 3
                 },
                 "Coronavirus: The Hammer and the Dance": {
                     "latest_date": 1584785658,
@@ -759,5 +759,5 @@
             }
         }
     },
-    "time": 1591864345.5516558
+    "time": 1591864959.1565104
 }
