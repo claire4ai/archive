@@ -494,15 +494,15 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 200552238,
+            "latest_id": 200564520,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
                     "size": 2
                 },
                 "AAAI Executive Council Elections": {
-                    "latest_date": 1591886006,
-                    "size": 1
+                    "latest_date": 1591891068,
+                    "size": 2
                 },
                 "AGI and video games": {
                     "latest_date": 1586598301,
@@ -763,5 +763,5 @@
             }
         }
     },
-    "time": 1591890744.482886
+    "time": 1591891445.6994638
 }

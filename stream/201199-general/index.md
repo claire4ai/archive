@@ -9,7 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
-* [AAAI Executive Council Elections](topic/AAAI.20Executive.20Council.20Elections.html) (1 message, latest: Jun 11 2020 at 14:33)
+* [AAAI Executive Council Elections](topic/AAAI.20Executive.20Council.20Elections.html) (2 messages, latest: Jun 11 2020 at 15:57)
 * [AI outreach](topic/AI.20outreach.html) (1 message, latest: May 25 2020 at 10:47)
 * [Fairness in COVID-19 ML](topic/Fairness.20in.20COVID-19.20ML.html) (1 message, latest: Apr 27 2020 at 10:06)
 * [AI Papers](topic/AI.20Papers.html) (4 messages, latest: Apr 17 2020 at 01:42)
@@ -52,4 +52,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Jun 11 2020 at 15:52 UTC</p>
+<hr><p>Last updated: Jun 11 2020 at 16:04 UTC</p>
