@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [UN roadmap for Digital cooperation](topic/UN.20roadmap.20for.20Digital.20cooperation.html) (1 message, latest: Jun 12 2020 at 14:17)
 * [AAAI Executive Council Elections](topic/AAAI.20Executive.20Council.20Elections.html) (2 messages, latest: Jun 11 2020 at 15:57)
 * [AI outreach](topic/AI.20outreach.html) (1 message, latest: May 25 2020 at 10:47)
 * [Fairness in COVID-19 ML](topic/Fairness.20in.20COVID-19.20ML.html) (1 message, latest: Apr 27 2020 at 10:06)
@@ -52,4 +53,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Jun 12 2020 at 14:12 UTC</p>
+<hr><p>Last updated: Jun 12 2020 at 14:22 UTC</p>
