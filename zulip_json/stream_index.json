@@ -348,7 +348,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 200115166,
+            "latest_id": 200669648,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -464,6 +464,10 @@
                 },
                 "Mentoring and Communication for Starting Researchers @ECAI20": {
                     "latest_date": 1583253368,
+                    "size": 1
+                },
+                "Mentoring+Communication for Starting Researchers @ECAI2020": {
+                    "latest_date": 1591968539,
                     "size": 1
                 },
                 "MobileHCI-Call for Tutorials": {
@@ -763,5 +767,5 @@
             }
         }
     },
-    "time": 1591968160.4646444
+    "time": 1591968762.167016
 }
