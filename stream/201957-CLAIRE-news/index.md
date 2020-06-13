@@ -9,6 +9,7 @@ permalink: /stream/201957-CLAIRE-news/index.html
 
 ### Topics:
 
+* [CLAIRE 2nd Anniversary](topic/CLAIRE.202nd.20Anniversary.html) (1 message, latest: Jun 13 2020 at 13:40)
 * [New ESA Kelvins competition](topic/New.20ESA.20Kelvins.20competition.html) (1 message, latest: Jun 08 2020 at 13:24)
 * [EU News](topic/EU.20News.html) (9 messages, latest: Jun 01 2020 at 10:56)
 * [new streams](topic/new.20streams.html) (2 messages, latest: Apr 28 2020 at 07:30)
@@ -37,4 +38,4 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [Community meeting at IJCAI 2019](topic/Community.20meeting.20at.20IJCAI.202019.html) (2 messages, latest: Aug 08 2019 at 12:03)
 * [hello](topic/hello.html) (4 messages, latest: Jul 26 2019 at 17:17)
 
-<hr><p>Last updated: Jun 13 2020 at 13:32 UTC</p>
+<hr><p>Last updated: Jun 13 2020 at 13:42 UTC</p>

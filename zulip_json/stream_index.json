@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 200096487,
+            "latest_id": 200767165,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1579697938,
@@ -14,6 +14,10 @@
                 },
                 "CLAIRE 18 months in": {
                     "latest_date": 1576831729,
+                    "size": 1
+                },
+                "CLAIRE 2nd Anniversary": {
+                    "latest_date": 1592055606,
                     "size": 1
                 },
                 "CLAIRE at Next100 Symposium": {
@@ -771,5 +775,5 @@
             }
         }
     },
-    "time": 1592055154.890233
+    "time": 1592055774.011813
 }
