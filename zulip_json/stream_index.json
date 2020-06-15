@@ -352,7 +352,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 200669648,
+            "latest_id": 200946543,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -404,6 +404,10 @@
                 },
                 "CfP: Artificial Intelligence and Theorem Proving 2020": {
                     "latest_date": 1571162400,
+                    "size": 1
+                },
+                "CfP: EdbA 2020 - First International Workshop on Event Data": {
+                    "latest_date": 1592255619,
                     "size": 1
                 },
                 "Digital ECAI2020": {
@@ -775,5 +779,5 @@
             }
         }
     },
-    "time": 1592255543.9078064
+    "time": 1592256130.9099476
 }
