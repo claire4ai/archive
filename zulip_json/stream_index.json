@@ -352,7 +352,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 201033446,
+            "latest_id": 201123516,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -489,6 +489,10 @@
                 "Series of Lectures : Ethical Implications of AI.": {
                     "latest_date": 1592321766,
                     "size": 6
+                },
+                "Summer School on Artificial Intelligence & Smart Health": {
+                    "latest_date": 1592389386,
+                    "size": 1
                 },
                 "Webinar \"New Trends in AI in Central Europe\"": {
                     "latest_date": 1591082131,
@@ -779,5 +783,5 @@
             }
         }
     },
-    "time": 1592389365.847487
+    "time": 1592389965.6756163
 }
