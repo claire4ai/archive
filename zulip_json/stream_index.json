@@ -352,7 +352,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 201123516,
+            "latest_id": 201612215,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -487,8 +487,8 @@
                     "size": 1
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
-                    "latest_date": 1592321766,
-                    "size": 6
+                    "latest_date": 1592836096,
+                    "size": 7
                 },
                 "Summer School on Artificial Intelligence & Smart Health": {
                     "latest_date": 1592389386,
@@ -783,5 +783,5 @@
             }
         }
     },
-    "time": 1592835755.2967741
+    "time": 1592836360.131826
 }
