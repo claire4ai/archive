@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Launch of the AI for Sustainable Development Goals (AI4SDGs)](topic/Launch.20of.20the.20AI.20for.20Sustainable.20Development.20Goals.20(AI4SDGs).html) (1 message, latest: Jun 23 2020 at 08:03)
 * [UN roadmap for Digital cooperation](topic/UN.20roadmap.20for.20Digital.20cooperation.html) (1 message, latest: Jun 12 2020 at 14:17)
 * [AAAI Executive Council Elections](topic/AAAI.20Executive.20Council.20Elections.html) (2 messages, latest: Jun 11 2020 at 15:57)
 * [AI outreach](topic/AI.20outreach.html) (1 message, latest: May 25 2020 at 10:47)
@@ -53,4 +54,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Jun 23 2020 at 07:52 UTC</p>
+<hr><p>Last updated: Jun 23 2020 at 08:04 UTC</p>

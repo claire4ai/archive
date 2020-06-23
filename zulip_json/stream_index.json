@@ -510,7 +510,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 200675547,
+            "latest_id": 201697357,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -610,6 +610,10 @@
                 },
                 "LAI4D looks for research partners under H2020": {
                     "latest_date": 1587035701,
+                    "size": 1
+                },
+                "Launch of the AI for Sustainable Development Goals (AI4SDGs)": {
+                    "latest_date": 1592899407,
                     "size": 1
                 },
                 "Launching of the OECD policy observatory on AI": {
@@ -783,5 +787,5 @@
             }
         }
     },
-    "time": 1592898751.089689
+    "time": 1592899459.454063
 }
