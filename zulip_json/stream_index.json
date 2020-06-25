@@ -352,7 +352,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 201612215,
+            "latest_id": 201963798,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -492,6 +492,10 @@
                 },
                 "Summer School on Artificial Intelligence & Smart Health": {
                     "latest_date": 1592389386,
+                    "size": 1
+                },
+                "Symposium Global Perspectives on Responsible AI": {
+                    "latest_date": 1593089290,
                     "size": 1
                 },
                 "Webinar \"New Trends in AI in Central Europe\"": {
@@ -787,5 +791,5 @@
             }
         }
     },
-    "time": 1593088965.8805716
+    "time": 1593089547.878693
 }
