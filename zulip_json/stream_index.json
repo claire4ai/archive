@@ -514,7 +514,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 201697357,
+            "latest_id": 202078881,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -668,6 +668,10 @@
                     "latest_date": 1567443213,
                     "size": 5
                 },
+                "Women in AI Awards": {
+                    "latest_date": 1593171184,
+                    "size": 1
+                },
                 "Working in AI company": {
                     "latest_date": 1583156880,
                     "size": 1
@@ -791,5 +795,5 @@
             }
         }
     },
-    "time": 1593171151.130061
+    "time": 1593171752.0701134
 }
