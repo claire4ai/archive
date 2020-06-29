@@ -338,7 +338,7 @@
         },
         "ethics": {
             "id": 228366,
-            "latest_id": 192123127,
+            "latest_id": 202355400,
             "topic_data": {
                 "Movement tracking apps": {
                     "latest_date": 1585236734,
@@ -346,6 +346,10 @@
                 },
                 "Nature Medicine Comment: On the use of data & Covid-19": {
                     "latest_date": 1585402097,
+                    "size": 1
+                },
+                "UNESCO recommendation on Ethics for AI - Public consultation": {
+                    "latest_date": 1593457951,
                     "size": 1
                 },
                 "stream events": {
@@ -803,5 +807,5 @@
             }
         }
     },
-    "time": 1593457453.1011405
+    "time": 1593457959.022519
 }
