@@ -356,7 +356,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 201963798,
+            "latest_id": 202279787,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -408,6 +408,10 @@
                 },
                 "CfP: Artificial Intelligence and Theorem Proving 2020": {
                     "latest_date": 1571162400,
+                    "size": 1
+                },
+                "CfP: BNAIC-BENELEARN 2020": {
+                    "latest_date": 1593416446,
                     "size": 1
                 },
                 "CfP: EdbA 2020 - First International Workshop on Event Data": {
@@ -799,5 +803,5 @@
             }
         }
     },
-    "time": 1593415969.7068732
+    "time": 1593416566.7801633
 }
