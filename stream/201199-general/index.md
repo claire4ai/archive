@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Xprize Gender Breakthrough Track](topic/Xprize.20Gender.20Breakthrough.20Track.html) (1 message, latest: Jul 03 2020 at 11:40)
 * [Women in AI Awards](topic/Women.20in.20AI.20Awards.html) (1 message, latest: Jun 26 2020 at 11:33)
 * [Launch of the AI for Sustainable Development Goals (AI4SDGs)](topic/Launch.20of.20the.20AI.20for.20Sustainable.20Development.20Goals.20(AI4SDGs).html) (1 message, latest: Jun 23 2020 at 08:03)
 * [UN roadmap for Digital cooperation](topic/UN.20roadmap.20for.20Digital.20cooperation.html) (1 message, latest: Jun 12 2020 at 14:17)
@@ -55,4 +56,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Jul 03 2020 at 11:32 UTC</p>
+<hr><p>Last updated: Jul 03 2020 at 11:43 UTC</p>
