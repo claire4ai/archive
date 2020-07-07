@@ -724,7 +724,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 199466248,
+            "latest_id": 203129460,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -740,6 +740,10 @@
                 },
                 "Doctoral or post-doctoral position in ASP at Potsdam": {
                     "latest_date": 1591086833,
+                    "size": 1
+                },
+                "Four Doctoral positions at CiTIUS-Santiago de Compostela": {
+                    "latest_date": 1594140832,
                     "size": 1
                 },
                 "HCI / AI / PostDoc": {
@@ -819,5 +823,5 @@
             }
         }
     },
-    "time": 1594140767.1790314
+    "time": 1594141491.7806323
 }

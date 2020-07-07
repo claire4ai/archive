@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Four Doctoral positions at CiTIUS-Santiago de Compostela](topic/Four.20Doctoral.20positions.20at.20CiTIUS-Santiago.20de.20Compostela.html) (1 message, latest: Jul 07 2020 at 16:53)
 * [ICT-48 RIA TAILOR: Call for Participation](topic/ICT-48.20RIA.20TAILOR.3A.20Call.20for.20Participation.html) (1 message, latest: Jun 02 2020 at 09:11)
 * [Doctoral or post-doctoral position in ASP at Potsdam](topic/Doctoral.20or.20post-doctoral.20position.20in.20ASP.20at.20Potsdam.html) (1 message, latest: Jun 02 2020 at 08:33)
 * [Opportunity @ ESA - AI for EO data](topic/Opportunity.20.40.20ESA.20-.20AI.20for.20EO.20data.html) (1 message, latest: Apr 27 2020 at 09:08)
@@ -30,4 +31,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Jul 07 2020 at 16:52 UTC</p>
+<hr><p>Last updated: Jul 07 2020 at 17:04 UTC</p>
