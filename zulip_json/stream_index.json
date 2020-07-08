@@ -364,7 +364,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 202355903,
+            "latest_id": 203294530,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -528,6 +528,10 @@
                 },
                 "[CFP] Virtual - Special Session on  'AI for People'": {
                     "latest_date": 1588600336,
+                    "size": 1
+                },
+                "[WEBINAR] CLAIRE Task Force on AI & COVID-19": {
+                    "latest_date": 1594228003,
                     "size": 1
                 }
             }
@@ -823,5 +827,5 @@
             }
         }
     },
-    "time": 1594227894.6720417
+    "time": 1594228503.9046512
 }

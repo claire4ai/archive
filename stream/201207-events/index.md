@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [\[WEBINAR\] CLAIRE Task Force on AI & COVID-19](topic/.5BWEBINAR.5D.20CLAIRE.20Task.20Force.20on.20AI.20.26.20COVID-19.html) (1 message, latest: Jul 08 2020 at 17:06)
 * [WIPO conversation: IP and AI](topic/WIPO.20conversation.3A.20IP.20and.20AI.html) (1 message, latest: Jun 29 2020 at 19:16)
 * [CfP: BNAIC-BENELEARN 2020](topic/CfP.3A.20BNAIC-BENELEARN.202020.html) (1 message, latest: Jun 29 2020 at 07:40)
 * [Symposium Global Perspectives on Responsible AI](topic/Symposium.20Global.20Perspectives.20on.20Responsible.20AI.html) (1 message, latest: Jun 25 2020 at 12:48)
@@ -51,4 +52,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Jul 08 2020 at 17:04 UTC</p>
+<hr><p>Last updated: Jul 08 2020 at 17:15 UTC</p>
