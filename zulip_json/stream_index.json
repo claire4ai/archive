@@ -732,7 +732,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 203129460,
+            "latest_id": 203821837,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -806,6 +806,10 @@
                     "latest_date": 1586177214,
                     "size": 1
                 },
+                "Reseach positions in the Czech Republic": {
+                    "latest_date": 1594725784,
+                    "size": 1
+                },
                 "Research Fellowship at ESA": {
                     "latest_date": 1563367370,
                     "size": 1
@@ -831,5 +835,5 @@
             }
         }
     },
-    "time": 1594725774.976366
+    "time": 1594726377.3914707
 }
