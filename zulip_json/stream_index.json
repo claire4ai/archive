@@ -364,7 +364,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 203592062,
+            "latest_id": 204198375,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -404,6 +404,10 @@
                 },
                 "Call for Papers IPAS’20": {
                     "latest_date": 1590393678,
+                    "size": 1
+                },
+                "Call for contributions: Online conference “Space and AI”": {
+                    "latest_date": 1594988055,
                     "size": 1
                 },
                 "Call for free online participation: Automated Extraction of": {
@@ -839,5 +843,5 @@
             }
         }
     },
-    "time": 1594987602.73938
+    "time": 1594988541.6547313
 }

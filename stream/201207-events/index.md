@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Call for contributions: Online conference “Space and AI”](topic/Call.20for.20contributions.3A.20Online.20conference.20.E2.80.9CSpace.20and.20AI.E2.80.9D.html) (1 message, latest: Jul 17 2020 at 12:14)
 * [3.9. 2020  - Online Conf "AI in Industry and Finance"](topic/3.2E9.2E.202020.20.20-.20Online.20Conf.20.22AI.20in.20Industry.20and.20Finance.22.html) (1 message, latest: Jul 11 2020 at 11:12)
 * [\[WEBINAR\] CLAIRE Task Force on AI & COVID-19](topic/.5BWEBINAR.5D.20CLAIRE.20Task.20Force.20on.20AI.20.26.20COVID-19.html) (1 message, latest: Jul 08 2020 at 17:06)
 * [WIPO conversation: IP and AI](topic/WIPO.20conversation.3A.20IP.20and.20AI.html) (1 message, latest: Jun 29 2020 at 19:16)
@@ -53,4 +54,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Jul 17 2020 at 12:06 UTC</p>
+<hr><p>Last updated: Jul 17 2020 at 12:22 UTC</p>
