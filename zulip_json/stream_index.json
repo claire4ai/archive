@@ -364,7 +364,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 204198375,
+            "latest_id": 204286908,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -384,6 +384,10 @@
                 },
                 "Applied Artificial Intelligence Conference": {
                     "latest_date": 1586270377,
+                    "size": 1
+                },
+                "Artificial Intelligence in European Space Research": {
+                    "latest_date": 1595053000,
                     "size": 1
                 },
                 "CLAIRE community meeting at IJCAI 2019": {
@@ -843,5 +847,5 @@
             }
         }
     },
-    "time": 1595052323.8792121
+    "time": 1595053015.390167
 }
