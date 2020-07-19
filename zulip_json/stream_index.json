@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 204292444,
+            "latest_id": 204339411,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1579697938,
@@ -113,8 +113,8 @@
                     "size": 4
                 },
                 "nature opinion piece on AI": {
-                    "latest_date": 1595063068,
-                    "size": 2
+                    "latest_date": 1595147924,
+                    "size": 3
                 },
                 "new streams": {
                     "latest_date": 1588059034,
@@ -847,5 +847,5 @@
             }
         }
     },
-    "time": 1595147590.515653
+    "time": 1595148154.9594722
 }

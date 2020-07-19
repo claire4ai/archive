@@ -10,5 +10,11 @@
         "id": 204292444,
         "sender_full_name": "Wlodzislaw Duch",
         "timestamp": 1595063068
+    },
+    {
+        "content": "<p>Unfortunately, UNESCO (like many others concerning themselves with such matters) knows close to nothing about AI / machine learning. Discussions about validation data, test data and loss functions are in most instances not even on the agenda. I have doubts that even matters pertaining to law can substantively be discussed due to a total lack of understanding.<br>\nThe way forward is for practitioners to provide their own code of conduct - for example, as was done with the Financial Modelers' Manifesto: <a href=\"https://www.uio.no/studier/emner/sv/oekonomi/ECON4135/h09/undervisningsmateriale/FinancialModelersManifesto.pdf\">https://www.uio.no/studier/emner/sv/oekonomi/ECON4135/h09/undervisningsmateriale/FinancialModelersManifesto.pdf</a></p>",
+        "id": 204339411,
+        "sender_full_name": "Gregg Barrett (Cirrus, South Africa)",
+        "timestamp": 1595147924
     }
 ]
