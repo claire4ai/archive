@@ -364,7 +364,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 204286908,
+            "latest_id": 204643951,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -524,6 +524,10 @@
                 },
                 "Symposium Global Perspectives on Responsible AI": {
                     "latest_date": 1593089290,
+                    "size": 1
+                },
+                "Talk: Preventing AI Abuse w/ Head of Facebook's AI Red Team": {
+                    "latest_date": 1595408627,
                     "size": 1
                 },
                 "WIPO conversation: IP and AI": {
@@ -847,5 +851,5 @@
             }
         }
     },
-    "time": 1595407959.6984754
+    "time": 1595408726.2994149
 }

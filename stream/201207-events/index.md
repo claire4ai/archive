@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Talk: Preventing AI Abuse w/ Head of Facebook's AI Red Team](topic/Talk.3A.20Preventing.20AI.20Abuse.20w.2F.20Head.20of.20Facebook's.20AI.20Red.20Team.html) (1 message, latest: Jul 22 2020 at 09:03)
 * [Artificial Intelligence in European Space Research](topic/Artificial.20Intelligence.20in.20European.20Space.20Research.html) (1 message, latest: Jul 18 2020 at 06:16)
 * [Call for contributions: Online conference “Space and AI”](topic/Call.20for.20contributions.3A.20Online.20conference.20.E2.80.9CSpace.20and.20AI.E2.80.9D.html) (1 message, latest: Jul 17 2020 at 12:14)
 * [3.9. 2020  - Online Conf "AI in Industry and Finance"](topic/3.2E9.2E.202020.20.20-.20Online.20Conf.20.22AI.20in.20Industry.20and.20Finance.22.html) (1 message, latest: Jul 11 2020 at 11:12)
@@ -55,4 +56,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Jul 22 2020 at 08:52 UTC</p>
+<hr><p>Last updated: Jul 22 2020 at 09:05 UTC</p>
