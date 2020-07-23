@@ -554,7 +554,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 204400157,
+            "latest_id": 204765078,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -641,8 +641,8 @@
                     "size": 2
                 },
                 "Human Brain Project (EBRAINS) calls": {
-                    "latest_date": 1595235896,
-                    "size": 2
+                    "latest_date": 1595486838,
+                    "size": 3
                 },
                 "ICT-48-2020": {
                     "latest_date": 1573414297,
@@ -851,5 +851,5 @@
             }
         }
     },
-    "time": 1595486554.004395
+    "time": 1595487166.4160476
 }
