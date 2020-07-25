@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [The Right to Process Data for Machine Learning Purposes](topic/The.20Right.20to.20Process.20Data.20for.20Machine.20Learning.20Purposes.html) (1 message, latest: Jul 25 2020 at 19:09)
 * [Human Brain Project (EBRAINS) calls](topic/Human.20Brain.20Project.20(EBRAINS).20calls.html) (3 messages, latest: Jul 23 2020 at 06:47)
 * [Xprize Gender Breakthrough Track](topic/Xprize.20Gender.20Breakthrough.20Track.html) (1 message, latest: Jul 03 2020 at 11:40)
 * [Women in AI Awards](topic/Women.20in.20AI.20Awards.html) (1 message, latest: Jun 26 2020 at 11:33)
@@ -57,4 +58,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Jul 25 2020 at 19:05 UTC</p>
+<hr><p>Last updated: Jul 25 2020 at 19:16 UTC</p>
