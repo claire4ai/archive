@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Postdocs in Reasoning&Learning at Linköping University, SE](topic/Postdocs.20in.20Reasoning.26Learning.20at.20Link.C3.B6ping.20University.2C.20SE.html) (1 message, latest: Jul 27 2020 at 06:14)
 * [Reseach positions in the Czech Republic](topic/Reseach.20positions.20in.20the.20Czech.20Republic.html) (1 message, latest: Jul 14 2020 at 11:23)
 * [Four Doctoral positions at CiTIUS-Santiago de Compostela](topic/Four.20Doctoral.20positions.20at.20CiTIUS-Santiago.20de.20Compostela.html) (1 message, latest: Jul 07 2020 at 16:53)
 * [ICT-48 RIA TAILOR: Call for Participation](topic/ICT-48.20RIA.20TAILOR.3A.20Call.20for.20Participation.html) (1 message, latest: Jun 02 2020 at 09:11)
@@ -32,4 +33,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Jul 27 2020 at 06:06 UTC</p>
+<hr><p>Last updated: Jul 27 2020 at 06:18 UTC</p>
