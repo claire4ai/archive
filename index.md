@@ -20,10 +20,10 @@ permalink: /index.html
 
 * [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (6 topics)
 
-* [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (5 topics)
+* [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (6 topics)
 
 * [ethics](stream/228366-ethics/index.html) (4 topics)
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Jul 27 2020 at 12:52 UTC</p>
+<hr><p>Last updated: Jul 27 2020 at 13:05 UTC</p>

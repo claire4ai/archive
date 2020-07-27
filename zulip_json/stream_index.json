@@ -154,7 +154,7 @@
         },
         "CLAIRE/NL": {
             "id": 203255,
-            "latest_id": 189133949,
+            "latest_id": 205113608,
             "topic_data": {
                 "AI factsheet": {
                     "latest_date": 1580302268,
@@ -166,6 +166,10 @@
                 },
                 "Funding opportunity": {
                     "latest_date": 1563943334,
+                    "size": 1
+                },
+                "Humathon panel: The Future of Technology and Economy": {
+                    "latest_date": 1595854945,
                     "size": 1
                 },
                 "Leiden University vacancies": {
@@ -859,5 +863,5 @@
             }
         }
     },
-    "time": 1595854378.1662219
+    "time": 1595855122.4073544
 }
