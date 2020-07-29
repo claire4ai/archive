@@ -756,7 +756,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 205084672,
+            "latest_id": 205323362,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -818,6 +818,10 @@
                     "latest_date": 1570792005,
                     "size": 1
                 },
+                "PostDocs and PhD positions in trustworthy AI": {
+                    "latest_date": 1596005484,
+                    "size": 1
+                },
                 "Postdoc Linköping University Sweden": {
                     "latest_date": 1576767133,
                     "size": 1
@@ -863,5 +867,5 @@
             }
         }
     },
-    "time": 1596004963.9623652
+    "time": 1596005564.9176545
 }
