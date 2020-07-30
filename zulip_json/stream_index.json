@@ -368,7 +368,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 204643951,
+            "latest_id": 205459248,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -464,6 +464,10 @@
                 },
                 "European IP  Webinar: IP and Artificial Intelligence": {
                     "latest_date": 1588945215,
+                    "size": 1
+                },
+                "European Research and Innovation Days": {
+                    "latest_date": 1596102337,
                     "size": 1
                 },
                 "First VIVA European Summer School on Artificial Intelligence": {
@@ -867,5 +871,5 @@
             }
         }
     },
-    "time": 1596102185.5104427
+    "time": 1596102764.5962882
 }
