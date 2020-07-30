@@ -368,7 +368,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 205459248,
+            "latest_id": 205464038,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -467,8 +467,8 @@
                     "size": 1
                 },
                 "European Research and Innovation Days": {
-                    "latest_date": 1596102337,
-                    "size": 1
+                    "latest_date": 1596106099,
+                    "size": 2
                 },
                 "First VIVA European Summer School on Artificial Intelligence": {
                     "latest_date": 1583157376,
@@ -871,5 +871,5 @@
             }
         }
     },
-    "time": 1596105760.520268
+    "time": 1596106383.1216261
 }
