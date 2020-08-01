@@ -368,7 +368,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 205465654,
+            "latest_id": 205687310,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -480,6 +480,10 @@
                 },
                 "German-French collaboration": {
                     "latest_date": 1579259808,
+                    "size": 1
+                },
+                "IFDaD 2020": {
+                    "latest_date": 1596297989,
                     "size": 1
                 },
                 "ITU Roundtable Global Initiative on AI & Data Commons": {
@@ -871,5 +875,5 @@
             }
         }
     },
-    "time": 1596297961.054242
+    "time": 1596298704.651941
 }

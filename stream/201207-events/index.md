@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [IFDaD 2020](topic/IFDaD.202020.html) (1 message, latest: Aug 01 2020 at 16:06)
 * [European Research and Innovation Days](topic/European.20Research.20and.20Innovation.20Days.html) (3 messages, latest: Jul 30 2020 at 11:11)
 * [CfP: BNAIC-BENELEARN 2020](topic/CfP.3A.20BNAIC-BENELEARN.202020.html) (2 messages, latest: Jul 30 2020 at 10:54)
 * [Talk: Preventing AI Abuse w/ Head of Facebook's AI Red Team](topic/Talk.3A.20Preventing.20AI.20Abuse.20w.2F.20Head.20of.20Facebook's.20AI.20Red.20Team.html) (1 message, latest: Jul 22 2020 at 09:03)
@@ -57,4 +58,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Aug 01 2020 at 16:06 UTC</p>
+<hr><p>Last updated: Aug 01 2020 at 16:18 UTC</p>
