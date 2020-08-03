@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Webinar "New Trends in AI in Central Europe"](topic/Webinar.20.22New.20Trends.20in.20AI.20in.20Central.20Europe.22.html) (2 messages, latest: Aug 03 2020 at 13:10)
 * [IFDaD 2020](topic/IFDaD.202020.html) (1 message, latest: Aug 01 2020 at 16:06)
 * [European Research and Innovation Days](topic/European.20Research.20and.20Innovation.20Days.html) (3 messages, latest: Jul 30 2020 at 11:11)
 * [CfP: BNAIC-BENELEARN 2020](topic/CfP.3A.20BNAIC-BENELEARN.202020.html) (2 messages, latest: Jul 30 2020 at 10:54)
@@ -24,7 +25,6 @@ permalink: /stream/201207-events/index.html
 * [CfP: EdbA 2020 - First International Workshop on Event Data](topic/CfP.3A.20EdbA.202020.20-.20First.20International.20Workshop.20on.20Event.20Data.html) (1 message, latest: Jun 15 2020 at 21:13)
 * [Mentoring+Communication for Starting Researchers @ECAI2020](topic/Mentoring.2BCommunication.20for.20Starting.20Researchers.20.40ECAI2020.html) (1 message, latest: Jun 12 2020 at 13:28)
 * [Digital ECAI2020](topic/Digital.20ECAI2020.html) (1 message, latest: Jun 08 2020 at 15:32)
-* [Webinar "New Trends in AI in Central Europe"](topic/Webinar.20.22New.20Trends.20in.20AI.20in.20Central.20Europe.22.html) (1 message, latest: Jun 02 2020 at 07:15)
 * [MobileHCI-Call for Tutorials](topic/MobileHCI-Call.20for.20Tutorials.html) (1 message, latest: Jun 02 2020 at 06:45)
 * [Call for free online participation: Automated Extraction of](topic/Call.20for.20free.20online.20participation.3A.20Automated.20Extraction.20of.html) (1 message, latest: May 29 2020 at 17:58)
 * [Invitation to join spotGEO, the latest competition from ESA.](topic/Invitation.20to.20join.20spotGEO.2C.20the.20latest.20competition.20from.20ESA.2E.html) (1 message, latest: May 29 2020 at 14:58)
@@ -58,4 +58,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Aug 03 2020 at 13:05 UTC</p>
+<hr><p>Last updated: Aug 03 2020 at 13:17 UTC</p>

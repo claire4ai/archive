@@ -368,7 +368,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 205687310,
+            "latest_id": 205791330,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -547,8 +547,8 @@
                     "size": 1
                 },
                 "Webinar \"New Trends in AI in Central Europe\"": {
-                    "latest_date": 1591082131,
-                    "size": 1
+                    "latest_date": 1596460216,
+                    "size": 2
                 },
                 "Webinar: Artificial Intelligence for the Impact Economy": {
                     "latest_date": 1589192626,
@@ -875,5 +875,5 @@
             }
         }
     },
-    "time": 1596459917.6535552
+    "time": 1596460621.6216524
 }
