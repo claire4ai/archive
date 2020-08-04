@@ -368,7 +368,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 205791330,
+            "latest_id": 205880545,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -520,6 +520,10 @@
                 },
                 "MobileHCI-Call for Tutorials": {
                     "latest_date": 1591080317,
+                    "size": 1
+                },
+                "Online conference “Space and AI”, September 4 (ECAI)": {
+                    "latest_date": 1596527064,
                     "size": 1
                 },
                 "Online training - EU Proposal Writing": {
@@ -875,5 +879,5 @@
             }
         }
     },
-    "time": 1596526978.7865531
+    "time": 1596527581.8707116
 }

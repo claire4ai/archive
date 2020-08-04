@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Online conference “Space and AI”, September 4 (ECAI)](topic/Online.20conference.20.E2.80.9CSpace.20and.20AI.E2.80.9D.2C.20September.204.20(ECAI).html) (1 message, latest: Aug 04 2020 at 07:44)
 * [Webinar "New Trends in AI in Central Europe"](topic/Webinar.20.22New.20Trends.20in.20AI.20in.20Central.20Europe.22.html) (2 messages, latest: Aug 03 2020 at 13:10)
 * [IFDaD 2020](topic/IFDaD.202020.html) (1 message, latest: Aug 01 2020 at 16:06)
 * [European Research and Innovation Days](topic/European.20Research.20and.20Innovation.20Days.html) (3 messages, latest: Jul 30 2020 at 11:11)
@@ -58,4 +59,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Aug 04 2020 at 07:42 UTC</p>
+<hr><p>Last updated: Aug 04 2020 at 07:53 UTC</p>
