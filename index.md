@@ -8,9 +8,9 @@ permalink: /index.html
 
 ## Streams:
 
-* [events](stream/201207-events/index.html) (49 topics)
+* [general](stream/201199-general/index.html) (50 topics)
 
-* [general](stream/201199-general/index.html) (49 topics)
+* [events](stream/201207-events/index.html) (49 topics)
 
 * [covid-19](stream/226112-covid-19/index.html) (39 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Aug 05 2020 at 07:52 UTC</p>
+<hr><p>Last updated: Aug 05 2020 at 08:06 UTC</p>
