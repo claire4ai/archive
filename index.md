@@ -18,7 +18,7 @@ permalink: /index.html
 
 * [positions/academia](stream/203258-positions/academia/index.html) (24 topics)
 
-* [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (6 topics)
+* [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (7 topics)
 
 * [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (6 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Aug 07 2020 at 11:32 UTC</p>
+<hr><p>Last updated: Aug 07 2020 at 11:43 UTC</p>
