@@ -574,7 +574,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 205997124,
+            "latest_id": 206567515,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -710,6 +710,10 @@
                 },
                 "Podcast Eye on AI": {
                     "latest_date": 1596550925,
+                    "size": 1
+                },
+                "Post-doctoral contract at the University of Coimbra, Portuga": {
+                    "latest_date": 1597148339,
                     "size": 1
                 },
                 "Post-doctoral opportunity @ ESA to do research  on AI": {
@@ -891,5 +895,5 @@
             }
         }
     },
-    "time": 1597147865.0627792
+    "time": 1597148596.6808317
 }
