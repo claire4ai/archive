@@ -574,7 +574,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 206567515,
+            "latest_id": 207025450,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -618,6 +618,10 @@
                 },
                 "Algorithmic Fairness": {
                     "latest_date": 1580923954,
+                    "size": 1
+                },
+                "Assistant Professorship Embedded Visual Computing @ Universi": {
+                    "latest_date": 1597503846,
                     "size": 1
                 },
                 "Books on AI": {
@@ -895,5 +899,5 @@
             }
         }
     },
-    "time": 1597503155.9548938
+    "time": 1597503963.741041
 }
