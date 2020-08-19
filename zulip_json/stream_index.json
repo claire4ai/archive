@@ -124,7 +124,7 @@
         },
         "CLAIRE/CZ": {
             "id": 203399,
-            "latest_id": 206246886,
+            "latest_id": 207380202,
             "topic_data": {
                 "AI Awards 2019": {
                     "latest_date": 1580199052,
@@ -143,8 +143,8 @@
                     "size": 1
                 },
                 "News": {
-                    "latest_date": 1596620302,
-                    "size": 7
+                    "latest_date": 1597824274,
+                    "size": 8
                 },
                 "covid-19": {
                     "latest_date": 1590148828,
@@ -899,5 +899,5 @@
             }
         }
     },
-    "time": 1597823586.1071558
+    "time": 1597824408.5671508
 }
