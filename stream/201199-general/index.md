@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Great success of CIIRC at the Championship in Autom. Reason.](topic/Great.20success.20of.20CIIRC.20at.20the.20Championship.20in.20Autom.2E.20Reason.2E.html) (1 message, latest: Aug 20 2020 at 14:32)
 * [Assistant Professorship Embedded Visual Computing @ Universi](topic/Assistant.20Professorship.20Embedded.20Visual.20Computing.20.40.20Universi.html) (1 message, latest: Aug 15 2020 at 15:04)
 * [Post-doctoral contract at the University of Coimbra, Portuga](topic/Post-doctoral.20contract.20at.20the.20University.20of.20Coimbra.2C.20Portuga.html) (1 message, latest: Aug 11 2020 at 12:18)
 * [Brokerage event IoT, AI, Robotics @SIDO 2020](topic/Brokerage.20event.20IoT.2C.20AI.2C.20Robotics.20.40SIDO.202020.html) (1 message, latest: Aug 05 2020 at 08:00)
@@ -62,4 +63,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Aug 20 2020 at 14:27 UTC</p>
+<hr><p>Last updated: Aug 20 2020 at 14:34 UTC</p>
