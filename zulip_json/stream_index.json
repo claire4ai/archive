@@ -574,7 +574,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 207528561,
+            "latest_id": 207768548,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -717,8 +717,8 @@
                     "size": 1
                 },
                 "Podcast Eye on AI": {
-                    "latest_date": 1596550925,
-                    "size": 1
+                    "latest_date": 1598181944,
+                    "size": 2
                 },
                 "Post-doctoral contract at the University of Coimbra, Portuga": {
                     "latest_date": 1597148339,
@@ -903,5 +903,5 @@
             }
         }
     },
-    "time": 1598181915.379613
+    "time": 1598182359.8108423
 }
