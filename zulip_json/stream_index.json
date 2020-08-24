@@ -372,7 +372,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 205880545,
+            "latest_id": 207830659,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -416,6 +416,10 @@
                 },
                 "Call for Papers IPAS’20": {
                     "latest_date": 1590393678,
+                    "size": 1
+                },
+                "Call for Participation: New Foundations for Human-Centered A": {
+                    "latest_date": 1598267289,
                     "size": 1
                 },
                 "Call for contributions: Online conference “Space and AI”": {
@@ -903,5 +907,5 @@
             }
         }
     },
-    "time": 1598267166.4181018
+    "time": 1598267941.9187741
 }
