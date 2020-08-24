@@ -9,13 +9,13 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Human Brain Project (EBRAINS) calls](topic/Human.20Brain.20Project.20(EBRAINS).20calls.html) (4 messages, latest: Aug 24 2020 at 19:01)
 * [Podcast Eye on AI](topic/Podcast.20Eye.20on.20AI.html) (2 messages, latest: Aug 23 2020 at 11:25)
 * [Great success of CIIRC at the Championship in Autom. Reason.](topic/Great.20success.20of.20CIIRC.20at.20the.20Championship.20in.20Autom.2E.20Reason.2E.html) (1 message, latest: Aug 20 2020 at 14:32)
 * [Assistant Professorship Embedded Visual Computing @ Universi](topic/Assistant.20Professorship.20Embedded.20Visual.20Computing.20.40.20Universi.html) (1 message, latest: Aug 15 2020 at 15:04)
 * [Post-doctoral contract at the University of Coimbra, Portuga](topic/Post-doctoral.20contract.20at.20the.20University.20of.20Coimbra.2C.20Portuga.html) (1 message, latest: Aug 11 2020 at 12:18)
 * [Brokerage event IoT, AI, Robotics @SIDO 2020](topic/Brokerage.20event.20IoT.2C.20AI.2C.20Robotics.20.40SIDO.202020.html) (1 message, latest: Aug 05 2020 at 08:00)
 * [The Right to Process Data for Machine Learning Purposes](topic/The.20Right.20to.20Process.20Data.20for.20Machine.20Learning.20Purposes.html) (1 message, latest: Jul 25 2020 at 19:09)
-* [Human Brain Project (EBRAINS) calls](topic/Human.20Brain.20Project.20(EBRAINS).20calls.html) (3 messages, latest: Jul 23 2020 at 06:47)
 * [Xprize Gender Breakthrough Track](topic/Xprize.20Gender.20Breakthrough.20Track.html) (1 message, latest: Jul 03 2020 at 11:40)
 * [Women in AI Awards](topic/Women.20in.20AI.20Awards.html) (1 message, latest: Jun 26 2020 at 11:33)
 * [Launch of the AI for Sustainable Development Goals (AI4SDGs)](topic/Launch.20of.20the.20AI.20for.20Sustainable.20Development.20Goals.20(AI4SDGs).html) (1 message, latest: Jun 23 2020 at 08:03)
@@ -63,4 +63,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Aug 24 2020 at 18:53 UTC</p>
+<hr><p>Last updated: Aug 24 2020 at 19:06 UTC</p>
