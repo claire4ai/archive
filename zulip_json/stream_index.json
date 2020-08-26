@@ -124,7 +124,7 @@
         },
         "CLAIRE/CZ": {
             "id": 203399,
-            "latest_id": 207380202,
+            "latest_id": 208068924,
             "topic_data": {
                 "AI Awards 2019": {
                     "latest_date": 1580199052,
@@ -145,6 +145,10 @@
                 "News": {
                     "latest_date": 1597824274,
                     "size": 8
+                },
+                "OK Hack hackaton": {
+                    "latest_date": 1598433595,
+                    "size": 1
                 },
                 "covid-19": {
                     "latest_date": 1590148828,
@@ -907,5 +911,5 @@
             }
         }
     },
-    "time": 1598432772.1492393
+    "time": 1598433627.719016
 }
