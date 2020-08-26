@@ -376,7 +376,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 207830659,
+            "latest_id": 208095946,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -393,6 +393,10 @@
                 "AI for Weather and Climate Extremes Workshop - Sweden": {
                     "latest_date": 1570181826,
                     "size": 2
+                },
+                "ANNPR 2020: One week to go!": {
+                    "latest_date": 1598451037,
+                    "size": 1
                 },
                 "Applied Artificial Intelligence Conference": {
                     "latest_date": 1586270377,
@@ -911,5 +915,5 @@
             }
         }
     },
-    "time": 1598450803.4524565
+    "time": 1598451707.3223784
 }
