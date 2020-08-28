@@ -376,7 +376,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 208095946,
+            "latest_id": 208394067,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -384,6 +384,10 @@
                 },
                 "3.9. 2020  - Online Conf \"AI in Industry and Finance\"": {
                     "latest_date": 1594465924,
+                    "size": 1
+                },
+                "AI and Visuospatial Cognition @ ECAI 2020": {
+                    "latest_date": 1598648113,
                     "size": 1
                 },
                 "AI and global challenges: A discussion w/ J Schmidhuber": {
@@ -915,5 +919,5 @@
             }
         }
     },
-    "time": 1598647973.1491733
+    "time": 1598648785.730634
 }
