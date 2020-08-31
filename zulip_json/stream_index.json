@@ -380,7 +380,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 208555450,
+            "latest_id": 208560630,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -477,6 +477,10 @@
                 "ECAI  Workshops": {
                     "latest_date": 1590170990,
                     "size": 6
+                },
+                "ECAI 2020 {print edition & open access ebook now online}": {
+                    "latest_date": 1598882764,
+                    "size": 1
                 },
                 "ESA's Collision Avoidance Challenge.": {
                     "latest_date": 1571405618,
@@ -927,5 +931,5 @@
             }
         }
     },
-    "time": 1598882652.3181717
+    "time": 1598883214.3708484
 }

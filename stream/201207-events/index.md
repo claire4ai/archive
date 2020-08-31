@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [ECAI 2020 {print edition & open access ebook now online}](topic/ECAI.202020.20.7Bprint.20edition.20.26.20open.20access.20ebook.20now.20online.7D.html) (1 message, latest: Aug 31 2020 at 14:06)
 * [PPSN XVI](topic/PPSN.20XVI.html) (1 message, latest: Aug 31 2020 at 13:23)
 * [AI and Visuospatial Cognition @ ECAI 2020](topic/AI.20and.20Visuospatial.20Cognition.20.40.20ECAI.202020.html) (1 message, latest: Aug 28 2020 at 20:55)
 * [ANNPR 2020: One week to go!](topic/ANNPR.202020.3A.20One.20week.20to.20go!.html) (1 message, latest: Aug 26 2020 at 14:10)
@@ -63,4 +64,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Aug 31 2020 at 14:04 UTC</p>
+<hr><p>Last updated: Aug 31 2020 at 14:13 UTC</p>
