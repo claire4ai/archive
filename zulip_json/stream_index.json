@@ -162,7 +162,7 @@
         },
         "CLAIRE/NL": {
             "id": 203255,
-            "latest_id": 205113608,
+            "latest_id": 208555469,
             "topic_data": {
                 "AI factsheet": {
                     "latest_date": 1580302268,
@@ -186,6 +186,10 @@
                 },
                 "Nederlandse Data Science & Kunstmatige Intelligentie Prijzen": {
                     "latest_date": 1582736655,
+                    "size": 1
+                },
+                "PPSN XVI": {
+                    "latest_date": 1598880221,
                     "size": 1
                 }
             }
@@ -376,7 +380,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 208394067,
+            "latest_id": 208555450,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -548,6 +552,10 @@
                 },
                 "Online training - EU Proposal Writing": {
                     "latest_date": 1590413228,
+                    "size": 1
+                },
+                "PPSN XVI": {
+                    "latest_date": 1598880202,
                     "size": 1
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
@@ -919,5 +927,5 @@
             }
         }
     },
-    "time": 1598880193.6341324
+    "time": 1598880788.4393423
 }

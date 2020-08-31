@@ -8,9 +8,9 @@ permalink: /index.html
 
 ## Streams:
 
-* [general](stream/201199-general/index.html) (53 topics)
+* [events](stream/201207-events/index.html) (53 topics)
 
-* [events](stream/201207-events/index.html) (52 topics)
+* [general](stream/201199-general/index.html) (53 topics)
 
 * [covid-19](stream/226112-covid-19/index.html) (39 topics)
 
@@ -20,10 +20,10 @@ permalink: /index.html
 
 * [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (8 topics)
 
-* [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (6 topics)
+* [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (7 topics)
 
 * [ethics](stream/228366-ethics/index.html) (4 topics)
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Aug 31 2020 at 13:23 UTC</p>
+<hr><p>Last updated: Aug 31 2020 at 13:33 UTC</p>
