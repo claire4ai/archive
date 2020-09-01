@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [CfP: BNAIC-BENELEARN 2020 (deadline extended)](topic/CfP.3A.20BNAIC-BENELEARN.202020.20(deadline.20extended).html) (1 message, latest: Sep 01 2020 at 20:02)
 * [ANNPR 2020: One week to go!](topic/ANNPR.202020.3A.20One.20week.20to.20go!.html) (2 messages, latest: Sep 01 2020 at 16:44)
 * [ECAI 2020 {print edition & open access ebook now online}](topic/ECAI.202020.20.7Bprint.20edition.20.26.20open.20access.20ebook.20now.20online.7D.html) (1 message, latest: Aug 31 2020 at 14:06)
 * [PPSN XVI](topic/PPSN.20XVI.html) (1 message, latest: Aug 31 2020 at 13:23)
@@ -64,4 +65,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Sep 01 2020 at 19:53 UTC</p>
+<hr><p>Last updated: Sep 01 2020 at 20:07 UTC</p>

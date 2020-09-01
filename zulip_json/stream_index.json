@@ -388,7 +388,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 208715203,
+            "latest_id": 208740142,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -469,6 +469,10 @@
                 "CfP: BNAIC-BENELEARN 2020": {
                     "latest_date": 1596106466,
                     "size": 2
+                },
+                "CfP: BNAIC-BENELEARN 2020 (deadline extended)": {
+                    "latest_date": 1598990573,
+                    "size": 1
                 },
                 "CfP: EdbA 2020 - First International Workshop on Event Data": {
                     "latest_date": 1592255619,
@@ -939,5 +943,5 @@
             }
         }
     },
-    "time": 1598989980.0039678
+    "time": 1598990870.921868
 }
