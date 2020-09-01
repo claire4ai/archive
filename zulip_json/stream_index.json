@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 204339411,
+            "latest_id": 208653061,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1579697938,
@@ -82,6 +82,10 @@
                 },
                 "Official opening of CLAIRE office in Brussels": {
                     "latest_date": 1583947998,
+                    "size": 1
+                },
+                "PPP questionnaire [important!]": {
+                    "latest_date": 1598945595,
                     "size": 1
                 },
                 "Support from Finland!": {
@@ -931,5 +935,5 @@
             }
         }
     },
-    "time": 1598945277.7562895
+    "time": 1598945688.906603
 }

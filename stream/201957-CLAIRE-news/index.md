@@ -9,6 +9,7 @@ permalink: /stream/201957-CLAIRE-news/index.html
 
 ### Topics:
 
+* [PPP questionnaire \[important!\]](topic/PPP.20questionnaire.20.5Bimportant!.5D.html) (1 message, latest: Sep 01 2020 at 07:33)
 * [nature opinion piece on AI](topic/nature.20opinion.20piece.20on.20AI.html) (3 messages, latest: Jul 19 2020 at 08:38)
 * [CLAIRE 2nd Anniversary](topic/CLAIRE.202nd.20Anniversary.html) (6 messages, latest: Jun 18 2020 at 16:35)
 * [New ESA Kelvins competition](topic/New.20ESA.20Kelvins.20competition.html) (1 message, latest: Jun 08 2020 at 13:24)
@@ -39,4 +40,4 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [Community meeting at IJCAI 2019](topic/Community.20meeting.20at.20IJCAI.202019.html) (2 messages, latest: Aug 08 2019 at 12:03)
 * [hello](topic/hello.html) (4 messages, latest: Jul 26 2019 at 17:17)
 
-<hr><p>Last updated: Sep 01 2020 at 07:27 UTC</p>
+<hr><p>Last updated: Sep 01 2020 at 07:34 UTC</p>
