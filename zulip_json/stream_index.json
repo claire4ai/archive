@@ -388,7 +388,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 208785799,
+            "latest_id": 208805755,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -420,6 +420,10 @@
                 },
                 "Artificial Intelligence in European Space Research": {
                     "latest_date": 1595053000,
+                    "size": 1
+                },
+                "CLAIRE community event at ECAI 2020": {
+                    "latest_date": 1599043593,
                     "size": 1
                 },
                 "CLAIRE community meeting at IJCAI 2019": {
@@ -943,5 +947,5 @@
             }
         }
     },
-    "time": 1599043391.9560952
+    "time": 1599043987.1678433
 }
