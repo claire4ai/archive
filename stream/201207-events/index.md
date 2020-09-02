@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [European Research and Innovation Days](topic/European.20Research.20and.20Innovation.20Days.html) (4 messages, latest: Sep 02 2020 at 06:51)
 * [CfP: BNAIC-BENELEARN 2020 (deadline extended)](topic/CfP.3A.20BNAIC-BENELEARN.202020.20(deadline.20extended).html) (1 message, latest: Sep 01 2020 at 20:02)
 * [ANNPR 2020: One week to go!](topic/ANNPR.202020.3A.20One.20week.20to.20go!.html) (2 messages, latest: Sep 01 2020 at 16:44)
 * [ECAI 2020 {print edition & open access ebook now online}](topic/ECAI.202020.20.7Bprint.20edition.20.26.20open.20access.20ebook.20now.20online.7D.html) (1 message, latest: Aug 31 2020 at 14:06)
@@ -18,7 +19,6 @@ permalink: /stream/201207-events/index.html
 * [Online conference “Space and AI”, September 4 (ECAI)](topic/Online.20conference.20.E2.80.9CSpace.20and.20AI.E2.80.9D.2C.20September.204.20(ECAI).html) (1 message, latest: Aug 04 2020 at 07:44)
 * [Webinar "New Trends in AI in Central Europe"](topic/Webinar.20.22New.20Trends.20in.20AI.20in.20Central.20Europe.22.html) (2 messages, latest: Aug 03 2020 at 13:10)
 * [IFDaD 2020](topic/IFDaD.202020.html) (1 message, latest: Aug 01 2020 at 16:06)
-* [European Research and Innovation Days](topic/European.20Research.20and.20Innovation.20Days.html) (3 messages, latest: Jul 30 2020 at 11:11)
 * [CfP: BNAIC-BENELEARN 2020](topic/CfP.3A.20BNAIC-BENELEARN.202020.html) (2 messages, latest: Jul 30 2020 at 10:54)
 * [Talk: Preventing AI Abuse w/ Head of Facebook's AI Red Team](topic/Talk.3A.20Preventing.20AI.20Abuse.20w.2F.20Head.20of.20Facebook's.20AI.20Red.20Team.html) (1 message, latest: Jul 22 2020 at 09:03)
 * [Artificial Intelligence in European Space Research](topic/Artificial.20Intelligence.20in.20European.20Space.20Research.html) (1 message, latest: Jul 18 2020 at 06:16)
@@ -65,4 +65,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Sep 02 2020 at 06:43 UTC</p>
+<hr><p>Last updated: Sep 02 2020 at 06:53 UTC</p>
