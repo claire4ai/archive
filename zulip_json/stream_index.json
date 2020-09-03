@@ -388,7 +388,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 208805755,
+            "latest_id": 208929578,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -567,8 +567,8 @@
                     "size": 1
                 },
                 "Online conference “Space and AI”, September 4 (ECAI)": {
-                    "latest_date": 1596527064,
-                    "size": 1
+                    "latest_date": 1599118031,
+                    "size": 2
                 },
                 "Online training - EU Proposal Writing": {
                     "latest_date": 1590413228,
@@ -947,5 +947,5 @@
             }
         }
     },
-    "time": 1599117725.5633395
+    "time": 1599118400.5868416
 }
