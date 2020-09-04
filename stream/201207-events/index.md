@@ -9,8 +9,8 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [CLAIRE community event at ECAI 2020](topic/CLAIRE.20community.20event.20at.20ECAI.202020.html) (2 messages, latest: Sep 04 2020 at 06:51)
 * [Online conference “Space and AI”, September 4 (ECAI)](topic/Online.20conference.20.E2.80.9CSpace.20and.20AI.E2.80.9D.2C.20September.204.20(ECAI).html) (2 messages, latest: Sep 03 2020 at 07:27)
-* [CLAIRE community event at ECAI 2020](topic/CLAIRE.20community.20event.20at.20ECAI.202020.html) (1 message, latest: Sep 02 2020 at 10:46)
 * [European Research and Innovation Days](topic/European.20Research.20and.20Innovation.20Days.html) (4 messages, latest: Sep 02 2020 at 06:51)
 * [CfP: BNAIC-BENELEARN 2020 (deadline extended)](topic/CfP.3A.20BNAIC-BENELEARN.202020.20(deadline.20extended).html) (1 message, latest: Sep 01 2020 at 20:02)
 * [ANNPR 2020: One week to go!](topic/ANNPR.202020.3A.20One.20week.20to.20go!.html) (2 messages, latest: Sep 01 2020 at 16:44)
@@ -66,4 +66,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Sep 04 2020 at 06:43 UTC</p>
+<hr><p>Last updated: Sep 04 2020 at 06:53 UTC</p>

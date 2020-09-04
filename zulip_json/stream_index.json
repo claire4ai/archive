@@ -388,7 +388,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 208929578,
+            "latest_id": 209060485,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -423,8 +423,8 @@
                     "size": 1
                 },
                 "CLAIRE community event at ECAI 2020": {
-                    "latest_date": 1599043593,
-                    "size": 1
+                    "latest_date": 1599202303,
+                    "size": 2
                 },
                 "CLAIRE community meeting at IJCAI 2019": {
                     "latest_date": 1565265948,
@@ -947,5 +947,5 @@
             }
         }
     },
-    "time": 1599201791.7603393
+    "time": 1599202386.0769482
 }
