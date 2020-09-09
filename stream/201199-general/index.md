@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Call and Confrence ERA-NET CHIST-ERA](topic/Call.20and.20Confrence.20ERA-NET.20CHIST-ERA.html) (1 message, latest: Sep 09 2020 at 10:05)
 * [Human Brain Project (EBRAINS) calls](topic/Human.20Brain.20Project.20(EBRAINS).20calls.html) (5 messages, latest: Aug 31 2020 at 09:31)
 * [Podcast Eye on AI](topic/Podcast.20Eye.20on.20AI.html) (3 messages, latest: Aug 25 2020 at 07:00)
 * [Great success of CIIRC at the Championship in Autom. Reason.](topic/Great.20success.20of.20CIIRC.20at.20the.20Championship.20in.20Autom.2E.20Reason.2E.html) (1 message, latest: Aug 20 2020 at 14:32)
@@ -63,4 +64,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Sep 09 2020 at 09:53 UTC</p>
+<hr><p>Last updated: Sep 09 2020 at 10:06 UTC</p>
