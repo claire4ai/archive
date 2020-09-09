@@ -622,7 +622,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 209492274,
+            "latest_id": 209524978,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -778,6 +778,10 @@
                 },
                 "Post-doctoral opportunity @ ESA to do research  on AI": {
                     "latest_date": 1572342099,
+                    "size": 1
+                },
+                "Protect the European Research Council (ERC) in the EU budget": {
+                    "latest_date": 1599664400,
                     "size": 1
                 },
                 "Public Private Sector Partnerships": {
@@ -955,5 +959,5 @@
             }
         }
     },
-    "time": 1599664025.4863617
+    "time": 1599664972.0129802
 }
