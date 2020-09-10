@@ -848,7 +848,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 205323362,
+            "latest_id": 209604245,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -884,6 +884,10 @@
                 },
                 "Open Position @ Frankfurt Big Data Lab in AI and Ethics": {
                     "latest_date": 1583407316,
+                    "size": 1
+                },
+                "Open Position: Researcher for SW  Eng in Speech  Processing": {
+                    "latest_date": 1599723170,
                     "size": 1
                 },
                 "Opportunity @ ESA - AI for EO data": {
@@ -959,5 +963,5 @@
             }
         }
     },
-    "time": 1599722529.8766146
+    "time": 1599723214.5725129
 }

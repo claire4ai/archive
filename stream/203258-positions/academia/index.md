@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Open Position: Researcher for SW  Eng in Speech  Processing](topic/Open.20Position.3A.20Researcher.20for.20SW.20.20Eng.20in.20Speech.20.20Processing.html) (1 message, latest: Sep 10 2020 at 07:32)
 * [PostDocs and PhD positions in trustworthy AI](topic/PostDocs.20and.20PhD.20positions.20in.20trustworthy.20AI.html) (1 message, latest: Jul 29 2020 at 06:51)
 * [Postdocs in Reasoning&Learning at Linköping University, SE](topic/Postdocs.20in.20Reasoning.26Learning.20at.20Link.C3.B6ping.20University.2C.20SE.html) (1 message, latest: Jul 27 2020 at 06:14)
 * [Reseach positions in the Czech Republic](topic/Reseach.20positions.20in.20the.20Czech.20Republic.html) (1 message, latest: Jul 14 2020 at 11:23)
@@ -34,4 +35,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Sep 10 2020 at 07:22 UTC</p>
+<hr><p>Last updated: Sep 10 2020 at 07:33 UTC</p>
