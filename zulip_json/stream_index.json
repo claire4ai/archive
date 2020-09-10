@@ -622,7 +622,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 209651008,
+            "latest_id": 209655119,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -841,8 +841,8 @@
                     "size": 2
                 },
                 "test: can I disable others editing my topic?": {
-                    "latest_date": 1599747458,
-                    "size": 1
+                    "latest_date": 1599748698,
+                    "size": 2
                 },
                 "welcome": {
                     "latest_date": 1563176157,
@@ -967,5 +967,5 @@
             }
         }
     },
-    "time": 1599748399.0960143
+    "time": 1599748989.2189867
 }
