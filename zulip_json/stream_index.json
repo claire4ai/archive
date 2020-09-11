@@ -622,7 +622,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 209655119,
+            "latest_id": 209770011,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -781,8 +781,8 @@
                     "size": 1
                 },
                 "Protect the European Research Council (ERC) in the EU budget": {
-                    "latest_date": 1599664400,
-                    "size": 1
+                    "latest_date": 1599824707,
+                    "size": 2
                 },
                 "Public Private Sector Partnerships": {
                     "latest_date": 1573646134,
@@ -967,5 +967,5 @@
             }
         }
     },
-    "time": 1599824593.1532514
+    "time": 1599825189.3501773
 }
