@@ -370,8 +370,12 @@
         },
         "ethics": {
             "id": 228366,
-            "latest_id": 202355400,
+            "latest_id": 209927019,
             "topic_data": {
+                "Call for feedback: IEEE - Ethical criteria for contact tr...": {
+                    "latest_date": 1599997120,
+                    "size": 1
+                },
                 "Movement tracking apps": {
                     "latest_date": 1585236734,
                     "size": 2
@@ -967,5 +971,5 @@
             }
         }
     },
-    "time": 1599996827.8983855
+    "time": 1599997383.6204226
 }
