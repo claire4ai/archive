@@ -396,7 +396,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 209060485,
+            "latest_id": 209970338,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -620,6 +620,10 @@
                 },
                 "[WEBINAR] CLAIRE Task Force on AI & COVID-19": {
                     "latest_date": 1594228003,
+                    "size": 1
+                },
+                "e-Workshop on GANs for Media Content Generation - AI4Media": {
+                    "latest_date": 1600066636,
                     "size": 1
                 }
             }
@@ -971,5 +975,5 @@
             }
         }
     },
-    "time": 1600066386.9268773
+    "time": 1600067225.7763817
 }
