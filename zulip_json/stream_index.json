@@ -860,7 +860,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 209604245,
+            "latest_id": 210128349,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -900,6 +900,10 @@
                 },
                 "Open Position: Researcher for SW  Eng in Speech  Processing": {
                     "latest_date": 1599723170,
+                    "size": 1
+                },
+                "Open Positions at Blue Brain, EPFL": {
+                    "latest_date": 1600176310,
                     "size": 1
                 },
                 "Opportunity @ ESA - AI for EO data": {
@@ -975,5 +979,5 @@
             }
         }
     },
-    "time": 1600176133.9174325
+    "time": 1600176812.8660605
 }
