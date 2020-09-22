@@ -9,6 +9,7 @@ permalink: /stream/201957-CLAIRE-news/index.html
 
 ### Topics:
 
+* [new streams](topic/new.20streams.html) (3 messages, latest: Sep 22 2020 at 12:35)
 * [CLAIRE Updates](topic/CLAIRE.20Updates.html) (1 message, latest: Sep 09 2020 at 12:47)
 * [news](topic/news.html) (2 messages, latest: Sep 01 2020 at 16:41)
 * [PPP questionnaire \[important!\]](topic/PPP.20questionnaire.20.5Bimportant!.5D.html) (1 message, latest: Sep 01 2020 at 07:33)
@@ -16,7 +17,6 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [CLAIRE 2nd Anniversary](topic/CLAIRE.202nd.20Anniversary.html) (6 messages, latest: Jun 18 2020 at 16:35)
 * [New ESA Kelvins competition](topic/New.20ESA.20Kelvins.20competition.html) (1 message, latest: Jun 08 2020 at 13:24)
 * [EU News](topic/EU.20News.html) (9 messages, latest: Jun 01 2020 at 10:56)
-* [new streams](topic/new.20streams.html) (2 messages, latest: Apr 28 2020 at 07:30)
 * [CLAIRE initiative for supporting the public sector in dea...](topic/CLAIRE.20initiative.20for.20supporting.20the.20public.20sector.20in.20dea.2E.2E.2E.html) (3 messages, latest: Mar 30 2020 at 09:01)
 * [ICT-48 results](topic/ICT-48.20results.html) (8 messages, latest: Mar 21 2020 at 10:43)
 * [Official opening of CLAIRE office in Brussels](topic/Official.20opening.20of.20CLAIRE.20office.20in.20Brussels.html) (1 message, latest: Mar 11 2020 at 17:33)
@@ -42,4 +42,4 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [Community meeting at IJCAI 2019](topic/Community.20meeting.20at.20IJCAI.202019.html) (2 messages, latest: Aug 08 2019 at 12:03)
 * [hello](topic/hello.html) (4 messages, latest: Jul 26 2019 at 17:17)
 
-<hr><p>Last updated: Sep 22 2020 at 12:30 UTC</p>
+<hr><p>Last updated: Sep 22 2020 at 12:39 UTC</p>
