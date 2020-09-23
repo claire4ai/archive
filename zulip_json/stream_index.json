@@ -396,7 +396,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 209970338,
+            "latest_id": 210999382,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -584,6 +584,10 @@
                 },
                 "PPSN XVI": {
                     "latest_date": 1598880202,
+                    "size": 1
+                },
+                "Second European AI Alliance Assembly": {
+                    "latest_date": 1600866628,
                     "size": 1
                 },
                 "Series of Lectures : Ethical Implications of AI.": {
@@ -983,5 +987,5 @@
             }
         }
     },
-    "time": 1600866434.7658935
+    "time": 1600867370.2286353
 }
