@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [EIT on AI](topic/EIT.20on.20AI.html) (1 message, latest: Sep 23 2020 at 12:54)
 * [Protect the European Research Council (ERC) in the EU budget](topic/Protect.20the.20European.20Research.20Council.20(ERC).20in.20the.20EU.20budget.html) (2 messages, latest: Sep 11 2020 at 11:45)
 * [test: can I disable others editing my topic?](topic/test.3A.20can.20I.20disable.20others.20editing.20my.20topic.3F.html) (2 messages, latest: Sep 10 2020 at 14:38)
 * [Call and Confrence ERA-NET CHIST-ERA](topic/Call.20and.20Confrence.20ERA-NET.20CHIST-ERA.html) (1 message, latest: Sep 09 2020 at 10:05)
@@ -66,4 +67,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Sep 23 2020 at 12:53 UTC</p>
+<hr><p>Last updated: Sep 23 2020 at 13:07 UTC</p>

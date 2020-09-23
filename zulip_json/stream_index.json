@@ -630,7 +630,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 209770011,
+            "latest_id": 210997132,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -710,6 +710,10 @@
                 },
                 "EC news": {
                     "latest_date": 1581006440,
+                    "size": 1
+                },
+                "EIT on AI": {
+                    "latest_date": 1600865653,
                     "size": 1
                 },
                 "Faculty positions in NUI Galway, Ireland": {
@@ -979,5 +983,5 @@
             }
         }
     },
-    "time": 1600865601.4242463
+    "time": 1600866434.7658935
 }
