@@ -396,7 +396,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 210999382,
+            "latest_id": 211175679,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -530,6 +530,10 @@
                     "latest_date": 1580375877,
                     "size": 1
                 },
+                "GTC 2020": {
+                    "latest_date": 1600974253,
+                    "size": 1
+                },
                 "German-French collaboration": {
                     "latest_date": 1579259808,
                     "size": 1
@@ -634,7 +638,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 210997132,
+            "latest_id": 211175750,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -735,6 +739,10 @@
                 "Funding": {
                     "latest_date": 1572859138,
                     "size": 2
+                },
+                "GTC conference": {
+                    "latest_date": 1600974297,
+                    "size": 1
                 },
                 "Great success of CIIRC at the Championship in Autom. Reason.": {
                     "latest_date": 1597933924,
@@ -987,5 +995,5 @@
             }
         }
     },
-    "time": 1600973591.8200138
+    "time": 1600974418.6973922
 }

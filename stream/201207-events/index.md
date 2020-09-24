@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [GTC 2020](topic/GTC.202020.html) (1 message, latest: Sep 24 2020 at 19:04)
 * [Second European AI Alliance Assembly](topic/Second.20European.20AI.20Alliance.20Assembly.html) (1 message, latest: Sep 23 2020 at 13:10)
 * [e-Workshop on GANs for Media Content Generation - AI4Media](topic/e-Workshop.20on.20GANs.20for.20Media.20Content.20Generation.20-.20AI4Media.html) (1 message, latest: Sep 14 2020 at 06:57)
 * [CLAIRE community event at ECAI 2020](topic/CLAIRE.20community.20event.20at.20ECAI.202020.html) (2 messages, latest: Sep 04 2020 at 06:51)
@@ -68,4 +69,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Sep 24 2020 at 18:53 UTC</p>
+<hr><p>Last updated: Sep 24 2020 at 19:06 UTC</p>
