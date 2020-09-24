@@ -9,6 +9,7 @@ permalink: /stream/201957-CLAIRE-news/index.html
 
 ### Topics:
 
+* [(no topic)](topic/(no.20topic).html) (2 messages, latest: Sep 24 2020 at 14:42)
 * [new streams](topic/new.20streams.html) (3 messages, latest: Sep 22 2020 at 12:35)
 * [CLAIRE Updates](topic/CLAIRE.20Updates.html) (1 message, latest: Sep 09 2020 at 12:47)
 * [news](topic/news.html) (2 messages, latest: Sep 01 2020 at 16:41)
@@ -24,7 +25,6 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [Videos](topic/Videos.html) (1 message, latest: Mar 05 2020 at 09:42)
 * [CLAIRE-endorsed survey on best practices in machine learning](topic/CLAIRE-endorsed.20survey.20on.20best.20practices.20in.20machine.20learning.html) (1 message, latest: Feb 14 2020 at 14:07)
 * [German-French collaboration](topic/German-French.20collaboration.html) (1 message, latest: Jan 23 2020 at 10:38)
-* [(no topic)](topic/(no.20topic).html) (1 message, latest: Jan 22 2020 at 12:58)
 * [CLAIRE 18 months in](topic/CLAIRE.2018.20months.20in.html) (1 message, latest: Dec 20 2019 at 08:48)
 * [Official opening of CLAIRE HQ in The Hague (NL)](topic/Official.20opening.20of.20CLAIRE.20HQ.20in.20The.20Hague.20(NL).html) (10 messages, latest: Dec 17 2019 at 08:59)
 * [NL AI research agenda and strategic action plan](topic/NL.20AI.20research.20agenda.20and.20strategic.20action.20plan.html) (2 messages, latest: Dec 07 2019 at 17:10)
@@ -42,4 +42,4 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [Community meeting at IJCAI 2019](topic/Community.20meeting.20at.20IJCAI.202019.html) (2 messages, latest: Aug 08 2019 at 12:03)
 * [hello](topic/hello.html) (4 messages, latest: Jul 26 2019 at 17:17)
 
-<hr><p>Last updated: Sep 24 2020 at 14:33 UTC</p>
+<hr><p>Last updated: Sep 24 2020 at 14:43 UTC</p>

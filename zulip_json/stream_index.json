@@ -2,11 +2,11 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 210863051,
+            "latest_id": 211141090,
             "topic_data": {
                 "(no topic)": {
-                    "latest_date": 1579697938,
-                    "size": 1
+                    "latest_date": 1600958575,
+                    "size": 2
                 },
                 "20M for European Edge AI platform": {
                     "latest_date": 1575026715,
@@ -987,5 +987,5 @@
             }
         }
     },
-    "time": 1600958012.2274563
+    "time": 1600958597.200387
 }
