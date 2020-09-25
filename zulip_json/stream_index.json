@@ -208,7 +208,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 204179446,
+            "latest_id": 211227060,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -240,6 +240,10 @@
                 },
                 "CLAIRE and NECSI": {
                     "latest_date": 1584951520,
+                    "size": 1
+                },
+                "COVID-19 Symptom Data Challenge": {
+                    "latest_date": 1601019451,
                     "size": 1
                 },
                 "CT scan": {
@@ -995,5 +999,5 @@
             }
         }
     },
-    "time": 1601019223.983086
+    "time": 1601019804.75481
 }
