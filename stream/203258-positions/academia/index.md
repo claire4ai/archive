@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Open Positions in Zurich](topic/Open.20Positions.20in.20Zurich.html) (1 message, latest: Sep 29 2020 at 08:33)
 * [Open Positions at Blue Brain, EPFL](topic/Open.20Positions.20at.20Blue.20Brain.2C.20EPFL.html) (1 message, latest: Sep 15 2020 at 13:25)
 * [Open Position: Researcher for SW  Eng in Speech  Processing](topic/Open.20Position.3A.20Researcher.20for.20SW.20.20Eng.20in.20Speech.20.20Processing.html) (1 message, latest: Sep 10 2020 at 07:32)
 * [PostDocs and PhD positions in trustworthy AI](topic/PostDocs.20and.20PhD.20positions.20in.20trustworthy.20AI.html) (1 message, latest: Jul 29 2020 at 06:51)
@@ -36,4 +37,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Sep 29 2020 at 08:27 UTC</p>
+<hr><p>Last updated: Sep 29 2020 at 08:33 UTC</p>

@@ -642,7 +642,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 211175750,
+            "latest_id": 211593642,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -809,8 +809,8 @@
                     "size": 1
                 },
                 "Protect the European Research Council (ERC) in the EU budget": {
-                    "latest_date": 1599824707,
-                    "size": 2
+                    "latest_date": 1601368383,
+                    "size": 3
                 },
                 "Public Private Sector Partnerships": {
                     "latest_date": 1573646134,
@@ -880,7 +880,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 210128349,
+            "latest_id": 211593648,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -924,6 +924,10 @@
                 },
                 "Open Positions at Blue Brain, EPFL": {
                     "latest_date": 1600176310,
+                    "size": 1
+                },
+                "Open Positions in Zurich": {
+                    "latest_date": 1601368385,
                     "size": 1
                 },
                 "Opportunity @ ESA - AI for EO data": {
@@ -999,5 +1003,5 @@
             }
         }
     },
-    "time": 1601368028.9579523
+    "time": 1601368420.0021565
 }
