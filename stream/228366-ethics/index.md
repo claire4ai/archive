@@ -15,4 +15,4 @@ permalink: /stream/228366-ethics/index.html
 * [Movement tracking apps](topic/Movement.20tracking.20apps.html) (2 messages, latest: Mar 26 2020 at 15:32)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 20 2020 at 11:32)
 
-<hr><p>Last updated: Sep 30 2020 at 14:36 UTC</p>
+<hr><p>Last updated: Sep 30 2020 at 14:53 UTC</p>
