@@ -880,7 +880,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 211593648,
+            "latest_id": 211809842,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -912,6 +912,10 @@
                 },
                 "Idiap/EPFL (Switzerland): 1 Postdoc position in ML": {
                     "latest_date": 1580223594,
+                    "size": 1
+                },
+                "Many PhD fellowships in Data Science at University of Oslo": {
+                    "latest_date": 1601494861,
                     "size": 1
                 },
                 "Open Position @ Frankfurt Big Data Lab in AI and Ethics": {
@@ -1003,5 +1007,5 @@
             }
         }
     },
-    "time": 1601494420.9122217
+    "time": 1601494992.310754
 }
