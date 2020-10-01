@@ -374,7 +374,7 @@
         },
         "ethics": {
             "id": 228366,
-            "latest_id": 209927019,
+            "latest_id": 211898203,
             "topic_data": {
                 "Call for feedback: IEEE - Ethical criteria for contact tr...": {
                     "latest_date": 1599997120,
@@ -392,6 +392,10 @@
                     "latest_date": 1593457951,
                     "size": 1
                 },
+                "Workshop on Soft Law in Governance of AI": {
+                    "latest_date": 1601553165,
+                    "size": 1
+                },
                 "stream events": {
                     "latest_date": 1584703969,
                     "size": 1
@@ -400,7 +404,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 211175679,
+            "latest_id": 211898054,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -624,6 +628,10 @@
                 },
                 "Webinar: Artificial Intelligence for the Impact Economy": {
                     "latest_date": 1589192626,
+                    "size": 1
+                },
+                "Workshop on Soft Law in Governance of AI": {
+                    "latest_date": 1601553088,
                     "size": 1
                 },
                 "[CFP] Virtual - Special Session on  'AI for People'": {
@@ -1007,5 +1015,5 @@
             }
         }
     },
-    "time": 1601552596.549384
+    "time": 1601553180.738
 }
