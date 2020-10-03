@@ -650,7 +650,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 211593642,
+            "latest_id": 212170571,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1568104311,
@@ -799,6 +799,10 @@
                 "NeurIPs": {
                     "latest_date": 1568031230,
                     "size": 3
+                },
+                "Nomonations open for Label Expert Women in AI": {
+                    "latest_date": 1601730136,
+                    "size": 1
                 },
                 "PhD Positions in AI Bias": {
                     "latest_date": 1581607986,
@@ -1019,5 +1023,5 @@
             }
         }
     },
-    "time": 1601729623.269319
+    "time": 1601730451.8630106
 }
