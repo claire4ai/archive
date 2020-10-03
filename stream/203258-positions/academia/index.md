@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Faculty position EPFL Switzerland](topic/Faculty.20position.20EPFL.20Switzerland.html) (1 message, latest: Oct 03 2020 at 06:34)
 * [Many PhD fellowships in Data Science at University of Oslo](topic/Many.20PhD.20fellowships.20in.20Data.20Science.20at.20University.20of.20Oslo.html) (1 message, latest: Sep 30 2020 at 19:41)
 * [Open Positions in Zurich](topic/Open.20Positions.20in.20Zurich.html) (1 message, latest: Sep 29 2020 at 08:33)
 * [Open Positions at Blue Brain, EPFL](topic/Open.20Positions.20at.20Blue.20Brain.2C.20EPFL.html) (1 message, latest: Sep 15 2020 at 13:25)
@@ -38,4 +39,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Oct 03 2020 at 06:27 UTC</p>
+<hr><p>Last updated: Oct 03 2020 at 06:35 UTC</p>

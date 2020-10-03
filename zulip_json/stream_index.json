@@ -888,7 +888,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 211809842,
+            "latest_id": 212156410,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -904,6 +904,10 @@
                 },
                 "Doctoral or post-doctoral position in ASP at Potsdam": {
                     "latest_date": 1591086833,
+                    "size": 1
+                },
+                "Faculty position EPFL Switzerland": {
+                    "latest_date": 1601706896,
                     "size": 1
                 },
                 "Four Doctoral positions at CiTIUS-Santiago de Compostela": {
@@ -1015,5 +1019,5 @@
             }
         }
     },
-    "time": 1601706443.071104
+    "time": 1601706924.3218331
 }
