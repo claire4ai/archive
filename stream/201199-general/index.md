@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Invitation to help shape the TransContinuum Initiative (TCI)](topic/Invitation.20to.20help.20shape.20the.20TransContinuum.20Initiative.20(TCI).html) (1 message, latest: Oct 07 2020 at 13:46)
 * [Nomonations open for Label Expert Women in AI](topic/Nomonations.20open.20for.20Label.20Expert.20Women.20in.20AI.html) (1 message, latest: Oct 03 2020 at 13:02)
 * [Protect the European Research Council (ERC) in the EU budget](topic/Protect.20the.20European.20Research.20Council.20(ERC).20in.20the.20EU.20budget.html) (3 messages, latest: Sep 29 2020 at 08:33)
 * [GTC conference](topic/GTC.20conference.html) (1 message, latest: Sep 24 2020 at 19:04)
@@ -69,4 +70,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Oct 07 2020 at 13:43 UTC</p>
+<hr><p>Last updated: Oct 07 2020 at 13:53 UTC</p>
