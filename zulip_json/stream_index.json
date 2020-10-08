@@ -208,7 +208,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 211227060,
+            "latest_id": 212723126,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -248,6 +248,10 @@
                 },
                 "CT scan": {
                     "latest_date": 1586206066,
+                    "size": 1
+                },
+                "Call for papers: AI for Pandemics": {
+                    "latest_date": 1602177899,
                     "size": 1
                 },
                 "Calls for collaboration": {
@@ -1027,5 +1031,5 @@
             }
         }
     },
-    "time": 1602176873.0890117
+    "time": 1602177919.8542457
 }
