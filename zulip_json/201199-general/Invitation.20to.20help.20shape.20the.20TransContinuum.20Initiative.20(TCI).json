@@ -10,5 +10,11 @@
         "id": 212859972,
         "sender_full_name": "Peter Flach",
         "timestamp": 1602267852
+    },
+    {
+        "content": "<p>Dear Peter, \"EI\" stands for E-Infrastructure.  In the BDEC paper they talk about \"cyberinfrastructure\", but it is essentially the same thing. E-Infrastructure is the term the EC uses (see <a href=\"https://ec.europa.eu/digital-single-market/en/e-infrastructures\">https://ec.europa.eu/digital-single-market/en/e-infrastructures</a>)</p>\n<div class=\"message_embed\"><a class=\"message_embed_image\" href=\"https://ec.europa.eu/digital-single-market/en/e-infrastructures\" style=\"background-image: url(https://ec.europa.eu/digital-single-market/sites/digital-agenda/files/card_default.png)\"></a><div class=\"data-container\"><div class=\"message_embed_title\"><a href=\"https://ec.europa.eu/digital-single-market/en/e-infrastructures\" title=\"e-Infrastructures - Shaping Europe’s digital future - European Commission\">e-Infrastructures - Shaping Europe’s digital future - European Commission</a></div><div class=\"message_embed_description\">e-Infrastructures address the needs of European researchers for digital services in terms of networking, computing and data management.</div></div></div>",
+        "id": 213018550,
+        "sender_full_name": "Joost Geurts",
+        "timestamp": 1602496451
     }
 ]

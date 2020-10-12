@@ -654,7 +654,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 212922433,
+            "latest_id": 213018550,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -781,8 +781,8 @@
                     "size": 1
                 },
                 "Invitation to help shape the TransContinuum Initiative (TCI)": {
-                    "latest_date": 1602267852,
-                    "size": 2
+                    "latest_date": 1602496451,
+                    "size": 3
                 },
                 "LAI4D looks for research partners under H2020": {
                     "latest_date": 1587035701,
@@ -1031,5 +1031,5 @@
             }
         }
     },
-    "time": 1602496400.7793736
+    "time": 1602497304.9262629
 }
