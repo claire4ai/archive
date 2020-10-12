@@ -408,7 +408,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 211898054,
+            "latest_id": 213020053,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -416,6 +416,10 @@
                 },
                 "3.9. 2020  - Online Conf \"AI in Industry and Finance\"": {
                     "latest_date": 1594465924,
+                    "size": 1
+                },
+                "AI Science Café Series: Conversational AI. With Jan Šedivý": {
+                    "latest_date": 1602497537,
                     "size": 1
                 },
                 "AI and Visuospatial Cognition @ ECAI 2020": {
@@ -1031,5 +1035,5 @@
             }
         }
     },
-    "time": 1602497304.9262629
+    "time": 1602498469.105804
 }
