@@ -658,7 +658,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 213018550,
+            "latest_id": 213266680,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -730,6 +730,10 @@
                 },
                 "Call and Confrence ERA-NET CHIST-ERA": {
                     "latest_date": 1599645909,
+                    "size": 1
+                },
+                "Call for SMEs to join Focus group on AI": {
+                    "latest_date": 1602669176,
                     "size": 1
                 },
                 "Collaboration on FABRIC": {
@@ -1035,5 +1039,5 @@
             }
         }
     },
-    "time": 1602668747.7174385
+    "time": 1602669316.4718888
 }
