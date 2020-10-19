@@ -658,7 +658,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 213266680,
+            "latest_id": 213769583,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -786,6 +786,10 @@
                 },
                 "ITU Roundtable Global Initiative on AI & Data Commons": {
                     "latest_date": 1580373835,
+                    "size": 1
+                },
+                "Investigation into Research into rules and laws of AI": {
+                    "latest_date": 1603105456,
                     "size": 1
                 },
                 "Invitation to help shape the TransContinuum Initiative (TCI)": {
@@ -1039,5 +1043,5 @@
             }
         }
     },
-    "time": 1603104811.8953567
+    "time": 1603105684.5726998
 }
