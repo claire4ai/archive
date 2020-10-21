@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 211141090,
+            "latest_id": 214017706,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1600958575,
@@ -34,6 +34,10 @@
                 },
                 "CLAIRE-endorsed survey on best practices in machine learning": {
                     "latest_date": 1581689255,
+                    "size": 1
+                },
+                "Collaboration between CLAIRE and Bertelsmann": {
+                    "latest_date": 1603266626,
                     "size": 1
                 },
                 "Community meeting at IJCAI 2019": {
@@ -1043,5 +1047,5 @@
             }
         }
     },
-    "time": 1603266315.8895957
+    "time": 1603266793.6193492
 }
