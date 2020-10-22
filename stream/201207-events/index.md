@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Workshop "Interface between  Neuroscience, AI and Policy"](topic/Workshop.20.22Interface.20between.20.20Neuroscience.2C.20AI.20and.20Policy.22.html) (1 message, latest: Oct 22 2020 at 12:43)
 * [AI Science Café Series: Conversational AI. With Jan Šedivý](topic/AI.20Science.20Caf.C3.A9.20Series.3A.20Conversational.20AI.2E.20With.20Jan.20.C5.A0ediv.C3.BD.html) (1 message, latest: Oct 12 2020 at 10:12)
 * [Workshop on Soft Law in Governance of AI](topic/Workshop.20on.20Soft.20Law.20in.20Governance.20of.20AI.html) (1 message, latest: Oct 01 2020 at 11:51)
 * [GTC 2020](topic/GTC.202020.html) (1 message, latest: Sep 24 2020 at 19:04)
@@ -71,4 +72,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Oct 22 2020 at 12:37 UTC</p>
+<hr><p>Last updated: Oct 22 2020 at 12:51 UTC</p>

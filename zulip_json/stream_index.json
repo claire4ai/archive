@@ -416,7 +416,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 213020053,
+            "latest_id": 214180839,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -644,6 +644,10 @@
                 },
                 "Webinar: Artificial Intelligence for the Impact Economy": {
                     "latest_date": 1589192626,
+                    "size": 1
+                },
+                "Workshop \"Interface between  Neuroscience, AI and Policy\"": {
+                    "latest_date": 1603370633,
                     "size": 1
                 },
                 "Workshop on Soft Law in Governance of AI": {
@@ -1051,5 +1055,5 @@
             }
         }
     },
-    "time": 1603370269.7428365
+    "time": 1603371093.3725877
 }
