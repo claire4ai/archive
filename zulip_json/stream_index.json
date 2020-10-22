@@ -212,7 +212,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 212723126,
+            "latest_id": 214180093,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -272,6 +272,10 @@
                 },
                 "Coronavirus: The Hammer and the Dance": {
                     "latest_date": 1584785658,
+                    "size": 1
+                },
+                "Covid-19 MLIA Evaluation": {
+                    "latest_date": 1603370170,
                     "size": 1
                 },
                 "Covid-19 and digital surveillance": {
@@ -1047,5 +1051,5 @@
             }
         }
     },
-    "time": 1603368645.1565902
+    "time": 1603370269.7428365
 }
