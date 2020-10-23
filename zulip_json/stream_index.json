@@ -674,7 +674,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 213769583,
+            "latest_id": 214353870,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -762,6 +762,10 @@
                 },
                 "EIT on AI": {
                     "latest_date": 1600865653,
+                    "size": 1
+                },
+                "EU Council presidency conclusions on AI and human rights": {
+                    "latest_date": 1603480078,
                     "size": 1
                 },
                 "Faculty positions in NUI Galway, Ireland": {
@@ -1059,5 +1063,5 @@
             }
         }
     },
-    "time": 1603479233.1251218
+    "time": 1603480102.25235
 }
