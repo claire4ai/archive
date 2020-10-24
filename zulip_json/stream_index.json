@@ -932,7 +932,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 212156410,
+            "latest_id": 214423077,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -944,6 +944,10 @@
                 },
                 "15 PhD Positions  ITN: NoBIAS - AI without BIAS": {
                     "latest_date": 1581528389,
+                    "size": 1
+                },
+                "Academic position in Switzerland": {
+                    "latest_date": 1603539868,
                     "size": 1
                 },
                 "Doctoral or post-doctoral position in ASP at Potsdam": {
@@ -1063,5 +1067,5 @@
             }
         }
     },
-    "time": 1603539819.2142866
+    "time": 1603540425.4663913
 }
