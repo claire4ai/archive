@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 214180839,
+            "latest_id": 214548518,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -490,6 +490,10 @@
                     "latest_date": 1594988055,
                     "size": 1
                 },
+                "Call for contributions: TAILOR ECAI Workshop Post proceeding": {
+                    "latest_date": 1603703157,
+                    "size": 1
+                },
                 "Call for free online participation: Automated Extraction of": {
                     "latest_date": 1590775117,
                     "size": 1
@@ -516,6 +520,10 @@
                 },
                 "CfP: EdbA 2020 - First International Workshop on Event Data": {
                     "latest_date": 1592255619,
+                    "size": 1
+                },
+                "DSEG Decision Tree Workshop": {
+                    "latest_date": 1603702982,
                     "size": 1
                 },
                 "Digital ECAI2020": {
@@ -1067,5 +1075,5 @@
             }
         }
     },
-    "time": 1603702420.8639498
+    "time": 1603703361.2033517
 }
