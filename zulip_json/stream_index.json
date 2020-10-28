@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 214548518,
+            "latest_id": 214827257,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -491,8 +491,8 @@
                     "size": 1
                 },
                 "Call for contributions: TAILOR ECAI Workshop Post proceeding": {
-                    "latest_date": 1603703157,
-                    "size": 1
+                    "latest_date": 1603887114,
+                    "size": 3
                 },
                 "Call for free online participation: Automated Extraction of": {
                     "latest_date": 1590775117,
@@ -682,7 +682,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 214353870,
+            "latest_id": 214827569,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -801,8 +801,8 @@
                     "size": 1
                 },
                 "Human Brain Project (EBRAINS) calls": {
-                    "latest_date": 1598866319,
-                    "size": 5
+                    "latest_date": 1603887305,
+                    "size": 7
                 },
                 "ICT-48-2020": {
                     "latest_date": 1573414297,
@@ -1075,5 +1075,5 @@
             }
         }
     },
-    "time": 1603887093.8761294
+    "time": 1603888859.6612096
 }

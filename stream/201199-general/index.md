@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Human Brain Project (EBRAINS) calls](topic/Human.20Brain.20Project.20(EBRAINS).20calls.html) (7 messages, latest: Oct 28 2020 at 12:15)
 * [EU Council presidency conclusions on AI and human rights](topic/EU.20Council.20presidency.20conclusions.20on.20AI.20and.20human.20rights.html) (1 message, latest: Oct 23 2020 at 19:07)
 * [Investigation into Research into rules and laws of AI](topic/Investigation.20into.20Research.20into.20rules.20and.20laws.20of.20AI.html) (1 message, latest: Oct 19 2020 at 11:04)
 * [Call for SMEs to join Focus group on AI](topic/Call.20for.20SMEs.20to.20join.20Focus.20group.20on.20AI.html) (1 message, latest: Oct 14 2020 at 09:52)
@@ -20,7 +21,6 @@ permalink: /stream/201199-general/index.html
 * [EIT on AI](topic/EIT.20on.20AI.html) (1 message, latest: Sep 23 2020 at 12:54)
 * [test: can I disable others editing my topic?](topic/test.3A.20can.20I.20disable.20others.20editing.20my.20topic.3F.html) (2 messages, latest: Sep 10 2020 at 14:38)
 * [Call and Confrence ERA-NET CHIST-ERA](topic/Call.20and.20Confrence.20ERA-NET.20CHIST-ERA.html) (1 message, latest: Sep 09 2020 at 10:05)
-* [Human Brain Project (EBRAINS) calls](topic/Human.20Brain.20Project.20(EBRAINS).20calls.html) (5 messages, latest: Aug 31 2020 at 09:31)
 * [Podcast Eye on AI](topic/Podcast.20Eye.20on.20AI.html) (3 messages, latest: Aug 25 2020 at 07:00)
 * [Great success of CIIRC at the Championship in Autom. Reason.](topic/Great.20success.20of.20CIIRC.20at.20the.20Championship.20in.20Autom.2E.20Reason.2E.html) (1 message, latest: Aug 20 2020 at 14:32)
 * [Assistant Professorship Embedded Visual Computing @ Universi](topic/Assistant.20Professorship.20Embedded.20Visual.20Computing.20.40.20Universi.html) (1 message, latest: Aug 15 2020 at 15:04)
@@ -73,4 +73,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Oct 28 2020 at 12:11 UTC</p>
+<hr><p>Last updated: Oct 28 2020 at 12:40 UTC</p>
