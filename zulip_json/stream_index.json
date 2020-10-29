@@ -682,7 +682,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 214827569,
+            "latest_id": 214931783,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -875,6 +875,10 @@
                 "Public Private Sector Partnerships": {
                     "latest_date": 1573646134,
                     "size": 3
+                },
+                "Recommendations on the Prospects for Informatics in Germany": {
+                    "latest_date": 1603954743,
+                    "size": 1
                 },
                 "SIG space": {
                     "latest_date": 1580934757,
@@ -1075,5 +1079,5 @@
             }
         }
     },
-    "time": 1603954298.4970624
+    "time": 1603954814.0000389
 }

@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Recommendations on the Prospects for Informatics in Germany](topic/Recommendations.20on.20the.20Prospects.20for.20Informatics.20in.20Germany.html) (1 message, latest: Oct 29 2020 at 06:59)
 * [Human Brain Project (EBRAINS) calls](topic/Human.20Brain.20Project.20(EBRAINS).20calls.html) (7 messages, latest: Oct 28 2020 at 12:15)
 * [EU Council presidency conclusions on AI and human rights](topic/EU.20Council.20presidency.20conclusions.20on.20AI.20and.20human.20rights.html) (1 message, latest: Oct 23 2020 at 19:07)
 * [Investigation into Research into rules and laws of AI](topic/Investigation.20into.20Research.20into.20rules.20and.20laws.20of.20AI.html) (1 message, latest: Oct 19 2020 at 11:04)
@@ -73,4 +74,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Oct 29 2020 at 06:51 UTC</p>
+<hr><p>Last updated: Oct 29 2020 at 07:00 UTC</p>
