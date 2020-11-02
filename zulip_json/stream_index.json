@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 214827257,
+            "latest_id": 215339500,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -572,6 +572,10 @@
                 },
                 "German-French collaboration": {
                     "latest_date": 1579259808,
+                    "size": 1
+                },
+                "High-Level Conference Digital Health 2020 – EU on the Move": {
+                    "latest_date": 1604333432,
                     "size": 1
                 },
                 "IFDaD 2020": {
@@ -1079,5 +1083,5 @@
             }
         }
     },
-    "time": 1604332421.1144762
+    "time": 1604333436.3594754
 }
