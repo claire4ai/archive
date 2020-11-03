@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 215340506,
+            "latest_id": 215421890,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1600958575,
@@ -37,8 +37,8 @@
                     "size": 1
                 },
                 "Collaboration between CLAIRE and Bertelsmann": {
-                    "latest_date": 1604333774,
-                    "size": 3
+                    "latest_date": 1604390673,
+                    "size": 4
                 },
                 "Community meeting at IJCAI 2019": {
                     "latest_date": 1565265822,
@@ -1083,5 +1083,5 @@
             }
         }
     },
-    "time": 1604390009.989845
+    "time": 1604390847.9840562
 }
