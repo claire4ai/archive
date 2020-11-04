@@ -9,9 +9,9 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [DSEG Decision Tree Workshop](topic/DSEG.20Decision.20Tree.20Workshop.html) (2 messages, latest: Nov 04 2020 at 11:15)
 * [High-Level Conference Digital Health 2020 – EU on the Move](topic/High-Level.20Conference.20Digital.20Health.202020.20.E2.80.93.20EU.20on.20the.20Move.html) (1 message, latest: Nov 02 2020 at 16:10)
 * [Call for contributions: TAILOR ECAI Workshop Post proceeding](topic/Call.20for.20contributions.3A.20TAILOR.20ECAI.20Workshop.20Post.20proceeding.html) (3 messages, latest: Oct 28 2020 at 12:11)
-* [DSEG Decision Tree Workshop](topic/DSEG.20Decision.20Tree.20Workshop.html) (1 message, latest: Oct 26 2020 at 09:03)
 * [Workshop "Interface between  Neuroscience, AI and Policy"](topic/Workshop.20.22Interface.20between.20.20Neuroscience.2C.20AI.20and.20Policy.22.html) (1 message, latest: Oct 22 2020 at 12:43)
 * [AI Science Café Series: Conversational AI. With Jan Šedivý](topic/AI.20Science.20Caf.C3.A9.20Series.3A.20Conversational.20AI.2E.20With.20Jan.20.C5.A0ediv.C3.BD.html) (1 message, latest: Oct 12 2020 at 10:12)
 * [Workshop on Soft Law in Governance of AI](topic/Workshop.20on.20Soft.20Law.20in.20Governance.20of.20AI.html) (1 message, latest: Oct 01 2020 at 11:51)
@@ -75,4 +75,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Nov 04 2020 at 11:06 UTC</p>
+<hr><p>Last updated: Nov 04 2020 at 11:18 UTC</p>

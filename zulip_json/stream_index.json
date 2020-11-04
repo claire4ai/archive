@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 215339500,
+            "latest_id": 215567635,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -523,8 +523,8 @@
                     "size": 1
                 },
                 "DSEG Decision Tree Workshop": {
-                    "latest_date": 1603702982,
-                    "size": 1
+                    "latest_date": 1604488546,
+                    "size": 2
                 },
                 "Digital ECAI2020": {
                     "latest_date": 1591630352,
@@ -1083,5 +1083,5 @@
             }
         }
     },
-    "time": 1604487987.2559993
+    "time": 1604488729.485187
 }
