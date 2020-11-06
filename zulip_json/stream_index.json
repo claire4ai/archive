@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 215567635,
+            "latest_id": 215816717,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -644,6 +644,10 @@
                 },
                 "Symposium Global Perspectives on Responsible AI": {
                     "latest_date": 1593089290,
+                    "size": 1
+                },
+                "TRUSTINAI - RESPONSIBLE AI FOR SCIENCE AND SOCIETY": {
+                    "latest_date": 1604651121,
                     "size": 1
                 },
                 "Talk: Preventing AI Abuse w/ Head of Facebook's AI Red Team": {
@@ -1083,5 +1087,5 @@
             }
         }
     },
-    "time": 1604651084.8733616
+    "time": 1604651636.4669533
 }
