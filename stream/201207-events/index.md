@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Falling Walls Science Breakthroughs of the Year](topic/Falling.20Walls.20Science.20Breakthroughs.20of.20the.20Year.html) (1 message, latest: Nov 09 2020 at 10:40)
 * [TRUSTINAI - RESPONSIBLE AI FOR SCIENCE AND SOCIETY](topic/TRUSTINAI.20-.20RESPONSIBLE.20AI.20FOR.20SCIENCE.20AND.20SOCIETY.html) (1 message, latest: Nov 06 2020 at 08:25)
 * [DSEG Decision Tree Workshop](topic/DSEG.20Decision.20Tree.20Workshop.html) (2 messages, latest: Nov 04 2020 at 11:15)
 * [High-Level Conference Digital Health 2020 – EU on the Move](topic/High-Level.20Conference.20Digital.20Health.202020.20.E2.80.93.20EU.20on.20the.20Move.html) (1 message, latest: Nov 02 2020 at 16:10)
@@ -76,4 +77,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Nov 09 2020 at 10:37 UTC</p>
+<hr><p>Last updated: Nov 09 2020 at 10:45 UTC</p>

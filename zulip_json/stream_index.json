@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 215816717,
+            "latest_id": 216066761,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -557,6 +557,10 @@
                 "European Research and Innovation Days": {
                     "latest_date": 1599029469,
                     "size": 4
+                },
+                "Falling Walls Science Breakthroughs of the Year": {
+                    "latest_date": 1604918406,
+                    "size": 1
                 },
                 "First VIVA European Summer School on Artificial Intelligence": {
                     "latest_date": 1583157376,
@@ -1091,5 +1095,5 @@
             }
         }
     },
-    "time": 1604918238.4064596
+    "time": 1604918753.9707255
 }
