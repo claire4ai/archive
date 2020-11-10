@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 216066761,
+            "latest_id": 216188374,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -641,6 +641,10 @@
                 "Series of Lectures : Ethical Implications of AI.": {
                     "latest_date": 1592836096,
                     "size": 7
+                },
+                "Sixth Annual T.M.C. Asser Lecture on artificial intelligence": {
+                    "latest_date": 1605000860,
+                    "size": 1
                 },
                 "Summer School on Artificial Intelligence & Smart Health": {
                     "latest_date": 1592389386,
@@ -1095,5 +1099,5 @@
             }
         }
     },
-    "time": 1605000839.4428785
+    "time": 1605001429.0512264
 }
