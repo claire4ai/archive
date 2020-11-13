@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 216588860,
+            "latest_id": 216603097,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -635,8 +635,8 @@
                     "size": 1
                 },
                 "Open market consultation": {
-                    "latest_date": 1605261074,
-                    "size": 1
+                    "latest_date": 1605270323,
+                    "size": 2
                 },
                 "PPSN XVI": {
                     "latest_date": 1598880202,
@@ -1107,5 +1107,5 @@
             }
         }
     },
-    "time": 1605269301.6525373
+    "time": 1605270350.5644937
 }
