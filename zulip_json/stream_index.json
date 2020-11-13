@@ -140,7 +140,7 @@
         },
         "CLAIRE/CZ": {
             "id": 203399,
-            "latest_id": 208068924,
+            "latest_id": 216582733,
             "topic_data": {
                 "AI Awards 2019": {
                     "latest_date": 1580199052,
@@ -159,8 +159,8 @@
                     "size": 1
                 },
                 "News": {
-                    "latest_date": 1597824274,
-                    "size": 8
+                    "latest_date": 1605258097,
+                    "size": 9
                 },
                 "OK Hack hackaton": {
                     "latest_date": 1598433595,
@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 216188374,
+            "latest_id": 216582154,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -445,6 +445,10 @@
                 "AI for Weather and Climate Extremes Workshop - Sweden": {
                     "latest_date": 1570181826,
                     "size": 2
+                },
+                "AI4EU Webinars": {
+                    "latest_date": 1605257749,
+                    "size": 1
                 },
                 "ANNPR 2020: One week to go!": {
                     "latest_date": 1598978688,
@@ -1099,5 +1103,5 @@
             }
         }
     },
-    "time": 1605257624.862575
+    "time": 1605258438.998691
 }
