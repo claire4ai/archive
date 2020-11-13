@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 216582154,
+            "latest_id": 216588860,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -632,6 +632,10 @@
                 },
                 "Online training - EU Proposal Writing": {
                     "latest_date": 1590413228,
+                    "size": 1
+                },
+                "Open market consultation": {
+                    "latest_date": 1605261074,
                     "size": 1
                 },
                 "PPSN XVI": {
@@ -1103,5 +1107,5 @@
             }
         }
     },
-    "time": 1605260644.8999102
+    "time": 1605261217.004219
 }

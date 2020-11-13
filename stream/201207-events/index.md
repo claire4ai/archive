@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Open market consultation](topic/Open.20market.20consultation.html) (1 message, latest: Nov 13 2020 at 09:51)
 * [AI4EU Webinars](topic/AI4EU.20Webinars.html) (1 message, latest: Nov 13 2020 at 08:55)
 * [Sixth Annual T.M.C. Asser Lecture on artificial intelligence](topic/Sixth.20Annual.20T.2EM.2EC.2E.20Asser.20Lecture.20on.20artificial.20intelligence.html) (1 message, latest: Nov 10 2020 at 09:34)
 * [Falling Walls Science Breakthroughs of the Year](topic/Falling.20Walls.20Science.20Breakthroughs.20of.20the.20Year.html) (1 message, latest: Nov 09 2020 at 10:40)
@@ -79,4 +80,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Nov 13 2020 at 09:44 UTC</p>
+<hr><p>Last updated: Nov 13 2020 at 09:53 UTC</p>
