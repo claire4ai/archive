@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [‘Innovate your Space’ symposium themed ‘Smart Space’ - 08/12](topic/.E2.80.98Innovate.20your.20Space.E2.80.99.20symposium.20themed.20.E2.80.98Smart.20Space.E2.80.99.20-.2008.2F12.html) (1 message, latest: Nov 16 2020 at 16:12)
 * [Open market consultation](topic/Open.20market.20consultation.html) (3 messages, latest: Nov 13 2020 at 13:09)
 * [AI4EU Webinars](topic/AI4EU.20Webinars.html) (1 message, latest: Nov 13 2020 at 08:55)
 * [Sixth Annual T.M.C. Asser Lecture on artificial intelligence](topic/Sixth.20Annual.20T.2EM.2EC.2E.20Asser.20Lecture.20on.20artificial.20intelligence.html) (1 message, latest: Nov 10 2020 at 09:34)
@@ -80,4 +81,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Nov 16 2020 at 16:10 UTC</p>
+<hr><p>Last updated: Nov 16 2020 at 16:37 UTC</p>
