@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 216892955,
+            "latest_id": 217114199,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -612,6 +612,10 @@
                 },
                 "Invitation to join spotGEO, the latest competition from ESA.": {
                     "latest_date": 1590764294,
+                    "size": 1
+                },
+                "META-FORUM 2020: Piloting the European Language Grid": {
+                    "latest_date": 1605693160,
                     "size": 1
                 },
                 "Mentoring and Communication for Starting Researchers @ECAI20": {
@@ -1111,5 +1115,5 @@
             }
         }
     },
-    "time": 1605692646.2900648
+    "time": 1605693232.026015
 }
