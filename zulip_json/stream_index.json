@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 217114199,
+            "latest_id": 217135485,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -448,6 +448,10 @@
                 },
                 "AI4EU Webinars": {
                     "latest_date": 1605257749,
+                    "size": 1
+                },
+                "AI4People Summit, 1-2 December 2020": {
+                    "latest_date": 1605707044,
                     "size": 1
                 },
                 "ANNPR 2020: One week to go!": {
@@ -1115,5 +1119,5 @@
             }
         }
     },
-    "time": 1605707023.771787
+    "time": 1605707625.817024
 }
