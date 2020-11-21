@@ -718,7 +718,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 215883106,
+            "latest_id": 217497209,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -799,6 +799,10 @@
                 "Collaboration on FABRIC": {
                     "latest_date": 1571041337,
                     "size": 2
+                },
+                "EC AI consultation survey [URGENT]": {
+                    "latest_date": 1605957074,
+                    "size": 1
                 },
                 "EC news": {
                     "latest_date": 1581006440,
@@ -1119,5 +1123,5 @@
             }
         }
     },
-    "time": 1605956831.5515726
+    "time": 1605957641.6446297
 }
