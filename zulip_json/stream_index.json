@@ -718,7 +718,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 217497209,
+            "latest_id": 217729051,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -779,6 +779,10 @@
                 "CLAIRE Compute Cluster?": {
                     "latest_date": 1578572801,
                     "size": 9
+                },
+                "CLAIRE/AIHub - AI for Good series": {
+                    "latest_date": 1606209735,
+                    "size": 1
                 },
                 "CLAIRE/International": {
                     "latest_date": 1570793379,
@@ -1123,5 +1127,5 @@
             }
         }
     },
-    "time": 1606208833.4885714
+    "time": 1606209788.4991803
 }
