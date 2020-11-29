@@ -420,10 +420,14 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 217730411,
+            "latest_id": 218220015,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
+                    "size": 1
+                },
+                "1st INTERNATIONAL FORUM on DIGITAL and DEMOCRACY. Towards a": {
+                    "latest_date": 1606668629,
                     "size": 1
                 },
                 "3.9. 2020  - Online Conf \"AI in Industry and Finance\"": {
@@ -1139,5 +1143,5 @@
             }
         }
     },
-    "time": 1606668073.3127162
+    "time": 1606669126.5926366
 }
