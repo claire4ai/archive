@@ -9,6 +9,8 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Post doc position at Lausanne University Hospital (CH)](topic/Post.20doc.20position.20at.20Lausanne.20University.20Hospital.20(CH).html) (1 message, latest: Nov 29 2020 at 14:36)
+* [Professorship on Ethics, Tech and Society at ETHZ](topic/Professorship.20on.20Ethics.2C.20Tech.20and.20Society.20at.20ETHZ.html) (1 message, latest: Nov 29 2020 at 14:35)
 * [Academic position in Switzerland](topic/Academic.20position.20in.20Switzerland.html) (1 message, latest: Oct 24 2020 at 11:44)
 * [Faculty position EPFL Switzerland](topic/Faculty.20position.20EPFL.20Switzerland.html) (1 message, latest: Oct 03 2020 at 06:34)
 * [Many PhD fellowships in Data Science at University of Oslo](topic/Many.20PhD.20fellowships.20in.20Data.20Science.20at.20University.20of.20Oslo.html) (1 message, latest: Sep 30 2020 at 19:41)
@@ -40,4 +42,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Nov 29 2020 at 14:34 UTC</p>
+<hr><p>Last updated: Nov 29 2020 at 14:43 UTC</p>

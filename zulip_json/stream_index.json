@@ -996,7 +996,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 214423077,
+            "latest_id": 218215334,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1082,6 +1082,10 @@
                     "latest_date": 1570792005,
                     "size": 1
                 },
+                "Post doc position at Lausanne University Hospital (CH)": {
+                    "latest_date": 1606660577,
+                    "size": 1
+                },
                 "PostDocs and PhD positions in trustworthy AI": {
                     "latest_date": 1596005484,
                     "size": 1
@@ -1100,6 +1104,10 @@
                 },
                 "Postdocs in Reasoning&Learning at Linköping University, SE": {
                     "latest_date": 1595830478,
+                    "size": 1
+                },
+                "Professorship on Ethics, Tech and Society at ETHZ": {
+                    "latest_date": 1606660511,
                     "size": 1
                 },
                 "Reseach positions in the Czech Republic": {
@@ -1131,5 +1139,5 @@
             }
         }
     },
-    "time": 1606660463.8792517
+    "time": 1606661039.2275968
 }
