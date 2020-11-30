@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 218220015,
+            "latest_id": 218356100,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -560,6 +560,10 @@
                 },
                 "Ethics of algorithmic decision-making in heal": {
                     "latest_date": 1588598510,
+                    "size": 1
+                },
+                "European AI Policy Conference - TOMORROW": {
+                    "latest_date": 1606775564,
                     "size": 1
                 },
                 "European IP  Webinar: IP and Artificial Intelligence": {
@@ -1143,5 +1147,5 @@
             }
         }
     },
-    "time": 1606775372.6236367
+    "time": 1606775968.0342422
 }

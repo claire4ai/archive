@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [European AI Policy Conference - TOMORROW](topic/European.20AI.20Policy.20Conference.20-.20TOMORROW.html) (1 message, latest: Nov 30 2020 at 22:32)
 * [1st INTERNATIONAL FORUM on DIGITAL and DEMOCRACY. Towards a](topic/1st.20INTERNATIONAL.20FORUM.20on.20DIGITAL.20and.20DEMOCRACY.2E.20Towards.20a.html) (1 message, latest: Nov 29 2020 at 16:50)
 * [\[CFP\] AI & Society - Special Issue on 'AI for People'](topic/.5BCFP.5D.20AI.20.26.20Society.20-.20Special.20Issue.20on.20'AI.20for.20People'.html) (1 message, latest: Nov 24 2020 at 09:36)
 * [AI4People Summit, 1-2 December 2020](topic/AI4People.20Summit.2C.201-2.20December.202020.html) (1 message, latest: Nov 18 2020 at 13:44)
@@ -85,4 +86,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Nov 30 2020 at 22:29 UTC</p>
+<hr><p>Last updated: Nov 30 2020 at 22:39 UTC</p>
