@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 218522243,
+            "latest_id": 218553366,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -691,8 +691,8 @@
                     "size": 1
                 },
                 "We are AI Conference - AI in Africa, Dec 3-4": {
-                    "latest_date": 1606894033,
-                    "size": 1
+                    "latest_date": 1606914797,
+                    "size": 2
                 },
                 "Webinar \"New Trends in AI in Central Europe\"": {
                     "latest_date": 1596460216,
@@ -1151,5 +1151,5 @@
             }
         }
     },
-    "time": 1606914489.751943
+    "time": 1606915532.40804
 }

@@ -9,7 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
-* [We are AI Conference - AI in Africa, Dec 3-4](topic/We.20are.20AI.20Conference.20-.20AI.20in.20Africa.2C.20Dec.203-4.html) (1 message, latest: Dec 02 2020 at 07:27)
+* [We are AI Conference - AI in Africa, Dec 3-4](topic/We.20are.20AI.20Conference.20-.20AI.20in.20Africa.2C.20Dec.203-4.html) (2 messages, latest: Dec 02 2020 at 13:13)
 * [European AI Policy Conference - TOMORROW](topic/European.20AI.20Policy.20Conference.20-.20TOMORROW.html) (1 message, latest: Nov 30 2020 at 22:32)
 * [1st INTERNATIONAL FORUM on DIGITAL and DEMOCRACY. Towards a](topic/1st.20INTERNATIONAL.20FORUM.20on.20DIGITAL.20and.20DEMOCRACY.2E.20Towards.20a.html) (1 message, latest: Nov 29 2020 at 16:50)
 * [\[CFP\] AI & Society - Special Issue on 'AI for People'](topic/.5BCFP.5D.20AI.20.26.20Society.20-.20Special.20Issue.20on.20'AI.20for.20People'.html) (1 message, latest: Nov 24 2020 at 09:36)
@@ -87,4 +87,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Dec 02 2020 at 13:08 UTC</p>
+<hr><p>Last updated: Dec 02 2020 at 13:25 UTC</p>

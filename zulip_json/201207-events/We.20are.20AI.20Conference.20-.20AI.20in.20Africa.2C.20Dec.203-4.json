@@ -4,5 +4,11 @@
         "id": 218522243,
         "sender_full_name": "Andreas Matt (IMAGINARY, DE)",
         "timestamp": 1606894033
+    },
+    {
+        "content": "<p><a href=\"https://blogs.rstudio.com/ai/posts/2020-11-30-torch-brain-segmentation/\">https://blogs.rstudio.com/ai/posts/2020-11-30-torch-brain-segmentation/</a></p>\n<div class=\"message_embed\"><a class=\"message_embed_image\" href=\"https://blogs.rstudio.com/ai/posts/2020-11-30-torch-brain-segmentation/\" style=\"background-image: url(https://blogs.rstudio.com/tensorflow/posts/2020-11-30-torch-brain-segmentation/images/scans.png)\"></a><div class=\"data-container\"><div class=\"message_embed_title\"><a href=\"https://blogs.rstudio.com/ai/posts/2020-11-30-torch-brain-segmentation/\" title=\"RStudio AI Blog: Brain image segmentation with torch\">RStudio AI Blog: Brain image segmentation with torch</a></div><div class=\"message_embed_description\">The need to segment images arises in various sciences and their applications, many of which are vital to human (and animal) life. In this introductory post, we train a U-Net to mark lesioned regions on MRI brain scans.</div></div></div>",
+        "id": 218553366,
+        "sender_full_name": "Sonia Castro",
+        "timestamp": 1606914797
     }
 ]
