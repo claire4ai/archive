@@ -420,7 +420,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 218356100,
+            "latest_id": 218522243,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -688,6 +688,10 @@
                 },
                 "WIPO conversation: IP and AI": {
                     "latest_date": 1593458192,
+                    "size": 1
+                },
+                "We are AI Conference - AI in Africa, Dec 3-4": {
+                    "latest_date": 1606894033,
                     "size": 1
                 },
                 "Webinar \"New Trends in AI in Central Europe\"": {
@@ -1147,5 +1151,5 @@
             }
         }
     },
-    "time": 1606893962.7128127
+    "time": 1606894529.9757874
 }
