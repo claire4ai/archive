@@ -390,10 +390,14 @@
         },
         "ethics": {
             "id": 228366,
-            "latest_id": 211898203,
+            "latest_id": 219209283,
             "topic_data": {
                 "Call for feedback: IEEE - Ethical criteria for contact tr...": {
                     "latest_date": 1599997120,
+                    "size": 1
+                },
+                "Fondation Dalle-Molle - Création du label Qualité de Vie": {
+                    "latest_date": 1607436029,
                     "size": 1
                 },
                 "Movement tracking apps": {
@@ -1151,5 +1155,5 @@
             }
         }
     },
-    "time": 1607435657.2230074
+    "time": 1607436564.6643543
 }
