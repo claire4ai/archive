@@ -424,7 +424,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 218553366,
+            "latest_id": 219444632,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -572,6 +572,10 @@
                 },
                 "European IP  Webinar: IP and Artificial Intelligence": {
                     "latest_date": 1588945215,
+                    "size": 1
+                },
+                "European Innovation Summit  - CLAIRE session - TOMORROW!": {
+                    "latest_date": 1607590012,
                     "size": 1
                 },
                 "European Research and Innovation Days": {
@@ -1155,5 +1159,5 @@
             }
         }
     },
-    "time": 1607589262.3251078
+    "time": 1607590240.0284488
 }
