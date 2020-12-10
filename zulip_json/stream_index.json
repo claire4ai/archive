@@ -424,10 +424,14 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 219444632,
+            "latest_id": 219478201,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
+                    "size": 1
+                },
+                "12 EIS Conference session “AI for the Common Good”": {
+                    "latest_date": 1607610291,
                     "size": 1
                 },
                 "1st INTERNATIONAL FORUM on DIGITAL and DEMOCRACY. Towards a": {
@@ -1159,5 +1163,5 @@
             }
         }
     },
-    "time": 1607609352.7837164
+    "time": 1607610642.3638222
 }
