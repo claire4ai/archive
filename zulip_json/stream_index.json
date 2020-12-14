@@ -424,7 +424,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 219823727,
+            "latest_id": 219857893,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -564,6 +564,10 @@
                 },
                 "ESA's Collision Avoidance Challenge.": {
                     "latest_date": 1571405618,
+                    "size": 1
+                },
+                "ETP4HPC - CLAIRE WEBINAR  Tomorrow, 15 DECEMBER 10AM CET": {
+                    "latest_date": 1607960152,
                     "size": 1
                 },
                 "ETP4HPC WEBINAR: ARTIFICIAL INTELLIGENCE WITH CLAIRE": {
@@ -1167,5 +1171,5 @@
             }
         }
     },
-    "time": 1607959920.9026313
+    "time": 1607961021.5255785
 }

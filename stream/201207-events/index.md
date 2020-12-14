@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [ETP4HPC - CLAIRE WEBINAR  Tomorrow, 15 DECEMBER 10AM CET](topic/ETP4HPC.20-.20CLAIRE.20WEBINAR.20.20Tomorrow.2C.2015.20DECEMBER.2010AM.20CET.html) (1 message, latest: Dec 14 2020 at 15:35)
 * [ETP4HPC WEBINAR: ARTIFICIAL INTELLIGENCE WITH CLAIRE](topic/ETP4HPC.20WEBINAR.3A.20ARTIFICIAL.20INTELLIGENCE.20WITH.20CLAIRE.html) (1 message, latest: Dec 14 2020 at 10:37)
 * [12 EIS Conference session “AI for the Common Good”](topic/12.20EIS.20Conference.20session.20.E2.80.9CAI.20for.20the.20Common.20Good.E2.80.9D.html) (1 message, latest: Dec 10 2020 at 14:24)
 * [European Innovation Summit  - CLAIRE session - TOMORROW!](topic/European.20Innovation.20Summit.20.20-.20CLAIRE.20session.20-.20TOMORROW!.html) (1 message, latest: Dec 10 2020 at 08:46)
@@ -90,4 +91,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Dec 14 2020 at 15:32 UTC</p>
+<hr><p>Last updated: Dec 14 2020 at 15:50 UTC</p>
