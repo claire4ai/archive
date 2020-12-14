@@ -424,7 +424,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 219478201,
+            "latest_id": 219823727,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -564,6 +564,10 @@
                 },
                 "ESA's Collision Avoidance Challenge.": {
                     "latest_date": 1571405618,
+                    "size": 1
+                },
+                "ETP4HPC WEBINAR: ARTIFICIAL INTELLIGENCE WITH CLAIRE": {
+                    "latest_date": 1607942221,
                     "size": 1
                 },
                 "Ethics of algorithmic decision-making in heal": {
@@ -746,7 +750,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 217729051,
+            "latest_id": 219824125,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -893,8 +897,8 @@
                     "size": 1
                 },
                 "Invitation to help shape the TransContinuum Initiative (TCI)": {
-                    "latest_date": 1602496451,
-                    "size": 3
+                    "latest_date": 1607942484,
+                    "size": 4
                 },
                 "Job openings": {
                     "latest_date": 1604686288,
@@ -1163,5 +1167,5 @@
             }
         }
     },
-    "time": 1607941956.5859308
+    "time": 1607943073.1594608
 }

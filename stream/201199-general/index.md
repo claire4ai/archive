@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Invitation to help shape the TransContinuum Initiative (TCI)](topic/Invitation.20to.20help.20shape.20the.20TransContinuum.20Initiative.20(TCI).html) (4 messages, latest: Dec 14 2020 at 10:41)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (1 message, latest: Nov 24 2020 at 09:22)
 * [EC AI consultation survey \[URGENT\]](topic/EC.20AI.20consultation.20survey.20.5BURGENT.5D.html) (1 message, latest: Nov 21 2020 at 11:11)
 * [Job openings](topic/Job.20openings.html) (1 message, latest: Nov 06 2020 at 18:11)
@@ -17,7 +18,6 @@ permalink: /stream/201199-general/index.html
 * [EU Council presidency conclusions on AI and human rights](topic/EU.20Council.20presidency.20conclusions.20on.20AI.20and.20human.20rights.html) (1 message, latest: Oct 23 2020 at 19:07)
 * [Investigation into Research into rules and laws of AI](topic/Investigation.20into.20Research.20into.20rules.20and.20laws.20of.20AI.html) (1 message, latest: Oct 19 2020 at 11:04)
 * [Call for SMEs to join Focus group on AI](topic/Call.20for.20SMEs.20to.20join.20Focus.20group.20on.20AI.html) (1 message, latest: Oct 14 2020 at 09:52)
-* [Invitation to help shape the TransContinuum Initiative (TCI)](topic/Invitation.20to.20help.20shape.20the.20TransContinuum.20Initiative.20(TCI).html) (3 messages, latest: Oct 12 2020 at 09:54)
 * [(no topic)](topic/(no.20topic).html) (3 messages, latest: Oct 10 2020 at 16:10)
 * [Nomonations open for Label Expert Women in AI](topic/Nomonations.20open.20for.20Label.20Expert.20Women.20in.20AI.html) (1 message, latest: Oct 03 2020 at 13:02)
 * [Protect the European Research Council (ERC) in the EU budget](topic/Protect.20the.20European.20Research.20Council.20(ERC).20in.20the.20EU.20budget.html) (3 messages, latest: Sep 29 2020 at 08:33)
@@ -77,4 +77,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Dec 14 2020 at 10:32 UTC</p>
+<hr><p>Last updated: Dec 14 2020 at 10:51 UTC</p>
