@@ -424,7 +424,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 219857893,
+            "latest_id": 219950007,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -616,6 +616,10 @@
                 },
                 "High-Level Conference Digital Health 2020 – EU on the Move": {
                     "latest_date": 1604333432,
+                    "size": 1
+                },
+                "Humane AI Net project Panel": {
+                    "latest_date": 1608021967,
                     "size": 1
                 },
                 "IFDaD 2020": {
@@ -1171,5 +1175,5 @@
             }
         }
     },
-    "time": 1608021468.4604955
+    "time": 1608022387.2194667
 }
