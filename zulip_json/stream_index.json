@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 215551879,
+            "latest_id": 219994407,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1600958575,
@@ -94,6 +94,10 @@
                 },
                 "PPP questionnaire [important!]": {
                     "latest_date": 1598945595,
+                    "size": 1
+                },
+                "Series of joint Theme Development Workshops": {
+                    "latest_date": 1608046099,
                     "size": 1
                 },
                 "Support from Finland!": {
@@ -1175,5 +1179,5 @@
             }
         }
     },
-    "time": 1608044930.6698325
+    "time": 1608046349.3045359
 }
