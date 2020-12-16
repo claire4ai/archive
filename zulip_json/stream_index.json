@@ -148,10 +148,14 @@
         },
         "CLAIRE/CZ": {
             "id": 203399,
-            "latest_id": 216582733,
+            "latest_id": 220165864,
             "topic_data": {
                 "AI Awards 2019": {
                     "latest_date": 1580199052,
+                    "size": 1
+                },
+                "Analysis of AI in CZ and PL": {
+                    "latest_date": 1608149192,
                     "size": 1
                 },
                 "CZECHCRUNCH Podcast": {
@@ -1187,5 +1191,5 @@
             }
         }
     },
-    "time": 1608148431.2140572
+    "time": 1608149336.0018096
 }

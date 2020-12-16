@@ -9,6 +9,7 @@ permalink: /stream/203399-CLAIRE/CZ/index.html
 
 ### Topics:
 
+* [Analysis of AI in CZ and PL](topic/Analysis.20of.20AI.20in.20CZ.20and.20PL.html) (1 message, latest: Dec 16 2020 at 20:06)
 * [News](topic/News.html) (9 messages, latest: Nov 13 2020 at 09:01)
 * [OK Hack hackaton](topic/OK.20Hack.20hackaton.html) (1 message, latest: Aug 26 2020 at 09:19)
 * [CZECHCRUNCH Podcast](topic/CZECHCRUNCH.20Podcast.html) (1 message, latest: Aug 07 2020 at 11:36)
@@ -18,4 +19,4 @@ permalink: /stream/203399-CLAIRE/CZ/index.html
 * [Hello from CLAIRE Prague Office](topic/Hello.20from.20CLAIRE.20Prague.20Office.html) (1 message, latest: Jan 23 2020 at 10:19)
 * [hello](topic/hello.html) (1 message, latest: Jul 08 2019 at 07:26)
 
-<hr><p>Last updated: Dec 16 2020 at 19:53 UTC</p>
+<hr><p>Last updated: Dec 16 2020 at 20:08 UTC</p>
