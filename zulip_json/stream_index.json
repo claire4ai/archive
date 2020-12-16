@@ -2,11 +2,15 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 219994407,
+            "latest_id": 220122805,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1600958575,
                     "size": 2
+                },
+                "10 min Survey: Engineering Practices for ML Applications": {
+                    "latest_date": 1608129546,
+                    "size": 1
                 },
                 "20M for European Edge AI platform": {
                     "latest_date": 1575026715,
@@ -182,8 +186,12 @@
         },
         "CLAIRE/NL": {
             "id": 203255,
-            "latest_id": 208555469,
+            "latest_id": 220122983,
             "topic_data": {
+                "10 min Survey: Engineering Practices for ML Applications": {
+                    "latest_date": 1608129608,
+                    "size": 1
+                },
                 "AI factsheet": {
                     "latest_date": 1580302268,
                     "size": 1
@@ -1179,5 +1187,5 @@
             }
         }
     },
-    "time": 1608129163.7760503
+    "time": 1608130001.2403278
 }
