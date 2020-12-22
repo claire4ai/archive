@@ -1048,7 +1048,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 218215334,
+            "latest_id": 220667920,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1116,6 +1116,10 @@
                 },
                 "PhD position / XAI / ILP": {
                     "latest_date": 1568450245,
+                    "size": 1
+                },
+                "PhD position at Idiap Research Inst (CH)": {
+                    "latest_date": 1608625486,
                     "size": 1
                 },
                 "PhD position at Public University of Navarra": {
@@ -1191,5 +1195,5 @@
             }
         }
     },
-    "time": 1608624810.5482857
+    "time": 1608626998.610051
 }
