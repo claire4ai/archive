@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [DNN Simplification](topic/DNN.20Simplification.html) (1 message, latest: Dec 23 2020 at 14:16)
 * [Invitation to help shape the TransContinuum Initiative (TCI)](topic/Invitation.20to.20help.20shape.20the.20TransContinuum.20Initiative.20(TCI).html) (4 messages, latest: Dec 14 2020 at 10:41)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (1 message, latest: Nov 24 2020 at 09:22)
 * [EC AI consultation survey \[URGENT\]](topic/EC.20AI.20consultation.20survey.20.5BURGENT.5D.html) (1 message, latest: Nov 21 2020 at 11:11)
@@ -77,4 +78,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Dec 23 2020 at 14:13 UTC</p>
+<hr><p>Last updated: Dec 23 2020 at 14:43 UTC</p>

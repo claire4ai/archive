@@ -774,7 +774,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 219824125,
+            "latest_id": 220791953,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -859,6 +859,10 @@
                 "Collaboration on FABRIC": {
                     "latest_date": 1571041337,
                     "size": 2
+                },
+                "DNN Simplification": {
+                    "latest_date": 1608732968,
+                    "size": 1
                 },
                 "EC AI consultation survey [URGENT]": {
                     "latest_date": 1605957074,
@@ -1195,5 +1199,5 @@
             }
         }
     },
-    "time": 1608732796.313013
+    "time": 1608734639.5647008
 }
