@@ -9,10 +9,10 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (2 messages, latest: Jan 04 2021 at 10:11)
 * [German-Moroccan Cooperation in R&D and Innovation PMARS 202](topic/German-Moroccan.20Cooperation.20in.20R.26D.20and.20Innovation.20PMARS.20202.html) (1 message, latest: Dec 25 2020 at 09:18)
 * [DNN Simplification](topic/DNN.20Simplification.html) (1 message, latest: Dec 23 2020 at 14:16)
 * [Invitation to help shape the TransContinuum Initiative (TCI)](topic/Invitation.20to.20help.20shape.20the.20TransContinuum.20Initiative.20(TCI).html) (4 messages, latest: Dec 14 2020 at 10:41)
-* [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (1 message, latest: Nov 24 2020 at 09:22)
 * [EC AI consultation survey \[URGENT\]](topic/EC.20AI.20consultation.20survey.20.5BURGENT.5D.html) (1 message, latest: Nov 21 2020 at 11:11)
 * [Job openings](topic/Job.20openings.html) (1 message, latest: Nov 06 2020 at 18:11)
 * [Recommendations on the Prospects for Informatics in Germany](topic/Recommendations.20on.20the.20Prospects.20for.20Informatics.20in.20Germany.html) (1 message, latest: Oct 29 2020 at 06:59)
@@ -79,4 +79,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Jan 04 2021 at 10:01 UTC</p>
+<hr><p>Last updated: Jan 04 2021 at 10:43 UTC</p>
