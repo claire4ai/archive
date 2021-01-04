@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (1 message, latest: Jan 04 2021 at 15:54)
 * [OECD Webinar: AI and COVID-19 in Latin America](topic/OECD.20Webinar.3A.20AI.20and.20COVID-19.20in.20Latin.20America.html) (1 message, latest: Oct 22 2020 at 12:56)
 * [Covid-19 MLIA Evaluation](topic/Covid-19.20MLIA.20Evaluation.html) (1 message, latest: Oct 22 2020 at 12:36)
 * [Call for papers: AI for Pandemics](topic/Call.20for.20papers.3A.20AI.20for.20Pandemics.html) (1 message, latest: Oct 08 2020 at 17:24)
@@ -53,4 +54,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Jan 04 2021 at 15:49 UTC</p>
+<hr><p>Last updated: Jan 04 2021 at 16:14 UTC</p>

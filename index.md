@@ -12,7 +12,7 @@ permalink: /index.html
 
 * [general](stream/201199-general/index.html) (69 topics)
 
-* [covid-19](stream/226112-covid-19/index.html) (43 topics)
+* [covid-19](stream/226112-covid-19/index.html) (44 topics)
 
 * [CLAIRE news](stream/201957-CLAIRE-news/index.html) (35 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Jan 04 2021 at 15:49 UTC</p>
+<hr><p>Last updated: Jan 04 2021 at 16:14 UTC</p>
