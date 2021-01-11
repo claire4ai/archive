@@ -782,7 +782,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 221757845,
+            "latest_id": 222305171,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -995,6 +995,10 @@
                 "Public Private Sector Partnerships": {
                     "latest_date": 1573646134,
                     "size": 3
+                },
+                "Public consultation on ethical guidance for AI & robotics": {
+                    "latest_date": 1610376234,
+                    "size": 1
                 },
                 "Recommendations on the Prospects for Informatics in Germany": {
                     "latest_date": 1603954743,
@@ -1211,5 +1215,5 @@
             }
         }
     },
-    "time": 1610373963.3309243
+    "time": 1610376362.4499936
 }
