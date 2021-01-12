@@ -1068,7 +1068,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 220667920,
+            "latest_id": 222401145,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1100,6 +1100,10 @@
                 },
                 "HCI / AI / PostDoc": {
                     "latest_date": 1568371559,
+                    "size": 1
+                },
+                "Head of Department of Artificial Intelligence-HU-ELTE": {
+                    "latest_date": 1610438728,
                     "size": 1
                 },
                 "ICT-48 RIA TAILOR: Call for Participation": {
@@ -1215,5 +1219,5 @@
             }
         }
     },
-    "time": 1610438361.9033484
+    "time": 1610440675.973028
 }

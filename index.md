@@ -16,7 +16,7 @@ permalink: /index.html
 
 * [CLAIRE news](stream/201957-CLAIRE-news/index.html) (35 topics)
 
-* [positions/academia](stream/203258-positions/academia/index.html) (33 topics)
+* [positions/academia](stream/203258-positions/academia/index.html) (34 topics)
 
 * [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (10 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Jan 12 2021 at 07:59 UTC</p>
+<hr><p>Last updated: Jan 12 2021 at 08:37 UTC</p>

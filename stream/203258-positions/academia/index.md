@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Head of Department of Artificial Intelligence-HU-ELTE](topic/Head.20of.20Department.20of.20Artificial.20Intelligence-HU-ELTE.html) (1 message, latest: Jan 12 2021 at 08:05)
 * [PhD position at Idiap Research Inst (CH)](topic/PhD.20position.20at.20Idiap.20Research.20Inst.20(CH).html) (1 message, latest: Dec 22 2020 at 08:24)
 * [Post doc position at Lausanne University Hospital (CH)](topic/Post.20doc.20position.20at.20Lausanne.20University.20Hospital.20(CH).html) (1 message, latest: Nov 29 2020 at 14:36)
 * [Professorship on Ethics, Tech and Society at ETHZ](topic/Professorship.20on.20Ethics.2C.20Tech.20and.20Society.20at.20ETHZ.html) (1 message, latest: Nov 29 2020 at 14:35)
@@ -43,4 +44,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Jan 12 2021 at 07:59 UTC</p>
+<hr><p>Last updated: Jan 12 2021 at 08:37 UTC</p>
