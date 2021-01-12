@@ -448,7 +448,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 219950007,
+            "latest_id": 222449844,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -688,6 +688,10 @@
                 },
                 "MobileHCI-Call for Tutorials": {
                     "latest_date": 1591080317,
+                    "size": 1
+                },
+                "NIST Workshop on Explainable AI: Jan 26-28": {
+                    "latest_date": 1610466521,
                     "size": 1
                 },
                 "Online conference “Space and AI”, September 4 (ECAI)": {
@@ -1219,5 +1223,5 @@
             }
         }
     },
-    "time": 1610464743.1748636
+    "time": 1610467023.1371503
 }
