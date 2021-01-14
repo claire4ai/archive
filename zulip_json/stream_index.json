@@ -448,7 +448,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 222449844,
+            "latest_id": 222701671,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -760,6 +760,10 @@
                 },
                 "Workshop on Soft Law in Governance of AI": {
                     "latest_date": 1601553088,
+                    "size": 1
+                },
+                "World Logic Day": {
+                    "latest_date": 1610621017,
                     "size": 1
                 },
                 "[CFP] AI & Society - Special Issue on 'AI for People'": {
@@ -1223,5 +1227,5 @@
             }
         }
     },
-    "time": 1610619657.2139735
+    "time": 1610623072.5366943
 }
