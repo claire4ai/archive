@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 220122805,
+            "latest_id": 222761087,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1600958575,
@@ -23,6 +23,10 @@
                 "CLAIRE 2nd Anniversary": {
                     "latest_date": 1592498156,
                     "size": 6
+                },
+                "CLAIRE Covid19 Initiative: Meet the Team Leaders video serie": {
+                    "latest_date": 1610649042,
+                    "size": 1
                 },
                 "CLAIRE Updates": {
                     "latest_date": 1599655673,
@@ -1227,5 +1231,5 @@
             }
         }
     },
-    "time": 1610645413.595222
+    "time": 1610649702.5285616
 }
