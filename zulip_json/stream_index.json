@@ -1080,7 +1080,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 222401145,
+            "latest_id": 222909334,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1148,6 +1148,10 @@
                 },
                 "Opportunity @ ESA - AI for EO data": {
                     "latest_date": 1587978501,
+                    "size": 1
+                },
+                "PhD and Postdoc position at ETH Zurich": {
+                    "latest_date": 1610737900,
                     "size": 1
                 },
                 "PhD position / XAI / ILP": {
@@ -1231,5 +1235,5 @@
             }
         }
     },
-    "time": 1610737344.79041
+    "time": 1610740862.4207294
 }
