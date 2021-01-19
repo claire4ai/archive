@@ -452,7 +452,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 222701671,
+            "latest_id": 223209940,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -788,6 +788,10 @@
                 },
                 "‘Innovate your Space’ symposium themed ‘Smart Space’ - 08/12": {
                     "latest_date": 1605543159,
+                    "size": 1
+                },
+                "‘Keep on learning without forgetting’ Lecture": {
+                    "latest_date": 1611052912,
                     "size": 1
                 }
             }
@@ -1235,5 +1239,5 @@
             }
         }
     },
-    "time": 1611052569.9678686
+    "time": 1611055875.8438716
 }
