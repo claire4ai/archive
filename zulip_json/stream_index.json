@@ -798,7 +798,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 222305171,
+            "latest_id": 223378092,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1068,6 +1068,10 @@
                     "latest_date": 1571235261,
                     "size": 1
                 },
+                "quant finance company seeking CLAIRE teams to work with": {
+                    "latest_date": 1611152555,
+                    "size": 1
+                },
                 "special issues": {
                     "latest_date": 1582017784,
                     "size": 2
@@ -1239,5 +1243,5 @@
             }
         }
     },
-    "time": 1611150019.9279592
+    "time": 1611152714.9794385
 }
