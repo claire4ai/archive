@@ -452,7 +452,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 223209940,
+            "latest_id": 223546900,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -504,6 +504,10 @@
                 },
                 "Artificial Intelligence in European Space Research": {
                     "latest_date": 1595053000,
+                    "size": 1
+                },
+                "CALL FOR SPEAKERS  -  AI4HEALTH 2021 Lecture Series": {
+                    "latest_date": 1611252094,
                     "size": 1
                 },
                 "CLAIRE community event at ECAI 2020": {
@@ -1243,5 +1247,5 @@
             }
         }
     },
-    "time": 1611250356.6338732
+    "time": 1611254365.8895879
 }
