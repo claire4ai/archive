@@ -806,7 +806,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 223378092,
+            "latest_id": 223619763,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -910,6 +910,10 @@
                 },
                 "EU Council presidency conclusions on AI and human rights": {
                     "latest_date": 1603480078,
+                    "size": 1
+                },
+                "FDA releases AI/ML-bases SW as Medicsl Device action plan": {
+                    "latest_date": 1611308436,
                     "size": 1
                 },
                 "Faculty positions in NUI Galway, Ireland": {
@@ -1251,5 +1255,5 @@
             }
         }
     },
-    "time": 1611308420.6111188
+    "time": 1611311663.4577425
 }

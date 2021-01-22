@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [FDA releases AI/ML-bases SW as Medicsl Device action plan](topic/FDA.20releases.20AI.2FML-bases.20SW.20as.20Medicsl.20Device.20action.20plan.html) (1 message, latest: Jan 22 2021 at 09:40)
 * [quant finance company seeking CLAIRE teams to work with](topic/quant.20finance.20company.20seeking.20CLAIRE.20teams.20to.20work.20with.html) (1 message, latest: Jan 20 2021 at 14:22)
 * [Public consultation on ethical guidance for AI & robotics](topic/Public.20consultation.20on.20ethical.20guidance.20for.20AI.20.26.20robotics.html) (1 message, latest: Jan 11 2021 at 14:43)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (3 messages, latest: Jan 06 2021 at 11:39)
@@ -81,4 +82,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Jan 22 2021 at 09:40 UTC</p>
+<hr><p>Last updated: Jan 22 2021 at 10:34 UTC</p>
