@@ -9,6 +9,8 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [PhD position at CHUV, EPFL, Switzerland](topic/PhD.20position.20at.20CHUV.2C.20EPFL.2C.20Switzerland.html) (1 message, latest: Jan 22 2021 at 19:10)
+* [PhD position on Deep Learning at ZHAW](topic/PhD.20position.20on.20Deep.20Learning.20at.20ZHAW.html) (1 message, latest: Jan 22 2021 at 19:06)
 * [PhD and Postdoc position at ETH Zurich](topic/PhD.20and.20Postdoc.20position.20at.20ETH.20Zurich.html) (1 message, latest: Jan 15 2021 at 19:11)
 * [Head of Department of Artificial Intelligence-HU-ELTE](topic/Head.20of.20Department.20of.20Artificial.20Intelligence-HU-ELTE.html) (1 message, latest: Jan 12 2021 at 08:05)
 * [PhD position at Idiap Research Inst (CH)](topic/PhD.20position.20at.20Idiap.20Research.20Inst.20(CH).html) (1 message, latest: Dec 22 2020 at 08:24)
@@ -45,4 +47,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Jan 22 2021 at 18:52 UTC</p>
+<hr><p>Last updated: Jan 22 2021 at 19:48 UTC</p>
