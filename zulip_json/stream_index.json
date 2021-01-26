@@ -460,7 +460,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 223685581,
+            "latest_id": 224024436,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -493,6 +493,10 @@
                 "AI for Weather and Climate Extremes Workshop - Sweden": {
                     "latest_date": 1570181826,
                     "size": 2
+                },
+                "AI4EU Café -TAILOR - Fredrik Heintz": {
+                    "latest_date": 1611659557,
+                    "size": 1
                 },
                 "AI4EU Webinars": {
                     "latest_date": 1605257749,
@@ -1275,5 +1279,5 @@
             }
         }
     },
-    "time": 1611658927.532058
+    "time": 1611660472.9898398
 }

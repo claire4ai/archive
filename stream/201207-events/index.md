@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [AI4EU Café -TAILOR - Fredrik Heintz](topic/AI4EU.20Caf.C3.A9.20-TAILOR.20-.20Fredrik.20Heintz.html) (1 message, latest: Jan 26 2021 at 11:12)
 * [Virtual symposium: "from Neu](topic/Virtual.20symposium.3A.20.22from.20Neu.html) (1 message, latest: Jan 22 2021 at 19:15)
 * [INS- Neuroethics webinar. Jan 27 2020](topic/INS-.20Neuroethics.20webinar.2E.20Jan.2027.202020.html) (1 message, latest: Jan 22 2021 at 09:36)
 * [CALL FOR SPEAKERS  -  AI4HEALTH 2021 Lecture Series](topic/CALL.20FOR.20SPEAKERS.20.20-.20.20AI4HEALTH.202021.20Lecture.20Series.html) (1 message, latest: Jan 21 2021 at 18:01)
@@ -98,4 +99,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Jan 26 2021 at 11:02 UTC</p>
+<hr><p>Last updated: Jan 26 2021 at 11:27 UTC</p>
