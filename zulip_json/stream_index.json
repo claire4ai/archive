@@ -1116,7 +1116,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 223685011,
+            "latest_id": 224080792,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1132,6 +1132,10 @@
                 },
                 "Academic position in Switzerland": {
                     "latest_date": 1603539868,
+                    "size": 1
+                },
+                "Data scientist position, Swiss Data Science Center, ETHZ": {
+                    "latest_date": 1611685161,
                     "size": 1
                 },
                 "Doctoral or post-doctoral position in ASP at Potsdam": {
@@ -1279,5 +1283,5 @@
             }
         }
     },
-    "time": 1611684845.2720835
+    "time": 1611687224.78564
 }
