@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 222761087,
+            "latest_id": 224293931,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1600958575,
@@ -25,8 +25,8 @@
                     "size": 6
                 },
                 "CLAIRE Covid19 Initiative: Meet the Team Leaders video serie": {
-                    "latest_date": 1610649042,
-                    "size": 1
+                    "latest_date": 1611820714,
+                    "size": 2
                 },
                 "CLAIRE Updates": {
                     "latest_date": 1599655673,
@@ -1283,5 +1283,5 @@
             }
         }
     },
-    "time": 1611820659.5984595
+    "time": 1611821487.2483554
 }
