@@ -152,11 +152,11 @@
         },
         "CLAIRE/CZ": {
             "id": 203399,
-            "latest_id": 221505603,
+            "latest_id": 224302935,
             "topic_data": {
                 "#brAInfood series": {
-                    "latest_date": 1609753927,
-                    "size": 1
+                    "latest_date": 1611826594,
+                    "size": 2
                 },
                 "AI Awards 2019": {
                     "latest_date": 1580199052,
@@ -1283,5 +1283,5 @@
             }
         }
     },
-    "time": 1611825944.614729
+    "time": 1611826839.9320402
 }
