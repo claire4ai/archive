@@ -9,6 +9,7 @@ permalink: /stream/228366-ethics/index.html
 
 ### Topics:
 
+* [OECD Panel: Ethics of AI in the workplace - Feb 5](topic/OECD.20Panel.3A.20Ethics.20of.20AI.20in.20the.20workplace.20-.20Feb.205.html) (1 message, latest: Jan 29 2021 at 13:05)
 * [INS- Neuroethics webinar. Jan 27 2020](topic/INS-.20Neuroethics.20webinar.2E.20Jan.2027.202020.html) (1 message, latest: Jan 22 2021 at 13:16)
 * [Fondation Dalle-Molle - Création du label Qualité de Vie](topic/Fondation.20Dalle-Molle.20-.20Cr.C3.A9ation.20du.20label.20Qualit.C3.A9.20de.20Vie.html) (1 message, latest: Dec 08 2020 at 14:00)
 * [Workshop on Soft Law in Governance of AI](topic/Workshop.20on.20Soft.20Law.20in.20Governance.20of.20AI.html) (1 message, latest: Oct 01 2020 at 11:52)
@@ -18,4 +19,4 @@ permalink: /stream/228366-ethics/index.html
 * [Movement tracking apps](topic/Movement.20tracking.20apps.html) (2 messages, latest: Mar 26 2020 at 15:32)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 20 2020 at 11:32)
 
-<hr><p>Last updated: Jan 29 2021 at 12:31 UTC</p>
+<hr><p>Last updated: Jan 29 2021 at 13:06 UTC</p>

@@ -426,7 +426,7 @@
         },
         "ethics": {
             "id": 228366,
-            "latest_id": 223639353,
+            "latest_id": 224467063,
             "topic_data": {
                 "Call for feedback: IEEE - Ethical criteria for contact tr...": {
                     "latest_date": 1599997120,
@@ -446,6 +446,10 @@
                 },
                 "Nature Medicine Comment: On the use of data & Covid-19": {
                     "latest_date": 1585402097,
+                    "size": 1
+                },
+                "OECD Panel: Ethics of AI in the workplace - Feb 5": {
+                    "latest_date": 1611925519,
                     "size": 1
                 },
                 "UNESCO recommendation on Ethics for AI - Public consultation": {
@@ -1287,5 +1291,5 @@
             }
         }
     },
-    "time": 1611923497.9795601
+    "time": 1611925583.3590448
 }
