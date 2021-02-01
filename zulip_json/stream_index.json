@@ -468,7 +468,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 224024436,
+            "latest_id": 224692285,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -704,6 +704,10 @@
                 },
                 "Invitation to join spotGEO, the latest competition from ESA.": {
                     "latest_date": 1590764294,
+                    "size": 1
+                },
+                "Lecture by Prof. Efstratios Gavves - Machine Learning": {
+                    "latest_date": 1612163870,
                     "size": 1
                 },
                 "META-FORUM 2020: Piloting the European Language Grid": {
@@ -1291,5 +1295,5 @@
             }
         }
     },
-    "time": 1612163022.5398324
+    "time": 1612164979.8154736
 }
