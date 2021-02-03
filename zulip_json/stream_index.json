@@ -834,7 +834,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 223619763,
+            "latest_id": 224994377,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -897,8 +897,8 @@
                     "size": 9
                 },
                 "CLAIRE/AIHub - AI for Good series": {
-                    "latest_date": 1609933163,
-                    "size": 3
+                    "latest_date": 1612346326,
+                    "size": 4
                 },
                 "CLAIRE/International": {
                     "latest_date": 1570793379,
@@ -1295,5 +1295,5 @@
             }
         }
     },
-    "time": 1612345527.4750054
+    "time": 1612346433.1167119
 }
