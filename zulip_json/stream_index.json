@@ -1128,7 +1128,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 224080792,
+            "latest_id": 225141584,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1281,6 +1281,10 @@
                 "Tenure-track possitions at CIIRC CTU": {
                     "latest_date": 1564565534,
                     "size": 1
+                },
+                "Two funded PhD positions on Epistemic AI": {
+                    "latest_date": 1612434165,
+                    "size": 1
                 }
             }
         },
@@ -1295,5 +1299,5 @@
             }
         }
     },
-    "time": 1612433447.8083892
+    "time": 1612434659.0448782
 }
