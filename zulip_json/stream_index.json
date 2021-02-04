@@ -1128,7 +1128,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 225141584,
+            "latest_id": 225186484,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1274,6 +1274,10 @@
                     "latest_date": 1563367370,
                     "size": 1
                 },
+                "Tenure Track - Luxembourg Institute of Health": {
+                    "latest_date": 1612456902,
+                    "size": 1
+                },
                 "Tenure-Track  -  University of Mons, Belgium": {
                     "latest_date": 1587574602,
                     "size": 1
@@ -1299,5 +1303,5 @@
             }
         }
     },
-    "time": 1612455745.749515
+    "time": 1612457512.9559631
 }
