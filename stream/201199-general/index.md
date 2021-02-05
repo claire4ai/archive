@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [How Humans Judge Machines](topic/How.20Humans.20Judge.20Machines.html) (1 message, latest: Feb 05 2021 at 07:53)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (4 messages, latest: Feb 03 2021 at 09:58)
 * [FDA releases AI/ML-bases SW as Medicsl Device action plan](topic/FDA.20releases.20AI.2FML-bases.20SW.20as.20Medicsl.20Device.20action.20plan.html) (1 message, latest: Jan 22 2021 at 09:40)
 * [quant finance company seeking CLAIRE teams to work with](topic/quant.20finance.20company.20seeking.20CLAIRE.20teams.20to.20work.20with.html) (1 message, latest: Jan 20 2021 at 14:22)
@@ -82,4 +83,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Feb 05 2021 at 07:47 UTC</p>
+<hr><p>Last updated: Feb 05 2021 at 07:54 UTC</p>

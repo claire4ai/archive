@@ -834,7 +834,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 224994377,
+            "latest_id": 225269456,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -970,6 +970,10 @@
                 },
                 "Great success of CIIRC at the Championship in Autom. Reason.": {
                     "latest_date": 1597933924,
+                    "size": 1
+                },
+                "How Humans Judge Machines": {
+                    "latest_date": 1612511613,
                     "size": 1
                 },
                 "Human Brain Project (EBRAINS) calls": {
@@ -1303,5 +1307,5 @@
             }
         }
     },
-    "time": 1612511267.7230859
+    "time": 1612511643.7756224
 }
