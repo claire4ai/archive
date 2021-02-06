@@ -1132,7 +1132,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 225186484,
+            "latest_id": 225399170,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1293,6 +1293,10 @@
                 "Two funded PhD positions on Epistemic AI": {
                     "latest_date": 1612434165,
                     "size": 1
+                },
+                "junior professorship, reinforcement learning , KU Leuven": {
+                    "latest_date": 1612601131,
+                    "size": 1
                 }
             }
         },
@@ -1307,5 +1311,5 @@
             }
         }
     },
-    "time": 1612600457.071441
+    "time": 1612601496.881276
 }
