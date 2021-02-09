@@ -468,7 +468,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 225691793,
+            "latest_id": 225719430,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -573,6 +573,10 @@
                 "Call-for-Tutorials": {
                     "latest_date": 1580667364,
                     "size": 3
+                },
+                "CfP ECML PKDD 2021": {
+                    "latest_date": 1612889351,
+                    "size": 1
                 },
                 "CfP: ANNPR 2020, Sept 2nd-4th @ ZHAW Winterthur": {
                     "latest_date": 1580734828,
@@ -1319,5 +1323,5 @@
             }
         }
     },
-    "time": 1612887142.600504
+    "time": 1612889489.1362882
 }
