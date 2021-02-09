@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Workshop on Artificial Intelligence in NMR, MRI Neuroscience](topic/Workshop.20on.20Artificial.20Intelligence.20in.20NMR.2C.20MRI.20Neuroscience.html) (1 message, latest: Feb 09 2021 at 13:51)
 * [Lecture by Prof. Efstratios Gavves - Machine Learning](topic/Lecture.20by.20Prof.2E.20Efstratios.20Gavves.20-.20Machine.20Learning.html) (1 message, latest: Feb 01 2021 at 07:17)
 * [AI4EU Café -TAILOR - Fredrik Heintz](topic/AI4EU.20Caf.C3.A9.20-TAILOR.20-.20Fredrik.20Heintz.html) (1 message, latest: Jan 26 2021 at 11:12)
 * [Virtual symposium: "from Neu](topic/Virtual.20symposium.3A.20.22from.20Neu.html) (1 message, latest: Jan 22 2021 at 19:15)
@@ -100,4 +101,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Feb 09 2021 at 13:47 UTC</p>
+<hr><p>Last updated: Feb 09 2021 at 13:54 UTC</p>

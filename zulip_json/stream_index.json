@@ -468,7 +468,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 224692285,
+            "latest_id": 225691793,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -796,6 +796,10 @@
                 },
                 "Workshop \"Interface between  Neuroscience, AI and Policy\"": {
                     "latest_date": 1603370633,
+                    "size": 1
+                },
+                "Workshop on Artificial Intelligence in NMR, MRI Neuroscience": {
+                    "latest_date": 1612878665,
                     "size": 1
                 },
                 "Workshop on Soft Law in Governance of AI": {
@@ -1315,5 +1319,5 @@
             }
         }
     },
-    "time": 1612878421.3710804
+    "time": 1612878859.5214355
 }
