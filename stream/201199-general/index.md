@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [funding & users](topic/funding.20.26.20users.html) (1 message, latest: Feb 10 2021 at 17:40)
 * [NGI Explorers Fellowship program](topic/NGI.20Explorers.20Fellowship.20program.html) (1 message, latest: Feb 08 2021 at 16:47)
 * [How Humans Judge Machines](topic/How.20Humans.20Judge.20Machines.html) (1 message, latest: Feb 05 2021 at 07:53)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (4 messages, latest: Feb 03 2021 at 09:58)
@@ -84,4 +85,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Feb 10 2021 at 17:16 UTC</p>
+<hr><p>Last updated: Feb 10 2021 at 17:42 UTC</p>

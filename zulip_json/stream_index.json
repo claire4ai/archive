@@ -846,7 +846,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 225572312,
+            "latest_id": 225877564,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1116,6 +1116,10 @@
                     "latest_date": 1593776401,
                     "size": 1
                 },
+                "funding & users": {
+                    "latest_date": 1612978858,
+                    "size": 1
+                },
                 "new covid-19 stream": {
                     "latest_date": 1584961879,
                     "size": 14
@@ -1327,5 +1331,5 @@
             }
         }
     },
-    "time": 1612977375.1884475
+    "time": 1612978927.0352976
 }
