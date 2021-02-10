@@ -468,7 +468,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 225719430,
+            "latest_id": 225805545,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -512,6 +512,10 @@
                 },
                 "AI4People Summit, 1-2 December 2020": {
                     "latest_date": 1605707044,
+                    "size": 1
+                },
+                "AIDA Lecture Series": {
+                    "latest_date": 1612945360,
                     "size": 1
                 },
                 "ANNPR 2020: One week to go!": {
@@ -1323,5 +1327,5 @@
             }
         }
     },
-    "time": 1612944625.1764045
+    "time": 1612946034.679367
 }
