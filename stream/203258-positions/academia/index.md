@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Postdoc positions at Harvard](topic/Postdoc.20positions.20at.20Harvard.html) (1 message, latest: Feb 13 2021 at 20:55)
 * [Postdoc positions at Oxford](topic/Postdoc.20positions.20at.20Oxford.html) (1 message, latest: Feb 13 2021 at 17:36)
 * [junior professorship, reinforcement learning , KU Leuven](topic/junior.20professorship.2C.20reinforcement.20learning.20.2C.20KU.20Leuven.html) (1 message, latest: Feb 06 2021 at 08:45)
 * [Tenure Track - Luxembourg Institute of Health](topic/Tenure.20Track.20-.20Luxembourg.20Institute.20of.20Health.html) (1 message, latest: Feb 04 2021 at 16:41)
@@ -52,4 +53,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Feb 13 2021 at 20:54 UTC</p>
+<hr><p>Last updated: Feb 13 2021 at 21:07 UTC</p>

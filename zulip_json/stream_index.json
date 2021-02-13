@@ -1160,7 +1160,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 226257095,
+            "latest_id": 226266688,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1290,6 +1290,10 @@
                     "latest_date": 1586177214,
                     "size": 1
                 },
+                "Postdoc positions at Harvard": {
+                    "latest_date": 1613249735,
+                    "size": 1
+                },
                 "Postdoc positions at Oxford": {
                     "latest_date": 1613237802,
                     "size": 1
@@ -1343,5 +1347,5 @@
             }
         }
     },
-    "time": 1613249682.5944905
+    "time": 1613250451.3018448
 }
