@@ -9,8 +9,8 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [CLAIRE Covid19 Initiative: Meet the Team Leaders video serie](topic/CLAIRE.20Covid19.20Initiative.3A.20Meet.20the.20Team.20Leaders.20video.20serie.html) (3 messages, latest: Feb 13 2021 at 14:16)
 * [CLAIRE Covid-19 TF publication](topic/CLAIRE.20Covid-19.20TF.20publication.html) (1 message, latest: Feb 11 2021 at 17:28)
-* [CLAIRE Covid19 Initiative: Meet the Team Leaders video serie](topic/CLAIRE.20Covid19.20Initiative.3A.20Meet.20the.20Team.20Leaders.20video.20serie.html) (2 messages, latest: Jan 29 2021 at 09:26)
 * [OECD Recommendation on Access to Data from Public Funding](topic/OECD.20Recommendation.20on.20Access.20to.20Data.20from.20Public.20Funding.html) (1 message, latest: Jan 22 2021 at 13:16)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (1 message, latest: Jan 04 2021 at 15:54)
 * [OECD Webinar: AI and COVID-19 in Latin America](topic/OECD.20Webinar.3A.20AI.20and.20COVID-19.20in.20Latin.20America.html) (1 message, latest: Oct 22 2020 at 12:56)
@@ -57,4 +57,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Feb 13 2021 at 14:09 UTC</p>
+<hr><p>Last updated: Feb 13 2021 at 14:27 UTC</p>
