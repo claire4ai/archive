@@ -472,7 +472,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 225805545,
+            "latest_id": 226234105,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -732,6 +732,10 @@
                 },
                 "Mentoring+Communication for Starting Researchers @ECAI2020": {
                     "latest_date": 1591968539,
+                    "size": 1
+                },
+                "Metaheuristics Summer School 2021": {
+                    "latest_date": 1613204724,
                     "size": 1
                 },
                 "MobileHCI-Call for Tutorials": {
@@ -1335,5 +1339,5 @@
             }
         }
     },
-    "time": 1613203815.5943952
+    "time": 1613205286.6896596
 }
