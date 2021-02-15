@@ -1160,7 +1160,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 226266688,
+            "latest_id": 226361815,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1188,6 +1188,10 @@
                 },
                 "Faculty position EPFL Switzerland": {
                     "latest_date": 1601706896,
+                    "size": 1
+                },
+                "Fellowship Opportunities: AI4EO ‘Beyond Fellows’": {
+                    "latest_date": 1613381899,
                     "size": 1
                 },
                 "Four Doctoral positions at CiTIUS-Santiago de Compostela": {
@@ -1347,5 +1351,5 @@
             }
         }
     },
-    "time": 1613381480.5682406
+    "time": 1613382577.233765
 }

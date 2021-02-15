@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Fellowship Opportunities: AI4EO ‘Beyond Fellows’](topic/Fellowship.20Opportunities.3A.20AI4EO.20.E2.80.98Beyond.20Fellows.E2.80.99.html) (1 message, latest: Feb 15 2021 at 09:38)
 * [Postdoc positions at Harvard](topic/Postdoc.20positions.20at.20Harvard.html) (1 message, latest: Feb 13 2021 at 20:55)
 * [Postdoc positions at Oxford](topic/Postdoc.20positions.20at.20Oxford.html) (1 message, latest: Feb 13 2021 at 17:36)
 * [junior professorship, reinforcement learning , KU Leuven](topic/junior.20professorship.2C.20reinforcement.20learning.20.2C.20KU.20Leuven.html) (1 message, latest: Feb 06 2021 at 08:45)
@@ -53,4 +54,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Feb 15 2021 at 09:31 UTC</p>
+<hr><p>Last updated: Feb 15 2021 at 09:49 UTC</p>
