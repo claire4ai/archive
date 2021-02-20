@@ -1164,7 +1164,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 226361815,
+            "latest_id": 227082311,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1314,6 +1314,10 @@
                     "latest_date": 1606660511,
                     "size": 1
                 },
+                "Professorship position at EPFL (CH): Technology and Policy": {
+                    "latest_date": 1613816620,
+                    "size": 1
+                },
                 "Reseach positions in the Czech Republic": {
                     "latest_date": 1594725784,
                     "size": 1
@@ -1355,5 +1359,5 @@
             }
         }
     },
-    "time": 1613815797.159928
+    "time": 1613817151.1718297
 }
