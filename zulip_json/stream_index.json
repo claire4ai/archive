@@ -1164,7 +1164,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 227082311,
+            "latest_id": 227424367,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1306,6 +1306,10 @@
                     "latest_date": 1613237802,
                     "size": 1
                 },
+                "Postdoc positions: Reasoning and Learning@Linköping U Sweden": {
+                    "latest_date": 1614084554,
+                    "size": 1
+                },
                 "Postdocs in Reasoning&Learning at Linköping University, SE": {
                     "latest_date": 1595830478,
                     "size": 1
@@ -1359,5 +1363,5 @@
             }
         }
     },
-    "time": 1614084073.6246362
+    "time": 1614085397.9994874
 }
