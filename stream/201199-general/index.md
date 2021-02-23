@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Call for benchmarking study participants](topic/Call.20for.20benchmarking.20study.20participants.html) (1 message, latest: Feb 23 2021 at 15:38)
 * [GAIEC Repository (launch)](topic/GAIEC.20Repository.20(launch).html) (1 message, latest: Feb 15 2021 at 09:56)
 * [funding & users](topic/funding.20.26.20users.html) (1 message, latest: Feb 10 2021 at 17:40)
 * [NGI Explorers Fellowship program](topic/NGI.20Explorers.20Fellowship.20program.html) (1 message, latest: Feb 08 2021 at 16:47)
@@ -86,4 +87,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Feb 23 2021 at 15:35 UTC</p>
+<hr><p>Last updated: Feb 23 2021 at 15:51 UTC</p>
