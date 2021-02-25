@@ -472,7 +472,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 226234105,
+            "latest_id": 227731779,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -505,6 +505,10 @@
                 "AI for Weather and Climate Extremes Workshop - Sweden": {
                     "latest_date": 1570181826,
                     "size": 2
+                },
+                "AI4EU Café - Georg Rehm - European Language Grid": {
+                    "latest_date": 1614240463,
+                    "size": 1
                 },
                 "AI4EU Café -TAILOR - Fredrik Heintz": {
                     "latest_date": 1611659557,
@@ -1367,5 +1371,5 @@
             }
         }
     },
-    "time": 1614239605.7061632
+    "time": 1614240934.5773563
 }
