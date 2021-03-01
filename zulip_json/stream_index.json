@@ -1176,7 +1176,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 227424367,
+            "latest_id": 228213814,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1272,6 +1272,10 @@
                 },
                 "PhD position at Public University of Navarra": {
                     "latest_date": 1574088842,
+                    "size": 1
+                },
+                "PhD position biochemistry (academia industry)": {
+                    "latest_date": 1614597611,
                     "size": 1
                 },
                 "PhD position in Self Aware AI Systems": {
@@ -1375,5 +1379,5 @@
             }
         }
     },
-    "time": 1614597587.437254
+    "time": 1614598432.2260985
 }
