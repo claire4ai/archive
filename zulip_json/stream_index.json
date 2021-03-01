@@ -472,7 +472,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 227749654,
+            "latest_id": 228209577,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -488,6 +488,10 @@
                 },
                 "3.9. 2020  - Online Conf \"AI in Industry and Finance\"": {
                     "latest_date": 1594465924,
+                    "size": 1
+                },
+                "AI Ethics online: assessing Trustworthy AI in practice": {
+                    "latest_date": 1614595402,
                     "size": 1
                 },
                 "AI Science Café Series: Conversational AI. With Jan Šedivý": {
@@ -1371,5 +1375,5 @@
             }
         }
     },
-    "time": 1614595099.22597
+    "time": 1614595416.5830219
 }
