@@ -9,12 +9,12 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (5 messages, latest: Mar 02 2021 at 06:55)
 * [Call for benchmarking study participants](topic/Call.20for.20benchmarking.20study.20participants.html) (1 message, latest: Feb 23 2021 at 15:38)
 * [GAIEC Repository (launch)](topic/GAIEC.20Repository.20(launch).html) (1 message, latest: Feb 15 2021 at 09:56)
 * [funding & users](topic/funding.20.26.20users.html) (1 message, latest: Feb 10 2021 at 17:40)
 * [NGI Explorers Fellowship program](topic/NGI.20Explorers.20Fellowship.20program.html) (1 message, latest: Feb 08 2021 at 16:47)
 * [How Humans Judge Machines](topic/How.20Humans.20Judge.20Machines.html) (1 message, latest: Feb 05 2021 at 07:53)
-* [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (4 messages, latest: Feb 03 2021 at 09:58)
 * [FDA releases AI/ML-bases SW as Medicsl Device action plan](topic/FDA.20releases.20AI.2FML-bases.20SW.20as.20Medicsl.20Device.20action.20plan.html) (1 message, latest: Jan 22 2021 at 09:40)
 * [quant finance company seeking CLAIRE teams to work with](topic/quant.20finance.20company.20seeking.20CLAIRE.20teams.20to.20work.20with.html) (1 message, latest: Jan 20 2021 at 14:22)
 * [Public consultation on ethical guidance for AI & robotics](topic/Public.20consultation.20on.20ethical.20guidance.20for.20AI.20.26.20robotics.html) (1 message, latest: Jan 11 2021 at 14:43)
@@ -87,4 +87,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Mar 02 2021 at 06:55 UTC</p>
+<hr><p>Last updated: Mar 02 2021 at 07:09 UTC</p>
