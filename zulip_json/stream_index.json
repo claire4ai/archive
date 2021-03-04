@@ -1176,7 +1176,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 228213814,
+            "latest_id": 228837587,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1330,6 +1330,10 @@
                     "latest_date": 1595830478,
                     "size": 1
                 },
+                "Professorship on Comouter science VUB Brussels": {
+                    "latest_date": 1614887153,
+                    "size": 1
+                },
                 "Professorship on Ethics, Tech and Society at ETHZ": {
                     "latest_date": 1606660511,
                     "size": 1
@@ -1379,5 +1383,5 @@
             }
         }
     },
-    "time": 1614886646.8885953
+    "time": 1614887167.177875
 }
