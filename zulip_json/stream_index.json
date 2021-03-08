@@ -472,7 +472,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 228209577,
+            "latest_id": 229283255,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -612,6 +612,10 @@
                 },
                 "CfP: EdbA 2020 - First International Workshop on Event Data": {
                     "latest_date": 1592255619,
+                    "size": 1
+                },
+                "CfP: Special Issue on Probabilistic Inference in Goal-Direct": {
+                    "latest_date": 1615202638,
                     "size": 1
                 },
                 "DSEG Decision Tree Workshop": {
@@ -1387,5 +1391,5 @@
             }
         }
     },
-    "time": 1615202024.3196743
+    "time": 1615203227.9293191
 }
