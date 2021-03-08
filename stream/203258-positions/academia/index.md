@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [2 postdoc openings at Lancaster University, UK](topic/2.20postdoc.20openings.20at.20Lancaster.20University.2C.20UK.html) (1 message, latest: Mar 08 2021 at 09:35)
 * [Professorship on Comouter science VUB Brussels](topic/Professorship.20on.20Comouter.20science.20VUB.20Brussels.html) (1 message, latest: Mar 04 2021 at 19:45)
 * [PhD position biochemistry (academia industry)](topic/PhD.20position.20biochemistry.20(academia.20industry).html) (1 message, latest: Mar 01 2021 at 11:20)
 * [Postdoc positions: Reasoning and Learning@Linköping U Sweden](topic/Postdoc.20positions.3A.20Reasoning.20and.20Learning.40Link.C3.B6ping.20U.20Sweden.html) (1 message, latest: Feb 23 2021 at 12:49)
@@ -58,4 +59,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Mar 08 2021 at 09:14 UTC</p>
+<hr><p>Last updated: Mar 08 2021 at 09:37 UTC</p>

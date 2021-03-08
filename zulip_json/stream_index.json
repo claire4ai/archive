@@ -1176,7 +1176,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 228837587,
+            "latest_id": 229270807,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1188,6 +1188,10 @@
                 },
                 "15 PhD Positions  ITN: NoBIAS - AI without BIAS": {
                     "latest_date": 1581528389,
+                    "size": 1
+                },
+                "2 postdoc openings at Lancaster University, UK": {
+                    "latest_date": 1615196114,
                     "size": 1
                 },
                 "Academic position in Switzerland": {
@@ -1383,5 +1387,5 @@
             }
         }
     },
-    "time": 1615194883.0599935
+    "time": 1615196275.1009166
 }
