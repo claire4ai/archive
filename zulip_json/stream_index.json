@@ -866,7 +866,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 228362527,
+            "latest_id": 229287975,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1074,6 +1074,10 @@
                 },
                 "Nomonations open for Label Expert Women in AI": {
                     "latest_date": 1601730136,
+                    "size": 1
+                },
+                "Open Quantum AI researcher position": {
+                    "latest_date": 1615205240,
                     "size": 1
                 },
                 "PhD Positions in AI Bias": {
@@ -1391,5 +1395,5 @@
             }
         }
     },
-    "time": 1615204460.08994
+    "time": 1615205801.5511446
 }

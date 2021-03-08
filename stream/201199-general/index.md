@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Open Quantum AI researcher position](topic/Open.20Quantum.20AI.20researcher.20position.html) (1 message, latest: Mar 08 2021 at 12:07)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (5 messages, latest: Mar 02 2021 at 06:55)
 * [Call for benchmarking study participants](topic/Call.20for.20benchmarking.20study.20participants.html) (1 message, latest: Feb 23 2021 at 15:38)
 * [GAIEC Repository (launch)](topic/GAIEC.20Repository.20(launch).html) (1 message, latest: Feb 15 2021 at 09:56)
@@ -87,4 +88,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Mar 08 2021 at 11:54 UTC</p>
+<hr><p>Last updated: Mar 08 2021 at 12:16 UTC</p>
