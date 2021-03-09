@@ -236,7 +236,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 228403956,
+            "latest_id": 229473005,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -271,8 +271,8 @@
                     "size": 1
                 },
                 "CLAIRE Covid19 Initiative: Meet the Team Leaders video serie": {
-                    "latest_date": 1614689477,
-                    "size": 4
+                    "latest_date": 1615295224,
+                    "size": 5
                 },
                 "CLAIRE and NECSI": {
                     "latest_date": 1584951520,
@@ -1399,5 +1399,5 @@
             }
         }
     },
-    "time": 1615294072.794595
+    "time": 1615295443.0513544
 }
