@@ -472,7 +472,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 229283255,
+            "latest_id": 229810724,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -527,8 +527,8 @@
                     "size": 1
                 },
                 "AIDA Lecture Series": {
-                    "latest_date": 1614250800,
-                    "size": 2
+                    "latest_date": 1615450567,
+                    "size": 3
                 },
                 "ANNPR 2020: One week to go!": {
                     "latest_date": 1598978688,
@@ -1399,5 +1399,5 @@
             }
         }
     },
-    "time": 1615450528.626286
+    "time": 1615452099.9032013
 }
