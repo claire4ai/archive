@@ -866,7 +866,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 229361989,
+            "latest_id": 230085001,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1110,6 +1110,10 @@
                 },
                 "Public consultation on ethical guidance for AI & robotics": {
                     "latest_date": 1610376234,
+                    "size": 1
+                },
+                "RF position at Huddersfield": {
+                    "latest_date": 1615577609,
                     "size": 1
                 },
                 "Recommendations on the Prospects for Informatics in Germany": {
@@ -1399,5 +1403,5 @@
             }
         }
     },
-    "time": 1615575852.7281024
+    "time": 1615578149.2599175
 }

@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [RF position at Huddersfield](topic/RF.20position.20at.20Huddersfield.html) (1 message, latest: Mar 12 2021 at 19:33)
 * [Happy International Women's Day](topic/Happy.20International.20Women's.20Day.html) (1 message, latest: Mar 08 2021 at 19:42)
 * [Open Quantum AI researcher position](topic/Open.20Quantum.20AI.20researcher.20position.html) (1 message, latest: Mar 08 2021 at 12:07)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (5 messages, latest: Mar 02 2021 at 06:55)
@@ -89,4 +90,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Mar 12 2021 at 19:04 UTC</p>
+<hr><p>Last updated: Mar 12 2021 at 19:42 UTC</p>
