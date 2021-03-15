@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [SUSTAINABLE AI](topic/SUSTAINABLE.20AI.html) (1 message, latest: Mar 15 2021 at 07:17)
 * [AIDA Lecture Series](topic/AIDA.20Lecture.20Series.html) (3 messages, latest: Mar 11 2021 at 08:16)
 * [CfP: Special Issue on Probabilistic Inference in Goal-Direct](topic/CfP.3A.20Special.20Issue.20on.20Probabilistic.20Inference.20in.20Goal-Direct.html) (1 message, latest: Mar 08 2021 at 11:23)
 * [AI Ethics online: assessing Trustworthy AI in practice](topic/AI.20Ethics.20online.3A.20assessing.20Trustworthy.20AI.20in.20practice.html) (1 message, latest: Mar 01 2021 at 10:43)
@@ -107,4 +108,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Mar 15 2021 at 07:08 UTC</p>
+<hr><p>Last updated: Mar 15 2021 at 07:30 UTC</p>

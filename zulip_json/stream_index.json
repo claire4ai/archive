@@ -472,7 +472,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 229810724,
+            "latest_id": 230303420,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -772,6 +772,10 @@
                 },
                 "PPSN XVI": {
                     "latest_date": 1598880202,
+                    "size": 1
+                },
+                "SUSTAINABLE AI": {
+                    "latest_date": 1615792663,
                     "size": 1
                 },
                 "Second European AI Alliance Assembly": {
@@ -1403,5 +1407,5 @@
             }
         }
     },
-    "time": 1615792129.6477985
+    "time": 1615793430.9432251
 }
