@@ -1196,7 +1196,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 229270807,
+            "latest_id": 230474683,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1374,6 +1374,10 @@
                     "latest_date": 1563367370,
                     "size": 1
                 },
+                "Researcher / Project Manager (m/f/d) at DFKI Saabrücken": {
+                    "latest_date": 1615882540,
+                    "size": 1
+                },
                 "Tenure Track - Luxembourg Institute of Health": {
                     "latest_date": 1612456902,
                     "size": 1
@@ -1407,5 +1411,5 @@
             }
         }
     },
-    "time": 1615882355.8893423
+    "time": 1615884044.7659118
 }

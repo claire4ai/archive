@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Researcher / Project Manager (m/f/d) at DFKI Saabrücken](topic/Researcher.20.2F.20Project.20Manager.20(m.2Ff.2Fd).20at.20DFKI.20Saabr.C3.BCcken.html) (1 message, latest: Mar 16 2021 at 08:15)
 * [2 postdoc openings at Lancaster University, UK](topic/2.20postdoc.20openings.20at.20Lancaster.20University.2C.20UK.html) (1 message, latest: Mar 08 2021 at 09:35)
 * [Professorship on Comouter science VUB Brussels](topic/Professorship.20on.20Comouter.20science.20VUB.20Brussels.html) (1 message, latest: Mar 04 2021 at 19:45)
 * [PhD position biochemistry (academia industry)](topic/PhD.20position.20biochemistry.20(academia.20industry).html) (1 message, latest: Mar 01 2021 at 11:20)
@@ -59,4 +60,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Mar 16 2021 at 08:12 UTC</p>
+<hr><p>Last updated: Mar 16 2021 at 08:40 UTC</p>
