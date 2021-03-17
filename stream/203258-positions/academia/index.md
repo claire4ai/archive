@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [15 PhD positions on Digital Transformation - EINST4INE](topic/15.20PhD.20positions.20on.20Digital.20Transformation.20-.20EINST4INE.html) (1 message, latest: Mar 17 2021 at 19:36)
 * [Researcher / Project Manager (m/f/d) at DFKI Saabrücken](topic/Researcher.20.2F.20Project.20Manager.20(m.2Ff.2Fd).20at.20DFKI.20Saabr.C3.BCcken.html) (1 message, latest: Mar 16 2021 at 08:15)
 * [2 postdoc openings at Lancaster University, UK](topic/2.20postdoc.20openings.20at.20Lancaster.20University.2C.20UK.html) (1 message, latest: Mar 08 2021 at 09:35)
 * [Professorship on Comouter science VUB Brussels](topic/Professorship.20on.20Comouter.20science.20VUB.20Brussels.html) (1 message, latest: Mar 04 2021 at 19:45)
@@ -60,4 +61,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Mar 17 2021 at 19:25 UTC</p>
+<hr><p>Last updated: Mar 17 2021 at 19:36 UTC</p>

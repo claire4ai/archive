@@ -236,7 +236,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 229473005,
+            "latest_id": 230753089,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -397,6 +397,10 @@
                 "Scheduling and resource management": {
                     "latest_date": 1585055677,
                     "size": 2
+                },
+                "Swiss Covid-19 Data Symposium": {
+                    "latest_date": 1616009566,
+                    "size": 1
                 },
                 "Swiss government  creates a  \"National Taskforce COVID-19\"": {
                     "latest_date": 1585648466,
@@ -1200,7 +1204,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 230474683,
+            "latest_id": 230753579,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1212,6 +1216,10 @@
                 },
                 "15 PhD Positions  ITN: NoBIAS - AI without BIAS": {
                     "latest_date": 1581528389,
+                    "size": 1
+                },
+                "15 PhD positions on Digital Transformation - EINST4INE": {
+                    "latest_date": 1616009772,
                     "size": 1
                 },
                 "2 postdoc openings at Lancaster University, UK": {
@@ -1415,5 +1423,5 @@
             }
         }
     },
-    "time": 1616009104.9113216
+    "time": 1616009811.98611
 }
