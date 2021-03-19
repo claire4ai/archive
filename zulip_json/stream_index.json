@@ -1208,7 +1208,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 230753579,
+            "latest_id": 231074764,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1316,6 +1316,10 @@
                 },
                 "PhD position biochemistry (academia industry)": {
                     "latest_date": 1614597611,
+                    "size": 1
+                },
+                "PhD position in AI and cryptography at Plymouth, UK": {
+                    "latest_date": 1616180833,
                     "size": 1
                 },
                 "PhD position in Self Aware AI Systems": {
@@ -1427,5 +1431,5 @@
             }
         }
     },
-    "time": 1616180159.2816129
+    "time": 1616180868.111714
 }

@@ -12,7 +12,7 @@ permalink: /index.html
 
 * [general](stream/201199-general/index.html) (80 topics)
 
-* [positions/academia](stream/203258-positions/academia/index.html) (51 topics)
+* [positions/academia](stream/203258-positions/academia/index.html) (52 topics)
 
 * [covid-19](stream/226112-covid-19/index.html) (48 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Mar 19 2021 at 18:55 UTC</p>
+<hr><p>Last updated: Mar 19 2021 at 19:07 UTC</p>
