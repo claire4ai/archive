@@ -9,7 +9,7 @@ permalink: /stream/201957-CLAIRE-news/index.html
 
 ### Topics:
 
-* [CLAIRE Covid19 Initiative: Meet the Team Leaders video serie](topic/CLAIRE.20Covid19.20Initiative.3A.20Meet.20the.20Team.20Leaders.20video.20serie.html) (5 messages, latest: Feb 19 2021 at 16:59)
+* [CLAIRE Covid19 Initiative: Meet the Team Leaders video serie](topic/CLAIRE.20Covid19.20Initiative.3A.20Meet.20the.20Team.20Leaders.20video.20serie.html) (8 messages, latest: Mar 19 2021 at 12:10)
 * [10 min Survey: Engineering Practices for ML Applications](topic/10.20min.20Survey.3A.20Engineering.20Practices.20for.20ML.20Applications.html) (1 message, latest: Dec 16 2020 at 14:39)
 * [Series of joint Theme Development Workshops](topic/Series.20of.20joint.20Theme.20Development.20Workshops.html) (1 message, latest: Dec 15 2020 at 15:28)
 * [Collaboration between CLAIRE and Bertelsmann](topic/Collaboration.20between.20CLAIRE.20and.20Bertelsmann.html) (6 messages, latest: Nov 04 2020 at 08:22)
@@ -46,4 +46,4 @@ permalink: /stream/201957-CLAIRE-news/index.html
 * [Community meeting at IJCAI 2019](topic/Community.20meeting.20at.20IJCAI.202019.html) (2 messages, latest: Aug 08 2019 at 12:03)
 * [hello](topic/hello.html) (4 messages, latest: Jul 26 2019 at 17:17)
 
-<hr><p>Last updated: Mar 19 2021 at 12:02 UTC</p>
+<hr><p>Last updated: Mar 19 2021 at 12:17 UTC</p>

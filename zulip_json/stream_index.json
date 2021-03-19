@@ -2,7 +2,7 @@
     "streams": {
         "CLAIRE news": {
             "id": 201957,
-            "latest_id": 226993753,
+            "latest_id": 231012775,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1600958575,
@@ -25,8 +25,8 @@
                     "size": 6
                 },
                 "CLAIRE Covid19 Initiative: Meet the Team Leaders video serie": {
-                    "latest_date": 1613753975,
-                    "size": 5
+                    "latest_date": 1616155823,
+                    "size": 8
                 },
                 "CLAIRE Updates": {
                     "latest_date": 1599655673,
@@ -476,7 +476,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 230830724,
+            "latest_id": 231012641,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -739,8 +739,8 @@
                     "size": 1
                 },
                 "Joint INRIA-DFKI Summer School": {
-                    "latest_date": 1616057865,
-                    "size": 1
+                    "latest_date": 1616155760,
+                    "size": 5
                 },
                 "Lecture by Prof. Efstratios Gavves - Machine Learning": {
                     "latest_date": 1612163870,
@@ -882,7 +882,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 230085001,
+            "latest_id": 231012954,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1129,8 +1129,8 @@
                     "size": 1
                 },
                 "RF position at Huddersfield": {
-                    "latest_date": 1615577609,
-                    "size": 1
+                    "latest_date": 1616155930,
+                    "size": 5
                 },
                 "Recommendations on the Prospects for Informatics in Germany": {
                     "latest_date": 1603954743,
@@ -1427,5 +1427,5 @@
             }
         }
     },
-    "time": 1616155360.1631877
+    "time": 1616156225.628271
 }
