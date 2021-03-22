@@ -476,7 +476,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 231012641,
+            "latest_id": 231340574,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -741,6 +741,10 @@
                 "Joint INRIA-DFKI Summer School": {
                     "latest_date": 1616155760,
                     "size": 5
+                },
+                "Launch WIPO Technology Trends on Assistive Technology": {
+                    "latest_date": 1616430234,
+                    "size": 1
                 },
                 "Lecture by Prof. Efstratios Gavves - Machine Learning": {
                     "latest_date": 1612163870,
@@ -1431,5 +1435,5 @@
             }
         }
     },
-    "time": 1616429923.5662801
+    "time": 1616433101.1115909
 }
