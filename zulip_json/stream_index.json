@@ -476,7 +476,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 231340574,
+            "latest_id": 231489127,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -488,6 +488,10 @@
                 },
                 "1st INTERNATIONAL FORUM on DIGITAL and DEMOCRACY. Towards a": {
                     "latest_date": 1606668629,
+                    "size": 1
+                },
+                "1st International Symposium on the Science of Data Science": {
+                    "latest_date": 1616513094,
                     "size": 1
                 },
                 "3.9. 2020  - Online Conf \"AI in Industry and Finance\"": {
@@ -743,8 +747,8 @@
                     "size": 5
                 },
                 "Launch WIPO Technology Trends on Assistive Technology": {
-                    "latest_date": 1616430234,
-                    "size": 1
+                    "latest_date": 1616512826,
+                    "size": 2
                 },
                 "Lecture by Prof. Efstratios Gavves - Machine Learning": {
                     "latest_date": 1612163870,
@@ -1435,5 +1439,5 @@
             }
         }
     },
-    "time": 1616512509.195881
+    "time": 1616514009.3877575
 }
