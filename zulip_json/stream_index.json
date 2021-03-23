@@ -1216,7 +1216,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 231074764,
+            "latest_id": 231521799,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1240,6 +1240,10 @@
                 },
                 "Academic position in Switzerland": {
                     "latest_date": 1603539868,
+                    "size": 1
+                },
+                "Allen Institute launches fellowship for data scientists to s": {
+                    "latest_date": 1616524931,
                     "size": 1
                 },
                 "Data scientist position, Swiss Data Science Center, ETHZ": {
@@ -1439,5 +1443,5 @@
             }
         }
     },
-    "time": 1616524572.835555
+    "time": 1616526021.284878
 }
