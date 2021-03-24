@@ -4,5 +4,11 @@
         "id": 231489127,
         "sender_full_name": "Ricardo Chavarriaga (CLAIRE Office Switzerland)",
         "timestamp": 1616513094
+    },
+    {
+        "content": "<p>My recommendation would be to do an evolution of CRISP-DM. It was supposed to be evolved but never was. Other subsequent efforts did not even make it as far as CRISP-DM did, or at best just created different representations of it.</p>",
+        "id": 231593125,
+        "sender_full_name": "Gregg Barrett (Cirrus, South Africa)",
+        "timestamp": 1616570897
     }
 ]

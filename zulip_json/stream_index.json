@@ -476,7 +476,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 231489127,
+            "latest_id": 231593125,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -491,8 +491,8 @@
                     "size": 1
                 },
                 "1st International Symposium on the Science of Data Science": {
-                    "latest_date": 1616513094,
-                    "size": 1
+                    "latest_date": 1616570897,
+                    "size": 2
                 },
                 "3.9. 2020  - Online Conf \"AI in Industry and Finance\"": {
                     "latest_date": 1594465924,
@@ -1443,5 +1443,5 @@
             }
         }
     },
-    "time": 1616570197.5857189
+    "time": 1616572092.3964214
 }
