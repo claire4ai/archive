@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Frontiers Topic: AI & Big Data for Emergency Preparedness](topic/Frontiers.20Topic.3A.20AI.20.26.20Big.20Data.20for.20Emergency.20Preparedness.html) (1 message, latest: Mar 24 2021 at 08:18)
 * [RF position at Huddersfield](topic/RF.20position.20at.20Huddersfield.html) (5 messages, latest: Mar 19 2021 at 12:12)
 * [Happy International Women's Day](topic/Happy.20International.20Women's.20Day.html) (1 message, latest: Mar 08 2021 at 19:42)
 * [Open Quantum AI researcher position](topic/Open.20Quantum.20AI.20researcher.20position.html) (1 message, latest: Mar 08 2021 at 12:07)
@@ -90,4 +91,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Mar 24 2021 at 07:59 UTC</p>
+<hr><p>Last updated: Mar 24 2021 at 08:26 UTC</p>

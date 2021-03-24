@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Frontiers Topic: AI & Big Data for Emergency Preparedness](topic/Frontiers.20Topic.3A.20AI.20.26.20Big.20Data.20for.20Emergency.20Preparedness.html) (1 message, latest: Mar 24 2021 at 08:18)
 * [Swiss Covid-19 Data Symposium](topic/Swiss.20Covid-19.20Data.20Symposium.html) (1 message, latest: Mar 17 2021 at 19:32)
 * [CLAIRE Covid19 Initiative: Meet the Team Leaders video serie](topic/CLAIRE.20Covid19.20Initiative.3A.20Meet.20the.20Team.20Leaders.20video.20serie.html) (5 messages, latest: Mar 09 2021 at 13:07)
 * [CLAIRE Covid-19 TF publication](topic/CLAIRE.20Covid-19.20TF.20publication.html) (1 message, latest: Feb 11 2021 at 17:28)
@@ -58,4 +59,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Mar 24 2021 at 07:59 UTC</p>
+<hr><p>Last updated: Mar 24 2021 at 08:26 UTC</p>
