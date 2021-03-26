@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [4th AI-based Apps and Videos Competitions (CAEPIA2020-21)](topic/4th.20AI-based.20Apps.20and.20Videos.20Competitions.20(CAEPIA2020-21).html) (1 message, latest: Mar 26 2021 at 08:24)
 * [1st International Symposium on the Science of Data Science](topic/1st.20International.20Symposium.20on.20the.20Science.20of.20Data.20Science.html) (2 messages, latest: Mar 24 2021 at 07:28)
 * [Launch WIPO Technology Trends on Assistive Technology](topic/Launch.20WIPO.20Technology.20Trends.20on.20Assistive.20Technology.html) (2 messages, latest: Mar 23 2021 at 15:20)
 * [Joint INRIA-DFKI Summer School](topic/Joint.20INRIA-DFKI.20Summer.20School.html) (5 messages, latest: Mar 19 2021 at 12:09)
@@ -112,4 +113,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Mar 26 2021 at 08:16 UTC</p>
+<hr><p>Last updated: Mar 26 2021 at 08:43 UTC</p>

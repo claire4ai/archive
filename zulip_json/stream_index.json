@@ -480,7 +480,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 231593125,
+            "latest_id": 231929024,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -500,6 +500,10 @@
                 },
                 "3.9. 2020  - Online Conf \"AI in Industry and Finance\"": {
                     "latest_date": 1594465924,
+                    "size": 1
+                },
+                "4th AI-based Apps and Videos Competitions (CAEPIA2020-21)": {
+                    "latest_date": 1616747094,
                     "size": 1
                 },
                 "AI Ethics online: assessing Trustworthy AI in practice": {
@@ -1451,5 +1455,5 @@
             }
         }
     },
-    "time": 1616746599.873894
+    "time": 1616748232.6582034
 }
