@@ -480,7 +480,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 232231842,
+            "latest_id": 232238504,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -724,6 +724,10 @@
                 },
                 "INS- Neuroethics webinar. Jan 27 2020": {
                     "latest_date": 1611308170,
+                    "size": 1
+                },
+                "IRCAI - UNESCO AI Center launch invitation": {
+                    "latest_date": 1617009232,
                     "size": 1
                 },
                 "ITU Roundtable Global Initiative on AI & Data Commons": {
@@ -1455,5 +1459,5 @@
             }
         }
     },
-    "time": 1617008700.4274487
+    "time": 1617010750.213491
 }
