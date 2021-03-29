@@ -9,13 +9,13 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [AIDA Lecture Series](topic/AIDA.20Lecture.20Series.html) (4 messages, latest: Mar 29 2021 at 08:05)
 * [4th AI-based Apps and Videos Competitions (CAEPIA2020-21)](topic/4th.20AI-based.20Apps.20and.20Videos.20Competitions.20(CAEPIA2020-21).html) (1 message, latest: Mar 26 2021 at 08:24)
 * [1st International Symposium on the Science of Data Science](topic/1st.20International.20Symposium.20on.20the.20Science.20of.20Data.20Science.html) (2 messages, latest: Mar 24 2021 at 07:28)
 * [Launch WIPO Technology Trends on Assistive Technology](topic/Launch.20WIPO.20Technology.20Trends.20on.20Assistive.20Technology.html) (2 messages, latest: Mar 23 2021 at 15:20)
 * [Joint INRIA-DFKI Summer School](topic/Joint.20INRIA-DFKI.20Summer.20School.html) (5 messages, latest: Mar 19 2021 at 12:09)
 * [Belgian AI Week](topic/Belgian.20AI.20Week.html) (1 message, latest: Mar 17 2021 at 15:25)
 * [SUSTAINABLE AI](topic/SUSTAINABLE.20AI.html) (1 message, latest: Mar 15 2021 at 07:17)
-* [AIDA Lecture Series](topic/AIDA.20Lecture.20Series.html) (3 messages, latest: Mar 11 2021 at 08:16)
 * [CfP: Special Issue on Probabilistic Inference in Goal-Direct](topic/CfP.3A.20Special.20Issue.20on.20Probabilistic.20Inference.20in.20Goal-Direct.html) (1 message, latest: Mar 08 2021 at 11:23)
 * [AI Ethics online: assessing Trustworthy AI in practice](topic/AI.20Ethics.20online.3A.20assessing.20Trustworthy.20AI.20in.20practice.html) (1 message, latest: Mar 01 2021 at 10:43)
 * [AI4EU Café - Georg Rehm - European Language Grid](topic/AI4EU.20Caf.C3.A9.20-.20Georg.20Rehm.20-.20European.20Language.20Grid.html) (1 message, latest: Feb 25 2021 at 08:07)
@@ -113,4 +113,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Mar 29 2021 at 07:57 UTC</p>
+<hr><p>Last updated: Mar 29 2021 at 08:26 UTC</p>

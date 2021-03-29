@@ -16,5 +16,11 @@
         "id": 229810724,
         "sender_full_name": "Anna Tahovská (CLAIRE Office, CZ)",
         "timestamp": 1615450567
+    },
+    {
+        "content": "<p>On behalf of <a href=\"https://www.vision4ai.eu/\">VISION Project</a>, I would like to invite you to one of the upcoming joint ICT48 activities under the AIDA AI Excellence Lecture Series:</p>\n<p><strong>Lecture by Prof. LP Morency: “Multimodal AI: Understanding Human Behaviors”</strong></p>\n<p><span aria-label=\"calendar\" class=\"emoji emoji-1f4c5\" role=\"img\" title=\"calendar\">:calendar:</span> Tuesday <strong>Apr 6th, 2021 17:00 – 18:00 CET</strong><br>\n<span aria-label=\"point right\" class=\"emoji emoji-1f449\" role=\"img\" title=\"point right\">:point_right:</span> Please use the following zoom link to attend the lecture: <a href=\"https://authgr.zoom.us/j/94136791572\">https://authgr.zoom.us/j/94136791572</a><br>\n<span aria-label=\"light bulb\" class=\"emoji emoji-1f4a1\" role=\"img\" title=\"light bulb\">:light_bulb:</span> Learn more about the lecture: <a href=\"http://www.i-aida.org/ai-lectures/#event\">http://www.i-aida.org/ai-lectures/#event</a></p>\n<p>The lecture is FREE!</p>\n<p>Abstract: Human face-to-face communication is a little like a dance, in that participants continuously adjust their behaviors based on verbal and nonverbal cues from the social context. Today’s computers and interactive devices are still lacking many of these human-like abilities to hold fluid and natural interactions. Leveraging recent advances in machine learning, audio-visual signal processing and computational linguistic, my research focuses on creating computational technologies able to analyze, recognize and predict human subtle communicative behaviors in social context. Central to this research effort is the introduction of new probabilistic models able to learn the temporal and fine-grained latent dependencies across behaviors, modalities and interlocutors. In this talk, I will present some of our recent achievements in multimodal machine learning, addressing five core challenges: representation, alignment, fusion, translation and co-learning.</p>",
+        "id": 232231842,
+        "sender_full_name": "Anna Tahovská (CLAIRE Office, CZ)",
+        "timestamp": 1617005145
     }
 ]
