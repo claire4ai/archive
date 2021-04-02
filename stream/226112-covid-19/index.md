@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [Article: Common pitfalls and recommendations for using ma...](topic/Article.3A.20Common.20pitfalls.20and.20recommendations.20for.20using.20ma.2E.2E.2E.html) (1 message, latest: Apr 02 2021 at 12:47)
 * [Frontiers Topic: AI & Big Data for Emergency Preparedness](topic/Frontiers.20Topic.3A.20AI.20.26.20Big.20Data.20for.20Emergency.20Preparedness.html) (1 message, latest: Mar 24 2021 at 08:18)
 * [Swiss Covid-19 Data Symposium](topic/Swiss.20Covid-19.20Data.20Symposium.html) (1 message, latest: Mar 17 2021 at 19:32)
 * [CLAIRE Covid19 Initiative: Meet the Team Leaders video serie](topic/CLAIRE.20Covid19.20Initiative.3A.20Meet.20the.20Team.20Leaders.20video.20serie.html) (5 messages, latest: Mar 09 2021 at 13:07)
@@ -59,4 +60,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: Apr 02 2021 at 12:19 UTC</p>
+<hr><p>Last updated: Apr 02 2021 at 12:56 UTC</p>
