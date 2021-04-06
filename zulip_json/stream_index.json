@@ -484,7 +484,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 232238504,
+            "latest_id": 233289864,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -508,6 +508,10 @@
                 },
                 "4th AI-based Apps and Videos Competitions (CAEPIA2020-21)": {
                     "latest_date": 1616747094,
+                    "size": 1
+                },
+                "4th Int. Summer School on Deep Learning (5-9.07.2021)": {
+                    "latest_date": 1617701001,
                     "size": 1
                 },
                 "AI Ethics online: assessing Trustworthy AI in practice": {
@@ -1463,5 +1467,5 @@
             }
         }
     },
-    "time": 1617700547.6865206
+    "time": 1617702217.3526833
 }

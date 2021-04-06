@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [4th Int. Summer School on Deep Learning (5-9.07.2021)](topic/4th.20Int.2E.20Summer.20School.20on.20Deep.20Learning.20(5-9.2E07.2E2021).html) (1 message, latest: Apr 06 2021 at 09:23)
 * [IRCAI - UNESCO AI Center launch invitation](topic/IRCAI.20-.20UNESCO.20AI.20Center.20launch.20invitation.html) (1 message, latest: Mar 29 2021 at 09:13)
 * [AIDA Lecture Series](topic/AIDA.20Lecture.20Series.html) (4 messages, latest: Mar 29 2021 at 08:05)
 * [4th AI-based Apps and Videos Competitions (CAEPIA2020-21)](topic/4th.20AI-based.20Apps.20and.20Videos.20Competitions.20(CAEPIA2020-21).html) (1 message, latest: Mar 26 2021 at 08:24)
@@ -114,4 +115,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Apr 06 2021 at 09:15 UTC</p>
+<hr><p>Last updated: Apr 06 2021 at 09:43 UTC</p>
