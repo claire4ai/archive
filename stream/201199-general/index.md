@@ -9,11 +9,12 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [Stop Calling Everything AI, Machine-Learning Pioneer Says](topic/Stop.20Calling.20Everything.20AI.2C.20Machine-Learning.20Pioneer.20Says.html) (1 message, latest: Apr 07 2021 at 15:43)
+* [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (6 messages, latest: Apr 07 2021 at 15:26)
 * [Frontiers Topic: AI & Big Data for Emergency Preparedness](topic/Frontiers.20Topic.3A.20AI.20.26.20Big.20Data.20for.20Emergency.20Preparedness.html) (1 message, latest: Mar 24 2021 at 08:18)
 * [RF position at Huddersfield](topic/RF.20position.20at.20Huddersfield.html) (5 messages, latest: Mar 19 2021 at 12:12)
 * [Happy International Women's Day](topic/Happy.20International.20Women's.20Day.html) (1 message, latest: Mar 08 2021 at 19:42)
 * [Open Quantum AI researcher position](topic/Open.20Quantum.20AI.20researcher.20position.html) (1 message, latest: Mar 08 2021 at 12:07)
-* [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (5 messages, latest: Mar 02 2021 at 06:55)
 * [Call for benchmarking study participants](topic/Call.20for.20benchmarking.20study.20participants.html) (1 message, latest: Feb 23 2021 at 15:38)
 * [GAIEC Repository (launch)](topic/GAIEC.20Repository.20(launch).html) (1 message, latest: Feb 15 2021 at 09:56)
 * [funding & users](topic/funding.20.26.20users.html) (1 message, latest: Feb 10 2021 at 17:40)
@@ -91,4 +92,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Apr 07 2021 at 15:14 UTC</p>
+<hr><p>Last updated: Apr 07 2021 at 15:44 UTC</p>

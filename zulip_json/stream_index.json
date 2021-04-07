@@ -910,7 +910,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 231596912,
+            "latest_id": 233513408,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -973,8 +973,8 @@
                     "size": 9
                 },
                 "CLAIRE/AIHub - AI for Good series": {
-                    "latest_date": 1614668129,
-                    "size": 5
+                    "latest_date": 1617809201,
+                    "size": 6
                 },
                 "CLAIRE/International": {
                     "latest_date": 1570793379,
@@ -1174,6 +1174,10 @@
                 },
                 "Seed funding for long-term AGI project": {
                     "latest_date": 1583089118,
+                    "size": 1
+                },
+                "Stop Calling Everything AI, Machine-Learning Pioneer Says": {
+                    "latest_date": 1617810236,
                     "size": 1
                 },
                 "Stream CLAIRE/FR": {
@@ -1467,5 +1471,5 @@
             }
         }
     },
-    "time": 1617808490.133593
+    "time": 1617810294.699984
 }
