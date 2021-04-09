@@ -484,7 +484,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 233289864,
+            "latest_id": 233839169,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -572,6 +572,10 @@
                 },
                 "CALL FOR SPEAKERS  -  AI4HEALTH 2021 Lecture Series": {
                     "latest_date": 1611252094,
+                    "size": 1
+                },
+                "CFP: International Workshop on AI for Spacecraft": {
+                    "latest_date": 1617981035,
                     "size": 1
                 },
                 "CLAIRE community event at ECAI 2020": {
@@ -1471,5 +1475,5 @@
             }
         }
     },
-    "time": 1617980261.9749672
+    "time": 1617981272.1596398
 }
