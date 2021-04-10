@@ -484,7 +484,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 233839169,
+            "latest_id": 233941820,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -832,6 +832,10 @@
                 },
                 "Sixth Annual T.M.C. Asser Lecture on artificial intelligence": {
                     "latest_date": 1605000860,
+                    "size": 1
+                },
+                "Stanford HAI Fall conference on Policy & AI": {
+                    "latest_date": 1618047318,
                     "size": 1
                 },
                 "Summer School on Artificial Intelligence & Smart Health": {
@@ -1475,5 +1479,5 @@
             }
         }
     },
-    "time": 1618046761.9208214
+    "time": 1618047984.7952561
 }
