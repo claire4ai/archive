@@ -484,7 +484,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 233941820,
+            "latest_id": 234228539,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -533,6 +533,10 @@
                 "AI for Weather and Climate Extremes Workshop - Sweden": {
                     "latest_date": 1570181826,
                     "size": 2
+                },
+                "AI4EO: Cultural heritage protection": {
+                    "latest_date": 1618260855,
+                    "size": 1
                 },
                 "AI4EU Café - Georg Rehm - European Language Grid": {
                     "latest_date": 1614240463,
@@ -1479,5 +1483,5 @@
             }
         }
     },
-    "time": 1618260794.702122
+    "time": 1618261061.7017438
 }
