@@ -484,7 +484,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 234228539,
+            "latest_id": 234324744,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -888,6 +888,10 @@
                 },
                 "Workshop on Soft Law in Governance of AI": {
                     "latest_date": 1601553088,
+                    "size": 1
+                },
+                "Workshop: Disruptive Technologies in the Public Sector": {
+                    "latest_date": 1618320641,
                     "size": 1
                 },
                 "World Logic Day": {
@@ -1483,5 +1487,5 @@
             }
         }
     },
-    "time": 1618320220.842709
+    "time": 1618321789.359621
 }

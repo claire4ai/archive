@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Workshop: Disruptive Technologies in the Public Sector](topic/Workshop.3A.20Disruptive.20Technologies.20in.20the.20Public.20Sector.html) (1 message, latest: Apr 13 2021 at 13:30)
 * [AI4EO: Cultural heritage protection](topic/AI4EO.3A.20Cultural.20heritage.20protection.html) (1 message, latest: Apr 12 2021 at 20:54)
 * [Stanford HAI Fall conference on Policy & AI](topic/Stanford.20HAI.20Fall.20conference.20on.20Policy.20.26.20AI.html) (1 message, latest: Apr 10 2021 at 09:35)
 * [CFP: International Workshop on AI for Spacecraft](topic/CFP.3A.20International.20Workshop.20on.20AI.20for.20Spacecraft.html) (1 message, latest: Apr 09 2021 at 15:10)
@@ -118,4 +119,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Apr 13 2021 at 13:23 UTC</p>
+<hr><p>Last updated: Apr 13 2021 at 13:49 UTC</p>
