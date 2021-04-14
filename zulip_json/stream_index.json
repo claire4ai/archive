@@ -198,7 +198,7 @@
         },
         "CLAIRE/NL": {
             "id": 203255,
-            "latest_id": 220122983,
+            "latest_id": 234493126,
             "topic_data": {
                 "10 min Survey: Engineering Practices for ML Applications": {
                     "latest_date": 1608129608,
@@ -230,6 +230,10 @@
                 },
                 "PPSN XVI": {
                     "latest_date": 1598880221,
+                    "size": 1
+                },
+                "Post-doctoral researcher in computer science and AI": {
+                    "latest_date": 1618404956,
                     "size": 1
                 }
             }
@@ -1487,5 +1491,5 @@
             }
         }
     },
-    "time": 1618404867.137158
+    "time": 1618406527.2385192
 }

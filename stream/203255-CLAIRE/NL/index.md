@@ -9,6 +9,7 @@ permalink: /stream/203255-CLAIRE/NL/index.html
 
 ### Topics:
 
+* [Post-doctoral researcher in computer science and AI](topic/Post-doctoral.20researcher.20in.20computer.20science.20and.20AI.html) (1 message, latest: Apr 14 2021 at 12:55)
 * [10 min Survey: Engineering Practices for ML Applications](topic/10.20min.20Survey.3A.20Engineering.20Practices.20for.20ML.20Applications.html) (1 message, latest: Dec 16 2020 at 14:40)
 * [PPSN XVI](topic/PPSN.20XVI.html) (1 message, latest: Aug 31 2020 at 13:23)
 * [Humathon panel: The Future of Technology and Economy](topic/Humathon.20panel.3A.20The.20Future.20of.20Technology.20and.20Economy.html) (1 message, latest: Jul 27 2020 at 13:02)
@@ -18,4 +19,4 @@ permalink: /stream/203255-CLAIRE/NL/index.html
 * [Leiden University vacancies](topic/Leiden.20University.20vacancies.html) (2 messages, latest: Oct 11 2019 at 11:04)
 * [Funding opportunity](topic/Funding.20opportunity.html) (1 message, latest: Jul 24 2019 at 04:42)
 
-<hr><p>Last updated: Apr 14 2021 at 12:54 UTC</p>
+<hr><p>Last updated: Apr 14 2021 at 13:22 UTC</p>
