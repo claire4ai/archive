@@ -1264,7 +1264,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 231521799,
+            "latest_id": 234509036,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1332,6 +1332,10 @@
                 },
                 "Many PhD fellowships in Data Science at University of Oslo": {
                     "latest_date": 1601494861,
+                    "size": 1
+                },
+                "Open PhD position in the NL4XAI ITN MSCA Project": {
+                    "latest_date": 1618410900,
                     "size": 1
                 },
                 "Open Position @ Frankfurt Big Data Lab in AI and Ethics": {
@@ -1491,5 +1495,5 @@
             }
         }
     },
-    "time": 1618409647.1937532
+    "time": 1618410997.2944415
 }
