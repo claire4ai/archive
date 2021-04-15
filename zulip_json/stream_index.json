@@ -934,7 +934,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 233658272,
+            "latest_id": 234682887,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1078,6 +1078,10 @@
                 },
                 "German-Moroccan Cooperation in R&D and Innovation PMARS 202": {
                     "latest_date": 1608887926,
+                    "size": 1
+                },
+                "Graphcore Academic Programme": {
+                    "latest_date": 1618496038,
                     "size": 1
                 },
                 "Great success of CIIRC at the Championship in Autom. Reason.": {
@@ -1499,5 +1503,5 @@
             }
         }
     },
-    "time": 1618495044.2592964
+    "time": 1618496053.786964
 }
