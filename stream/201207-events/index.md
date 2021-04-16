@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [AI4EU Café - Holger Hoos - United in Diversity](topic/AI4EU.20Caf.C3.A9.20-.20Holger.20Hoos.20-.20United.20in.20Diversity.html) (1 message, latest: Apr 16 2021 at 05:49)
 * [European Vision for AI 2021](topic/European.20Vision.20for.20AI.202021.html) (5 messages, latest: Apr 15 2021 at 15:53)
 * [Workshop: Disruptive Technologies in the Public Sector](topic/Workshop.3A.20Disruptive.20Technologies.20in.20the.20Public.20Sector.html) (1 message, latest: Apr 13 2021 at 13:30)
 * [AI4EO: Cultural heritage protection](topic/AI4EO.3A.20Cultural.20heritage.20protection.html) (1 message, latest: Apr 12 2021 at 20:54)
@@ -120,4 +121,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Apr 16 2021 at 05:36 UTC</p>
+<hr><p>Last updated: Apr 16 2021 at 05:55 UTC</p>

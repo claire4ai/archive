@@ -488,7 +488,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 234702829,
+            "latest_id": 234798049,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -544,6 +544,10 @@
                 },
                 "AI4EU Café - Georg Rehm - European Language Grid": {
                     "latest_date": 1614240463,
+                    "size": 1
+                },
+                "AI4EU Café - Holger Hoos - United in Diversity": {
+                    "latest_date": 1618552144,
                     "size": 1
                 },
                 "AI4EU Café -TAILOR - Fredrik Heintz": {
@@ -1503,5 +1507,5 @@
             }
         }
     },
-    "time": 1618551382.692668
+    "time": 1618552500.9798467
 }
