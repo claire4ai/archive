@@ -18,7 +18,7 @@ permalink: /index.html
 
 * [CLAIRE news](stream/201957-CLAIRE-news/index.html) (36 topics)
 
-* [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (10 topics)
+* [CLAIRE/CZ](stream/203399-CLAIRE/CZ/index.html) (11 topics)
 
 * [CLAIRE/NL](stream/203255-CLAIRE/NL/index.html) (9 topics)
 
@@ -26,4 +26,4 @@ permalink: /index.html
 
 * [random](stream/202125-random/index.html) (1 topic)
 
-<hr><p>Last updated: Apr 16 2021 at 07:55 UTC</p>
+<hr><p>Last updated: Apr 16 2021 at 08:17 UTC</p>

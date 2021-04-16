@@ -152,7 +152,7 @@
         },
         "CLAIRE/CZ": {
             "id": 203399,
-            "latest_id": 224302935,
+            "latest_id": 234812884,
             "topic_data": {
                 "#brAInfood series": {
                     "latest_date": 1611826594,
@@ -160,6 +160,10 @@
                 },
                 "AI Awards 2019": {
                     "latest_date": 1580199052,
+                    "size": 1
+                },
+                "AI in CZ, how to finance it?": {
+                    "latest_date": 1618560841,
                     "size": 1
                 },
                 "Analysis of AI in CZ and PL": {
@@ -1507,5 +1511,5 @@
             }
         }
     },
-    "time": 1618559719.82477
+    "time": 1618561050.9343574
 }
