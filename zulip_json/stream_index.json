@@ -492,7 +492,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 235298682,
+            "latest_id": 235600866,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -900,6 +900,10 @@
                 },
                 "Workshop on Artificial Intelligence in NMR, MRI Neuroscience": {
                     "latest_date": 1612878665,
+                    "size": 1
+                },
+                "Workshop on Imbalanced Domain Learning: Theory and Applicati": {
+                    "latest_date": 1619050027,
                     "size": 1
                 },
                 "Workshop on Soft Law in Governance of AI": {
@@ -1511,5 +1515,5 @@
             }
         }
     },
-    "time": 1619049868.6123374
+    "time": 1619054686.689172
 }
