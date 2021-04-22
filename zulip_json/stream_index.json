@@ -496,7 +496,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 235702824,
+            "latest_id": 235704666,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -872,6 +872,10 @@
                 },
                 "Symposium Global Perspectives on Responsible AI": {
                     "latest_date": 1593089290,
+                    "size": 1
+                },
+                "Symposium: Neuroscience Data Sharing and Standards": {
+                    "latest_date": 1619107789,
                     "size": 1
                 },
                 "TRUSTINAI - RESPONSIBLE AI FOR SCIENCE AND SOCIETY": {
@@ -1523,5 +1527,5 @@
             }
         }
     },
-    "time": 1619107466.740085
+    "time": 1619110913.842547
 }
