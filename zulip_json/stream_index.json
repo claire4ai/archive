@@ -958,7 +958,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 234682887,
+            "latest_id": 235751000,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1105,8 +1105,8 @@
                     "size": 1
                 },
                 "Graphcore Academic Programme": {
-                    "latest_date": 1618496038,
-                    "size": 1
+                    "latest_date": 1619126750,
+                    "size": 2
                 },
                 "Great success of CIIRC at the Championship in Autom. Reason.": {
                     "latest_date": 1597933924,
@@ -1527,5 +1527,5 @@
             }
         }
     },
-    "time": 1619126055.876609
+    "time": 1619127339.133631
 }

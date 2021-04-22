@@ -9,7 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
-* [Graphcore Academic Programme](topic/Graphcore.20Academic.20Programme.html) (1 message, latest: Apr 15 2021 at 14:13)
+* [Graphcore Academic Programme](topic/Graphcore.20Academic.20Programme.html) (2 messages, latest: Apr 22 2021 at 21:25)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (7 messages, latest: Apr 08 2021 at 14:08)
 * [Stop Calling Everything AI, Machine-Learning Pioneer Says](topic/Stop.20Calling.20Everything.20AI.2C.20Machine-Learning.20Pioneer.20Says.html) (1 message, latest: Apr 07 2021 at 15:43)
 * [Frontiers Topic: AI & Big Data for Emergency Preparedness](topic/Frontiers.20Topic.3A.20AI.20.26.20Big.20Data.20for.20Emergency.20Preparedness.html) (1 message, latest: Mar 24 2021 at 08:18)
@@ -93,4 +93,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: Apr 22 2021 at 21:14 UTC</p>
+<hr><p>Last updated: Apr 22 2021 at 21:35 UTC</p>
