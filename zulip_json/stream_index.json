@@ -492,7 +492,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 235600866,
+            "latest_id": 235625167,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -719,8 +719,8 @@
                     "size": 4
                 },
                 "European Vision for AI 2021": {
-                    "latest_date": 1618902824,
-                    "size": 6
+                    "latest_date": 1619072147,
+                    "size": 7
                 },
                 "Falling Walls Science Breakthroughs of the Year": {
                     "latest_date": 1604918406,
@@ -1515,5 +1515,5 @@
             }
         }
     },
-    "time": 1619071143.2251747
+    "time": 1619072224.8359485
 }
