@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [EPIA-2021 - Submission deadline (extended): April 30, 2021](topic/EPIA-2021.20-.20Submission.20deadline.20(extended).3A.20April.2030.2C.202021.html) (1 message, latest: Apr 22 2021 at 15:57)
 * [European Vision for AI 2021](topic/European.20Vision.20for.20AI.202021.html) (7 messages, latest: Apr 22 2021 at 06:15)
 * [Workshop on Imbalanced Domain Learning: Theory and Applicati](topic/Workshop.20on.20Imbalanced.20Domain.20Learning.3A.20Theory.20and.20Applicati.html) (1 message, latest: Apr 22 2021 at 00:07)
 * [AIDA Lecture Series](topic/AIDA.20Lecture.20Series.html) (5 messages, latest: Apr 16 2021 at 08:53)
@@ -122,4 +123,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Apr 22 2021 at 15:45 UTC</p>
+<hr><p>Last updated: Apr 22 2021 at 16:04 UTC</p>

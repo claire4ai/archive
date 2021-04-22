@@ -496,7 +496,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 235625167,
+            "latest_id": 235702824,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -688,6 +688,10 @@
                 },
                 "ECAI 2020 {print edition & open access ebook now online}": {
                     "latest_date": 1598882764,
+                    "size": 1
+                },
+                "EPIA-2021 - Submission deadline (extended): April 30, 2021": {
+                    "latest_date": 1619107059,
                     "size": 1
                 },
                 "ESA's Collision Avoidance Challenge.": {
@@ -1519,5 +1523,5 @@
             }
         }
     },
-    "time": 1619106339.7132437
+    "time": 1619107466.740085
 }
