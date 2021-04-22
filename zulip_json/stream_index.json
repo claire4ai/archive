@@ -244,7 +244,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 232894730,
+            "latest_id": 235660984,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -333,6 +333,10 @@
                 "Data sharing": {
                     "latest_date": 1591626518,
                     "size": 2
+                },
+                "EBRAINS call on COVID19-related impact on brain health": {
+                    "latest_date": 1619091705,
+                    "size": 1
                 },
                 "Free access to Standards related to Covid-19": {
                     "latest_date": 1585852805,
@@ -1515,5 +1519,5 @@
             }
         }
     },
-    "time": 1619090605.5660944
+    "time": 1619091742.6388035
 }
