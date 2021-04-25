@@ -496,7 +496,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 235704666,
+            "latest_id": 236085427,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -624,6 +624,10 @@
                 },
                 "Call for Participation: New Foundations for Human-Centered A": {
                     "latest_date": 1598267289,
+                    "size": 1
+                },
+                "Call for abstracts BioSB 2021!": {
+                    "latest_date": 1619376705,
                     "size": 1
                 },
                 "Call for contributions: Online conference “Space and AI”": {
@@ -1527,5 +1531,5 @@
             }
         }
     },
-    "time": 1619375291.7074292
+    "time": 1619377279.102529
 }

@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [Call for abstracts BioSB 2021!](topic/Call.20for.20abstracts.20BioSB.202021!.html) (1 message, latest: Apr 25 2021 at 18:51)
 * [Symposium: Neuroscience Data Sharing and Standards](topic/Symposium.3A.20Neuroscience.20Data.20Sharing.20and.20Standards.html) (1 message, latest: Apr 22 2021 at 16:09)
 * [EPIA-2021 - Submission deadline (extended): April 30, 2021](topic/EPIA-2021.20-.20Submission.20deadline.20(extended).3A.20April.2030.2C.202021.html) (1 message, latest: Apr 22 2021 at 15:57)
 * [European Vision for AI 2021](topic/European.20Vision.20for.20AI.202021.html) (7 messages, latest: Apr 22 2021 at 06:15)
@@ -124,4 +125,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Apr 25 2021 at 18:28 UTC</p>
+<hr><p>Last updated: Apr 25 2021 at 19:01 UTC</p>
