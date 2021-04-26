@@ -1300,7 +1300,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 234509036,
+            "latest_id": 236163298,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1364,6 +1364,10 @@
                 },
                 "Idiap/EPFL (Switzerland): 1 Postdoc position in ML": {
                     "latest_date": 1580223594,
+                    "size": 1
+                },
+                "Learning Innovation & Technology Lead position at IMD, Lausa": {
+                    "latest_date": 1619439602,
                     "size": 1
                 },
                 "Many PhD fellowships in Data Science at University of Oslo": {
@@ -1531,5 +1535,5 @@
             }
         }
     },
-    "time": 1619439587.622155
+    "time": 1619441973.1015844
 }

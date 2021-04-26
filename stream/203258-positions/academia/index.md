@@ -9,6 +9,7 @@ permalink: /stream/203258-positions/academia/index.html
 
 ### Topics:
 
+* [Learning Innovation & Technology Lead position at IMD, Lausa](topic/Learning.20Innovation.20.26.20Technology.20Lead.20position.20at.20IMD.2C.20Lausa.html) (1 message, latest: Apr 26 2021 at 12:20)
 * [Open PhD position in the NL4XAI ITN MSCA Project](topic/Open.20PhD.20position.20in.20the.20NL4XAI.20ITN.20MSCA.20Project.html) (1 message, latest: Apr 14 2021 at 14:35)
 * [Allen Institute launches fellowship for data scientists to s](topic/Allen.20Institute.20launches.20fellowship.20for.20data.20scientists.20to.20s.html) (1 message, latest: Mar 23 2021 at 18:42)
 * [PhD position in AI and cryptography at Plymouth, UK](topic/PhD.20position.20in.20AI.20and.20cryptography.20at.20Plymouth.2C.20UK.html) (1 message, latest: Mar 19 2021 at 19:07)
@@ -64,4 +65,4 @@ permalink: /stream/203258-positions/academia/index.html
 * [Tenure-track possitions at CIIRC CTU](topic/Tenure-track.20possitions.20at.20CIIRC.20CTU.html) (1 message, latest: Jul 31 2019 at 09:32)
 * [Research Fellowship at ESA](topic/Research.20Fellowship.20at.20ESA.html) (1 message, latest: Jul 17 2019 at 12:42)
 
-<hr><p>Last updated: Apr 26 2021 at 12:19 UTC</p>
+<hr><p>Last updated: Apr 26 2021 at 12:59 UTC</p>
