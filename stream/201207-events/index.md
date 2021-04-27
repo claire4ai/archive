@@ -9,12 +9,12 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [AIDA Lecture Series](topic/AIDA.20Lecture.20Series.html) (6 messages, latest: Apr 27 2021 at 06:59)
 * [Call for abstracts BioSB 2021!](topic/Call.20for.20abstracts.20BioSB.202021!.html) (1 message, latest: Apr 25 2021 at 18:51)
 * [Symposium: Neuroscience Data Sharing and Standards](topic/Symposium.3A.20Neuroscience.20Data.20Sharing.20and.20Standards.html) (1 message, latest: Apr 22 2021 at 16:09)
 * [EPIA-2021 - Submission deadline (extended): April 30, 2021](topic/EPIA-2021.20-.20Submission.20deadline.20(extended).3A.20April.2030.2C.202021.html) (1 message, latest: Apr 22 2021 at 15:57)
 * [European Vision for AI 2021](topic/European.20Vision.20for.20AI.202021.html) (7 messages, latest: Apr 22 2021 at 06:15)
 * [Workshop on Imbalanced Domain Learning: Theory and Applicati](topic/Workshop.20on.20Imbalanced.20Domain.20Learning.3A.20Theory.20and.20Applicati.html) (1 message, latest: Apr 22 2021 at 00:07)
-* [AIDA Lecture Series](topic/AIDA.20Lecture.20Series.html) (5 messages, latest: Apr 16 2021 at 08:53)
 * [AI4EU Café - Holger Hoos - United in Diversity](topic/AI4EU.20Caf.C3.A9.20-.20Holger.20Hoos.20-.20United.20in.20Diversity.html) (1 message, latest: Apr 16 2021 at 05:49)
 * [Workshop: Disruptive Technologies in the Public Sector](topic/Workshop.3A.20Disruptive.20Technologies.20in.20the.20Public.20Sector.html) (1 message, latest: Apr 13 2021 at 13:30)
 * [AI4EO: Cultural heritage protection](topic/AI4EO.3A.20Cultural.20heritage.20protection.html) (1 message, latest: Apr 12 2021 at 20:54)
@@ -125,4 +125,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: Apr 27 2021 at 06:49 UTC</p>
+<hr><p>Last updated: Apr 27 2021 at 07:07 UTC</p>
