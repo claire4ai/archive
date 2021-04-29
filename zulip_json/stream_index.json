@@ -496,7 +496,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 236626906,
+            "latest_id": 236722939,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -600,6 +600,10 @@
                 },
                 "CFP: International Workshop on AI for Spacecraft": {
                     "latest_date": 1617981035,
+                    "size": 1
+                },
+                "CLAIRE All Questions Answered (AQuA) - “European Excellen...": {
+                    "latest_date": 1619721154,
                     "size": 1
                 },
                 "CLAIRE community event at ECAI 2020": {
@@ -1539,5 +1543,5 @@
             }
         }
     },
-    "time": 1619719462.7211041
+    "time": 1619721858.129617
 }
