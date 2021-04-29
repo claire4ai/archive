@@ -496,7 +496,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 236533139,
+            "latest_id": 236626906,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -564,6 +564,10 @@
                 },
                 "AI4EU Webinars": {
                     "latest_date": 1605257749,
+                    "size": 1
+                },
+                "AI4Media Workshop on New Learning Paradigms & Distributed AI": {
+                    "latest_date": 1619678985,
                     "size": 1
                 },
                 "AI4People Summit, 1-2 December 2020": {
@@ -1535,5 +1539,5 @@
             }
         }
     },
-    "time": 1619678908.0619757
+    "time": 1619679930.9156957
 }
