@@ -9,6 +9,7 @@ permalink: /stream/201207-events/index.html
 
 ### Topics:
 
+* [EASSS 2021 -- Call for Applications](topic/EASSS.202021.20--.20Call.20for.20Applications.html) (1 message, latest: May 01 2021 at 17:43)
 * [CLAIRE All Questions Answered (AQuA) - “European Excellen...](topic/CLAIRE.20All.20Questions.20Answered.20(AQuA).20-.20.E2.80.9CEuropean.20Excellen.2E.2E.2E.html) (2 messages, latest: Apr 30 2021 at 15:13)
 * [AI4Media Workshop on New Learning Paradigms & Distributed AI](topic/AI4Media.20Workshop.20on.20New.20Learning.20Paradigms.20.26.20Distributed.20AI.html) (1 message, latest: Apr 29 2021 at 06:49)
 * [European Vision for AI 2021](topic/European.20Vision.20for.20AI.202021.html) (9 messages, latest: Apr 28 2021 at 15:59)
@@ -127,4 +128,4 @@ permalink: /stream/201207-events/index.html
 * [(no topic)](topic/(no.20topic).html) (1 message, latest: Aug 08 2019 at 11:54)
 * [Invitation to AI for Atmospheric Water Cycling Workshop](topic/Invitation.20to.20AI.20for.20Atmospheric.20Water.20Cycling.20Workshop.html) (1 message, latest: Jul 31 2019 at 09:26)
 
-<hr><p>Last updated: May 01 2021 at 17:16 UTC</p>
+<hr><p>Last updated: May 01 2021 at 18:00 UTC</p>

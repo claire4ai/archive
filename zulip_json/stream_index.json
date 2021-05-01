@@ -496,7 +496,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 236850933,
+            "latest_id": 236986301,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -688,6 +688,10 @@
                 },
                 "Digital ECAI2020": {
                     "latest_date": 1591630352,
+                    "size": 1
+                },
+                "EASSS 2021 -- Call for Applications": {
+                    "latest_date": 1619890997,
                     "size": 1
                 },
                 "EC infoday (Robotics and AI calls)": {
@@ -1543,5 +1547,5 @@
             }
         }
     },
-    "time": 1619889404.7699246
+    "time": 1619892046.364299
 }
