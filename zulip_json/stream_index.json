@@ -1312,7 +1312,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 236163298,
+            "latest_id": 237058025,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1458,6 +1458,10 @@
                     "latest_date": 1606660577,
                     "size": 1
                 },
+                "Post-Doc in Computational Intelligence in Genoa (Italy)": {
+                    "latest_date": 1619967587,
+                    "size": 1
+                },
                 "PostDocs and PhD positions in trustworthy AI": {
                     "latest_date": 1596005484,
                     "size": 1
@@ -1547,5 +1551,5 @@
             }
         }
     },
-    "time": 1619967291.2399786
+    "time": 1619968291.818323
 }
