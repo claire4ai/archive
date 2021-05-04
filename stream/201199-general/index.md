@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [post-doc vacancy](topic/post-doc.20vacancy.html) (2 messages, latest: May 04 2021 at 22:47)
 * [Graphcore Academic Programme](topic/Graphcore.20Academic.20Programme.html) (2 messages, latest: Apr 22 2021 at 21:25)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (7 messages, latest: Apr 08 2021 at 14:08)
 * [Stop Calling Everything AI, Machine-Learning Pioneer Says](topic/Stop.20Calling.20Everything.20AI.2C.20Machine-Learning.20Pioneer.20Says.html) (1 message, latest: Apr 07 2021 at 15:43)
@@ -84,7 +85,6 @@ permalink: /stream/201199-general/index.html
 * [Funding](topic/Funding.html) (2 messages, latest: Nov 04 2019 at 09:18)
 * [post-doc contract](topic/post-doc.20contract.html) (4 messages, latest: Oct 30 2019 at 11:11)
 * [Post-doctoral opportunity @ ESA to do research  on AI](topic/Post-doctoral.20opportunity.20.40.20ESA.20to.20do.20research.20.20on.20AI.html) (1 message, latest: Oct 29 2019 at 09:41)
-* [post-doc vacancy](topic/post-doc.20vacancy.html) (1 message, latest: Oct 16 2019 at 14:14)
 * [Collaboration on FABRIC](topic/Collaboration.20on.20FABRIC.html) (2 messages, latest: Oct 14 2019 at 08:22)
 * [CLAIRE/International](topic/CLAIRE.2FInternational.html) (25 messages, latest: Oct 11 2019 at 11:29)
 * [AI for Weather and Climate Extremes Workshop - Sweden](topic/AI.20for.20Weather.20and.20Climate.20Extremes.20Workshop.20-.20Sweden.html) (2 messages, latest: Oct 04 2019 at 10:25)
@@ -93,4 +93,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: May 04 2021 at 22:38 UTC</p>
+<hr><p>Last updated: May 04 2021 at 22:56 UTC</p>

@@ -974,7 +974,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 235751000,
+            "latest_id": 237412396,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1289,8 +1289,8 @@
                     "size": 4
                 },
                 "post-doc vacancy": {
-                    "latest_date": 1571235261,
-                    "size": 1
+                    "latest_date": 1620168425,
+                    "size": 2
                 },
                 "quant finance company seeking CLAIRE teams to work with": {
                     "latest_date": 1611152555,
@@ -1551,5 +1551,5 @@
             }
         }
     },
-    "time": 1620167928.7791777
+    "time": 1620169014.4140892
 }
