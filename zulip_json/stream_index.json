@@ -496,7 +496,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 236986301,
+            "latest_id": 237624596,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1565265244,
@@ -524,6 +524,10 @@
                 },
                 "4th Int. Summer School on Deep Learning (5-9.07.2021)": {
                     "latest_date": 1617701001,
+                    "size": 1
+                },
+                "AI & Data: How To Make The Marriage Work": {
+                    "latest_date": 1620290343,
                     "size": 1
                 },
                 "AI Ethics online: assessing Trustworthy AI in practice": {
@@ -1551,5 +1555,5 @@
             }
         }
     },
-    "time": 1620290262.442488
+    "time": 1620291327.6917605
 }
