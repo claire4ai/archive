@@ -9,6 +9,7 @@ permalink: /stream/201199-general/index.html
 
 ### Topics:
 
+* [10 surprising things that rely on artificial intelligence](topic/10.20surprising.20things.20that.20rely.20on.20artificial.20intelligence.html) (1 message, latest: May 06 2021 at 11:09)
 * [post-doc vacancy](topic/post-doc.20vacancy.html) (2 messages, latest: May 04 2021 at 22:47)
 * [Graphcore Academic Programme](topic/Graphcore.20Academic.20Programme.html) (2 messages, latest: Apr 22 2021 at 21:25)
 * [CLAIRE/AIHub - AI for Good series](topic/CLAIRE.2FAIHub.20-.20AI.20for.20Good.20series.html) (7 messages, latest: Apr 08 2021 at 14:08)
@@ -93,4 +94,4 @@ permalink: /stream/201199-general/index.html
 * [welcome](topic/welcome.html) (8 messages, latest: Jul 15 2019 at 07:35)
 * [CLAIRE/PT](topic/CLAIRE.2FPT.html) (1 message, latest: Jul 14 2019 at 18:42)
 
-<hr><p>Last updated: May 06 2021 at 11:09 UTC</p>
+<hr><p>Last updated: May 06 2021 at 11:30 UTC</p>
