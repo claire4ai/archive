@@ -496,8 +496,12 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 237624596,
+            "latest_id": 237816059,
             "topic_data": {
+                "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
+                    "latest_date": 1620391528,
+                    "size": 1
+                },
                 "(no topic)": {
                     "latest_date": 1565265244,
                     "size": 1
@@ -1559,5 +1563,5 @@
             }
         }
     },
-    "time": 1620389520.1559796
+    "time": 1620391830.3260462
 }
