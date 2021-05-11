@@ -9,6 +9,7 @@ permalink: /stream/226112-covid-19/index.html
 
 ### Topics:
 
+* [(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D](topic/(CfP).20ICCV.202021.20Workshop.20and.20Competition.3A.20MIA-COV19D.html) (1 message, latest: May 11 2021 at 08:51)
 * [EBRAINS call on COVID19-related impact on brain health](topic/EBRAINS.20call.20on.20COVID19-related.20impact.20on.20brain.20health.html) (1 message, latest: Apr 22 2021 at 11:41)
 * [Article: Common pitfalls and recommendations for using ma...](topic/Article.3A.20Common.20pitfalls.20and.20recommendations.20for.20using.20ma.2E.2E.2E.html) (1 message, latest: Apr 02 2021 at 12:47)
 * [Frontiers Topic: AI & Big Data for Emergency Preparedness](topic/Frontiers.20Topic.3A.20AI.20.26.20Big.20Data.20for.20Emergency.20Preparedness.html) (1 message, latest: Mar 24 2021 at 08:18)
@@ -61,4 +62,4 @@ permalink: /stream/226112-covid-19/index.html
 * [Can AI help with the Covid-19 crisis?](topic/Can.20AI.20help.20with.20the.20Covid-19.20crisis.3F.html) (1 message, latest: Mar 12 2020 at 22:38)
 * [stream events](topic/stream.20events.html) (1 message, latest: Mar 11 2020 at 17:33)
 
-<hr><p>Last updated: May 11 2021 at 08:38 UTC</p>
+<hr><p>Last updated: May 11 2021 at 08:57 UTC</p>
