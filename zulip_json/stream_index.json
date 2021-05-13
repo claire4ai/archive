@@ -986,7 +986,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 237640608,
+            "latest_id": 238676142,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1267,6 +1267,10 @@
                 "Stream CLAIRE/FR": {
                     "latest_date": 1574027050,
                     "size": 9
+                },
+                "Survey on expected breakthroughs in AI": {
+                    "latest_date": 1620937730,
+                    "size": 1
                 },
                 "The Right to Process Data for Machine Learning Purposes": {
                     "latest_date": 1595704176,
@@ -1567,5 +1571,5 @@
             }
         }
     },
-    "time": 1620936784.6394424
+    "time": 1620938229.2991736
 }
