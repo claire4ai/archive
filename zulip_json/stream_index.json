@@ -500,7 +500,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 238598587,
+            "latest_id": 238752302,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -617,6 +617,10 @@
                 "CLAIRE All Questions Answered (AQuA) - “European Excellen...": {
                     "latest_date": 1619795622,
                     "size": 2
+                },
+                "CLAIRE Offices 2021 Opening Roadshow": {
+                    "latest_date": 1620992013,
+                    "size": 1
                 },
                 "CLAIRE community event at ECAI 2020": {
                     "latest_date": 1599202303,
@@ -1571,5 +1575,5 @@
             }
         }
     },
-    "time": 1620990832.7446754
+    "time": 1620992303.9895353
 }
