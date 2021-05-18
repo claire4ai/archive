@@ -500,7 +500,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 238752302,
+            "latest_id": 239245141,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -619,8 +619,8 @@
                     "size": 2
                 },
                 "CLAIRE Offices 2021 Opening Roadshow": {
-                    "latest_date": 1620992013,
-                    "size": 1
+                    "latest_date": 1621341464,
+                    "size": 2
                 },
                 "CLAIRE community event at ECAI 2020": {
                     "latest_date": 1599202303,
@@ -1575,5 +1575,5 @@
             }
         }
     },
-    "time": 1621340175.0512934
+    "time": 1621342816.4244769
 }
