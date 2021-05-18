@@ -1336,7 +1336,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 237058025,
+            "latest_id": 239318103,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1542,6 +1542,10 @@
                     "latest_date": 1615882540,
                     "size": 1
                 },
+                "TU Munich - Professor  in »Ethics of AI in Neuroscience«": {
+                    "latest_date": 1621368672,
+                    "size": 1
+                },
                 "Tenure Track - Luxembourg Institute of Health": {
                     "latest_date": 1612456902,
                     "size": 1
@@ -1575,5 +1579,5 @@
             }
         }
     },
-    "time": 1621367765.60315
+    "time": 1621368761.8279893
 }
