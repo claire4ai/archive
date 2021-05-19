@@ -40,5 +40,11 @@
         "id": 238598587,
         "sender_full_name": "Anna Tahovská (CLAIRE Office, CZ)",
         "timestamp": 1620897227
+    },
+    {
+        "content": "<p>On behalf of <a href=\"https://www.vision4ai.eu/\">VISION Project</a>, I would like to invite you to one of the upcoming joint ICT48 activities under the <a href=\"http://www.i-aida.org/\">AIDA</a> AI Excellence Lecture Series:</p>\n<p><strong>Lecture by Prof. Isabelle Bloch: “Hybrid AI for knowledge representation and model-based medical image understanding”</strong></p>\n<p><span aria-label=\"calendar\" class=\"emoji emoji-1f4c5\" role=\"img\" title=\"calendar\">:calendar:</span> Tuesday <strong>June 8th, 2021, 17:00 – 18:00 CET</strong><br>\n<span aria-label=\"point right\" class=\"emoji emoji-1f449\" role=\"img\" title=\"point right\">:point_right:</span> Please use the following zoom link to attend the lecture: <a href=\"https://authgr.zoom.us/j/94165524933\">https://authgr.zoom.us/j/94165524933</a><br>\n<span aria-label=\"light bulb\" class=\"emoji emoji-1f4a1\" role=\"img\" title=\"light bulb\">:light_bulb:</span> Learn more about the lecture: <a href=\"http://www.i-aida.org/ai-lectures/#event\">http://www.i-aida.org/ai-lectures/#event</a></p>\n<p>Passcode: 148148<br>\nThe lecture is FREE!</p>\n<p>Abstract:<br>\nImage understanding benefits from the modeling of knowledge about both the scene observed and the objects it contains as well as their relationships. We show in this context the contribution of hybrid artificial intelligence, combining different types of formalisms and methods, and combining knowledge with data. Knowledge representation may rely on symbolic and qualitative approaches, as well as semi-qualitative ones to account for their imprecision or vagueness. Structural information can be modeled in several formalisms, such as graphs, ontologies, logical knowledge bases, or neural networks, on which reasoning will be based. The problem of image understanding is then expressed as a problem of spatial reasoning. These approaches will be illustrated with examples in medical imaging, illustrating the usefulness of combining several approaches.</p>",
+        "id": 239380238,
+        "sender_full_name": "Anna Tahovská (CLAIRE Office, CZ)",
+        "timestamp": 1621410176
     }
 ]
