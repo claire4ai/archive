@@ -500,7 +500,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 239380238,
+            "latest_id": 239608727,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -587,8 +587,8 @@
                     "size": 1
                 },
                 "AIDA Lecture Series": {
-                    "latest_date": 1621410176,
-                    "size": 8
+                    "latest_date": 1621523589,
+                    "size": 9
                 },
                 "ANNPR 2020: One week to go!": {
                     "latest_date": 1598978688,
@@ -1579,5 +1579,5 @@
             }
         }
     },
-    "time": 1621523560.7452593
+    "time": 1621525238.5988786
 }
