@@ -500,7 +500,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 241363417,
+            "latest_id": 241512139,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -576,6 +576,10 @@
                 },
                 "AI4EU Webinars": {
                     "latest_date": 1605257749,
+                    "size": 1
+                },
+                "AI4Media Junior Fellows Exchange program": {
+                    "latest_date": 1622799916,
                     "size": 1
                 },
                 "AI4Media Workshop on New Learning Paradigms & Distributed AI": {
@@ -1579,5 +1583,5 @@
             }
         }
     },
-    "time": 1622796137.0145571
+    "time": 1622801509.129684
 }
