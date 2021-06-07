@@ -500,7 +500,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 241539671,
+            "latest_id": 241743783,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -744,6 +744,10 @@
                 },
                 "Ethics of algorithmic decision-making in heal": {
                     "latest_date": 1588598510,
+                    "size": 1
+                },
+                "EurAI ACAI | Berlin 11-15 October 2021": {
+                    "latest_date": 1623054548,
                     "size": 1
                 },
                 "European AI Policy Conference - TOMORROW": {
@@ -1587,5 +1591,5 @@
             }
         }
     },
-    "time": 1623053666.3360572
+    "time": 1623059295.5608358
 }
