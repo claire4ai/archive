@@ -244,7 +244,7 @@
         },
         "covid-19": {
             "id": 226112,
-            "latest_id": 238272741,
+            "latest_id": 242036635,
             "topic_data": {
                 "#CodeVsCOVID19 Online Hackathon": {
                     "latest_date": 1585723682,
@@ -388,6 +388,10 @@
                 },
                 "OECD Webinar: AI and COVID-19 in Latin America": {
                     "latest_date": 1603371412,
+                    "size": 1
+                },
+                "Online event: Digital Tools for Covid19": {
+                    "latest_date": 1623230021,
                     "size": 1
                 },
                 "Online jounal club on Coronavirus models": {
@@ -1591,5 +1595,5 @@
             }
         }
     },
-    "time": 1623229438.0379443
+    "time": 1623230914.0065014
 }
