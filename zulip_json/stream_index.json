@@ -504,7 +504,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 242029098,
+            "latest_id": 242067390,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -756,6 +756,10 @@
                 },
                 "European AI Policy Conference - TOMORROW": {
                     "latest_date": 1606775564,
+                    "size": 1
+                },
+                "European Aviation  webinar: AI for cyber & cyber  for AI": {
+                    "latest_date": 1623246429,
                     "size": 1
                 },
                 "European IP  Webinar: IP and Artificial Intelligence": {
@@ -1595,5 +1599,5 @@
             }
         }
     },
-    "time": 1623245751.7148335
+    "time": 1623247396.437024
 }
