@@ -1356,7 +1356,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 239318103,
+            "latest_id": 242330739,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1502,6 +1502,10 @@
                     "latest_date": 1606660577,
                     "size": 1
                 },
+                "Post doc: ML Applied to Electric Battery Modelling": {
+                    "latest_date": 1623410133,
+                    "size": 1
+                },
                 "Post-Doc in Computational Intelligence in Genoa (Italy)": {
                     "latest_date": 1619967587,
                     "size": 1
@@ -1599,5 +1603,5 @@
             }
         }
     },
-    "time": 1623409813.4302115
+    "time": 1623410820.9177666
 }
