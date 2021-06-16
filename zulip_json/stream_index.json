@@ -504,7 +504,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 242334289,
+            "latest_id": 242891379,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -580,6 +580,10 @@
                 },
                 "AI4EU Webinars": {
                     "latest_date": 1605257749,
+                    "size": 1
+                },
+                "AI4EU/StairwAI Workshop\"How we can bring Value to your SME?\"": {
+                    "latest_date": 1623854833,
                     "size": 1
                 },
                 "AI4Media Junior Fellows Exchange program": {
@@ -1611,5 +1615,5 @@
             }
         }
     },
-    "time": 1623854451.7871058
+    "time": 1623854945.671905
 }
