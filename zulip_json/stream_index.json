@@ -1010,7 +1010,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 238676142,
+            "latest_id": 242838030,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1266,6 +1266,10 @@
                 },
                 "Public consultation on ethical guidance for AI & robotics": {
                     "latest_date": 1610376234,
+                    "size": 1
+                },
+                "Public consultation: OECD  Classification AI systems": {
+                    "latest_date": 1623827081,
                     "size": 1
                 },
                 "RF position at Huddersfield": {
@@ -1607,5 +1611,5 @@
             }
         }
     },
-    "time": 1623827079.7008455
+    "time": 1623828700.2056396
 }
