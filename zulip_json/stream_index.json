@@ -504,7 +504,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 244670579,
+            "latest_id": 244698221,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -916,6 +916,10 @@
                 },
                 "Sixth Annual T.M.C. Asser Lecture on artificial intelligence": {
                     "latest_date": 1605000860,
+                    "size": 1
+                },
+                "Space and AI 2021: Call for contributions": {
+                    "latest_date": 1625230766,
                     "size": 1
                 },
                 "Stanford HAI Fall conference on Policy & AI": {
@@ -1623,5 +1627,5 @@
             }
         }
     },
-    "time": 1625230349.6360402
+    "time": 1625231514.1148038
 }
