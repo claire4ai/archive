@@ -504,7 +504,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 243901698,
+            "latest_id": 244670579,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -940,6 +940,10 @@
                 },
                 "Talk: Preventing AI Abuse w/ Head of Facebook's AI Red Team": {
                     "latest_date": 1595408627,
+                    "size": 1
+                },
+                "Vilnius Machine Learning Workshop - 29-30 July 2021": {
+                    "latest_date": 1625212742,
                     "size": 1
                 },
                 "Virtual symposium: \"from Neu": {
@@ -1619,5 +1623,5 @@
             }
         }
     },
-    "time": 1625212559.528159
+    "time": 1625213553.1705718
 }
