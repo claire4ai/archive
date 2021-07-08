@@ -1022,7 +1022,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 242838030,
+            "latest_id": 245278796,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1323,6 +1323,10 @@
                 "User name template": {
                     "latest_date": 1567443213,
                     "size": 5
+                },
+                "VISION survey: mapping Centres  of AI Excellence and DIHs": {
+                    "latest_date": 1625728097,
+                    "size": 1
                 },
                 "Women in AI Awards": {
                     "latest_date": 1593171184,
@@ -1627,5 +1631,5 @@
             }
         }
     },
-    "time": 1625727434.9443805
+    "time": 1625728225.918912
 }
