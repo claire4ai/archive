@@ -504,7 +504,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 244698221,
+            "latest_id": 245859427,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -601,6 +601,10 @@
                 "AIDA Lecture Series": {
                     "latest_date": 1623225823,
                     "size": 10
+                },
+                "AISTATS 2022 - CFP - València": {
+                    "latest_date": 1626197573,
+                    "size": 1
                 },
                 "ANNPR 2020: One week to go!": {
                     "latest_date": 1598978688,
@@ -1631,5 +1635,5 @@
             }
         }
     },
-    "time": 1626196742.9702568
+    "time": 1626198097.414493
 }
