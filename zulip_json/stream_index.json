@@ -504,15 +504,15 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 245859427,
+            "latest_id": 245931338,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
                     "size": 1
                 },
                 "(no topic)": {
-                    "latest_date": 1565265244,
-                    "size": 1
+                    "latest_date": 1626250463,
+                    "size": 2
                 },
                 "12 EIS Conference session “AI for the Common Good”": {
                     "latest_date": 1607610291,
@@ -1635,5 +1635,5 @@
             }
         }
     },
-    "time": 1626250385.041952
+    "time": 1626251535.0187354
 }
