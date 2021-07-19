@@ -1380,7 +1380,7 @@
         },
         "positions/academia": {
             "id": 203258,
-            "latest_id": 244587705,
+            "latest_id": 246492640,
             "topic_data": {
                 "10 PhD+postdoc position on ML for Earth Sciences in Valencia": {
                     "latest_date": 1577137262,
@@ -1538,6 +1538,10 @@
                     "latest_date": 1619967587,
                     "size": 1
                 },
+                "Post-doc/pre-doc positions in Univ. Santiago de Compostela": {
+                    "latest_date": 1626718956,
+                    "size": 1
+                },
                 "PostDocs and PhD positions in trustworthy AI": {
                     "latest_date": 1596005484,
                     "size": 1
@@ -1635,5 +1639,5 @@
             }
         }
     },
-    "time": 1626718379.145709
+    "time": 1626719944.2399929
 }
