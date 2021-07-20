@@ -504,7 +504,7 @@
         },
         "events": {
             "id": 201207,
-            "latest_id": 245931338,
+            "latest_id": 246617236,
             "topic_data": {
                 "(CfP) ICCV 2021 Workshop and Competition: MIA-COV19D": {
                     "latest_date": 1620391528,
@@ -556,6 +556,10 @@
                 },
                 "AI and global challenges: A discussion w/ J Schmidhuber": {
                     "latest_date": 1584007016,
+                    "size": 1
+                },
+                "AI applications for evidence management - survey": {
+                    "latest_date": 1626799345,
                     "size": 1
                 },
                 "AI for Weather and Climate Extremes Workshop - Sweden": {
@@ -1639,5 +1643,5 @@
             }
         }
     },
-    "time": 1626797691.749037
+    "time": 1626800151.2488549
 }
