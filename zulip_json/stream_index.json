@@ -1030,7 +1030,7 @@
         },
         "general": {
             "id": 201199,
-            "latest_id": 245683905,
+            "latest_id": 247072582,
             "topic_data": {
                 "(no topic)": {
                     "latest_date": 1602346237,
@@ -1095,6 +1095,10 @@
                 "CLAIRE Compute Cluster?": {
                     "latest_date": 1578572801,
                     "size": 9
+                },
+                "CLAIRE move from Zulip to Mattermost - activate your account": {
+                    "latest_date": 1627130149,
+                    "size": 1
                 },
                 "CLAIRE/AIHub - AI for Good series": {
                     "latest_date": 1626095621,
@@ -1643,5 +1647,5 @@
             }
         }
     },
-    "time": 1627128869.8015966
+    "time": 1627131099.3207064
 }
